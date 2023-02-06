@@ -1,10 +1,10 @@
-## CommonLibSSE (`powerof3`)
+## CommonLibSSE (powerof3)
 
 This API documentation for `dev` branch of the `powerof3` fork of `CommonLibSSE`:
 
 https://github.com/powerof3/CommonLibSSE
 
-# About the `powerof3` fork
+# About the powerof3 fork
 
 Maintained by `powerof3` ([GitHub](https://github.com/powerof3), [Nexus](https://www.nexusmods.com/skyrimspecialedition/users/2148728)), this fork is where a lot of the action happens!
 
