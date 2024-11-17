@@ -6,7 +6,7 @@ https://github.com/powerof3/CommonLibSSE
 
 > Last Updated: TIMESTAMP_PLACEHOLDER
 >
-> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/COMMIT_SHA_PLACEHOLDER
+> Git revision: https://github.com/powerof3/CommonLibSSE/commit/COMMIT_SHA_PLACEHOLDER
 
 # About the powerof3 fork
 
