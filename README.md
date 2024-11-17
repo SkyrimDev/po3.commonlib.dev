@@ -4,6 +4,10 @@ This API documentation for `dev` branch of the `powerof3` fork of `CommonLibSSE`
 
 https://github.com/powerof3/CommonLibSSE
 
+> Last Updated: TIMESTAMP_PLACEHOLDER
+>
+> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/COMMIT_SHA_PLACEHOLDER
+
 # About the powerof3 fork
 
 Maintained by `powerof3` ([GitHub](https://github.com/powerof3), [Nexus](https://www.nexusmods.com/skyrimspecialedition/users/2148728)), this fork is where a lot of the action happens!
@@ -80,5 +84,5 @@ Created by [Mrowr Purr](https://github.com/mrowrpurr/) `<3`
 > Do you have a version of CommonLibSSE which other developers use?
 >
 > Do you want a generated website like this one? _Feel free to reach out!_
-> 
+>
 > **THANK YOU TO ALL CommonLibSSE CONTRIBUTORS IN THE COMMUNITY 🎈**
