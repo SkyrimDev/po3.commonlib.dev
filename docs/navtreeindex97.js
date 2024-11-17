@@ -1,5 +1,7 @@
 var NAVTREEINDEX97 =
 {
+"classRE_1_1ActorMagicCaster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5a6be435422da9df2bae8a3a2acf0333dd":[5,0,0,38,1,4],
+"classRE_1_1ActorMagicCaster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5a8f07911e68964bfe1514acfb1e7c95b3":[5,0,0,38,1,6],
 "classRE_1_1ActorMagicCaster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5ad8f729eb87661b2efd4c6941a276d0f3":[5,0,0,38,1,2],
 "classRE_1_1ActorMagicCaster.html#a8f60c6c9ecc2eb1d301cc5a6875d9fc5ae7274a5d87acebce8e6934ad561e9a9c":[5,0,0,38,1,3],
 "classRE_1_1ActorMagicCaster.html#a96f28694fc741576300439ba7e99503d":[5,0,0,38,23],
@@ -247,7 +249,5 @@ var NAVTREEINDEX97 =
 "classRE_1_1AnimationFileManagerSingleton.html#a97edcac32103833f26ef2df2111bdecd":[5,0,0,60,7],
 "classRE_1_1AnimationFileManagerSingleton.html#a9b15ae2db6585541166a810110534263":[5,0,0,60,13],
 "classRE_1_1AnimationFileManagerSingleton.html#aa17f72f08682b45ae1b9a292aa7a1b5d":[5,0,0,60,15],
-"classRE_1_1AnimationFileManagerSingleton.html#aa63b3ac651a4a8b0388f2b597b6755bf":[5,0,0,60,3],
-"classRE_1_1AnimationFileManagerSingleton.html#ad647f2628819d7f2e068a8fe4e67e516":[5,0,0,60,5],
-"classRE_1_1AnimationFileManagerSingleton.html#add29002678b993ab7465d65c2377d150":[5,0,0,60,11]
+"classRE_1_1AnimationFileManagerSingleton.html#aa63b3ac651a4a8b0388f2b597b6755bf":[5,0,0,60,3]
 };

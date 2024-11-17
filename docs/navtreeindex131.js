@@ -1,5 +1,7 @@
 var NAVTREEINDEX131 =
 {
+"classRE_1_1CombatInventoryItemMagic.html#aae2389a0dea100e33022b05c30768846":[5,0,0,596,16],
+"classRE_1_1CombatInventoryItemMagic.html#ab0b1b8ab657d696c361dfb3f5c0004ca":[5,0,0,596,17],
 "classRE_1_1CombatInventoryItemMagic.html#abf157545f3673310d5dc3714a52f2555":[5,0,0,596,15],
 "classRE_1_1CombatInventoryItemMagic.html#abf2566a2dd8acb88a7da056d53cbbc54":[5,0,0,596,19],
 "classRE_1_1CombatInventoryItemMagic.html#abf88570fde8aff5662bf6d88b6810b3d":[5,0,0,596,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX131 =
 "classRE_1_1CombatState.html#a8af5c18955b60c465ab995880fed0f00":[5,0,0,622,23],
 "classRE_1_1CombatState.html#a8e4a8b70647f81ac769b5cf464f5212b":[5,0,0,622,24],
 "classRE_1_1CombatState.html#a94ec27370ccbe208d7bd31bfd4a46eae":[5,0,0,622,13],
-"classRE_1_1CombatState.html#a98e6b18cfbe360fbdeb3b1b95801a425":[5,0,0,622,3],
-"classRE_1_1CombatState.html#aa3703d5bc7988ec7465fa7eb83177407":[5,0,0,622,8],
-"classRE_1_1CombatState.html#aa7fb948e3532d05dddd3c7c86c331836":[5,0,0,622,9]
+"classRE_1_1CombatState.html#a98e6b18cfbe360fbdeb3b1b95801a425":[5,0,0,622,3]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX302 =
 {
+"structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a702311bf9e1434456d19b79fe9fc20a1":[5,0,0,386,0,0,23],
+"structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a71435ab0c98b6b97435c7ac1b8c05e38":[5,0,0,386,0,0,85],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a720a29388c8ac4111d6a63ff328c09ab":[5,0,0,386,0,0,54],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a7553edd0508092c3e52fcaabd199b76a":[5,0,0,386,0,0,30],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a7a11876ec688e50cca676382a65283e4":[5,0,0,386,0,0,70],
@@ -247,7 +249,5 @@ var NAVTREEINDEX302 =
 "structRE_1_1BSPCOrbisGamepadDevice_1_1Keys.html#ad3d60a8587e6c0c1aa977d303710546ea4bf4e22b25dd5da220619f14deb488e9":[5,0,0,443,2,0,4],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1Keys.html#ad3d60a8587e6c0c1aa977d303710546ea56701bdf27c45a90ac3e7d64ee11fd34":[5,0,0,443,2,0,16],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1Keys.html#ad3d60a8587e6c0c1aa977d303710546ea616b6c34d8405c9bf58c8970fda38381":[5,0,0,443,2,0,15],
-"structRE_1_1BSPCOrbisGamepadDevice_1_1Keys.html#ad3d60a8587e6c0c1aa977d303710546ea6591020311d65e89062d8a118ad26713":[5,0,0,443,2,0,17],
-"structRE_1_1BSPCOrbisGamepadDevice_1_1Keys.html#ad3d60a8587e6c0c1aa977d303710546ea6dedffa03fa6ad26b3c4708ae21353f5":[5,0,0,443,2,0,5],
-"structRE_1_1BSPCOrbisGamepadDevice_1_1Keys.html#ad3d60a8587e6c0c1aa977d303710546ea73ec177b58c193f7ff67c8723d86706a":[5,0,0,443,2,0,14]
+"structRE_1_1BSPCOrbisGamepadDevice_1_1Keys.html#ad3d60a8587e6c0c1aa977d303710546ea6591020311d65e89062d8a118ad26713":[5,0,0,443,2,0,17]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX137 =
 {
+"classRE_1_1ExtraEditorRefMoveData.html#ac529b08421c30cb5078aeadc2572c26a":[5,0,0,735,4],
+"classRE_1_1ExtraEditorRefMoveData.html#af1112e07f52eca3f784fe43f353b88b8":[5,0,0,735,8],
 "classRE_1_1ExtraEmittanceSource.html":[5,0,0,736],
 "classRE_1_1ExtraEmittanceSource.html#a0eb718dad060c61c71dca7dce65787f5":[5,0,0,736,1],
 "classRE_1_1ExtraEmittanceSource.html#a0f0fe381a2ae5b8e4cddb899f6368b41":[5,0,0,736,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX137 =
 "classRE_1_1ExtraHorse.html":[5,0,0,762],
 "classRE_1_1ExtraHorse.html#a35a529c4ce3d45ca842d3b10cbc58146":[5,0,0,762,7],
 "classRE_1_1ExtraHorse.html#a58f2ba239e1e795c642b3d777c317372":[5,0,0,762,5],
-"classRE_1_1ExtraHorse.html#a7a97b10b02cb3384cc039f99726832c8":[5,0,0,762,1],
-"classRE_1_1ExtraHorse.html#a9685eeff584eea4b6ec7564acfb436e0":[5,0,0,762,4],
-"classRE_1_1ExtraHorse.html#aacd2843521c1ade12242e007dc7a8d1b":[5,0,0,762,6]
+"classRE_1_1ExtraHorse.html#a7a97b10b02cb3384cc039f99726832c8":[5,0,0,762,1]
 };

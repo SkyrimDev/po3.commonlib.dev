@@ -1,5 +1,7 @@
 var NAVTREEINDEX134 =
 {
+"classRE_1_1CreationClubMenu.html#acd9bce64365819efde1b4c4109f380be":[5,0,0,651,8],
+"classRE_1_1CreatureSounds.html":[5,0,0,1729],
 "classRE_1_1CreatureSounds.html#abe84cd9e1f96817b8e8f6938541173f3":[5,0,0,1729,0],
 "classRE_1_1CreditsMenu.html":[5,0,0,652],
 "classRE_1_1CreditsMenu.html#a0096257c7714cf906a52ef58d905a2d1":[5,0,0,652,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX134 =
 "classRE_1_1EnchantmentItem_1_1Data.html":[5,0,0,683,0],
 "classRE_1_1EnchantmentItem_1_1Data.html#a05b4b3772fbc51567deba1c49bf5148e":[5,0,0,683,0,8],
 "classRE_1_1EnchantmentItem_1_1Data.html#a073320667453a70a9a9408357f5c08d3":[5,0,0,683,0,7],
-"classRE_1_1EnchantmentItem_1_1Data.html#a0bdafe4ba631698601d04b4e8eaae856":[5,0,0,683,0,4],
-"classRE_1_1EnchantmentItem_1_1Data.html#a23630c62235ba683f288fc54ab1bffdc":[5,0,0,683,0,0],
-"classRE_1_1EnchantmentItem_1_1Data.html#a3b75bf9ee7acd980c04f6b5b784deb80":[5,0,0,683,0,5]
+"classRE_1_1EnchantmentItem_1_1Data.html#a0bdafe4ba631698601d04b4e8eaae856":[5,0,0,683,0,4]
 };

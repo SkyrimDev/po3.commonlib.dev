@@ -1,5 +1,7 @@
 var NAVTREEINDEX288 =
 {
+"namespaceRE_1_1Offset_1_1BGSFootstepManager.html#aac78c47e8a7bff4549b77346f667019d":[4,0,0,30,4,0],
+"namespaceRE_1_1Offset_1_1BGSListForm.html":[4,0,0,30,5],
 "namespaceRE_1_1Offset_1_1BGSListForm.html#aae251b7024b0171acedb288117465aa9":[4,0,0,30,5,0],
 "namespaceRE_1_1Offset_1_1BGSSaveLoadManager.html":[4,0,0,30,6],
 "namespaceRE_1_1Offset_1_1BGSSaveLoadManager.html#a5e74808a1b6674e72dfc6e84165fa525":[4,0,0,30,6,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX288 =
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html#aa84922b6d1b1656a3d7f04f64a39fb46":[4,0,0,30,82,2],
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html#ab75fa6b7f15acd77caa320fa07042fc1":[4,0,0,30,82,4],
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html#abd34881ea84c5f0f7f8b611229929639":[4,0,0,30,82,6],
-"namespaceRE_1_1Offset_1_1TESObjectREFR.html#aca4cc740af5edbdef0e52b500f6b7842":[4,0,0,30,82,3],
-"namespaceRE_1_1Offset_1_1TESObjectREFR.html#ae7a6baaf6babb2aaf2f43e4a95486a64":[4,0,0,30,82,5],
-"namespaceRE_1_1Offset_1_1TESQuest.html":[4,0,0,30,83]
+"namespaceRE_1_1Offset_1_1TESObjectREFR.html#aca4cc740af5edbdef0e52b500f6b7842":[4,0,0,30,82,3]
 };

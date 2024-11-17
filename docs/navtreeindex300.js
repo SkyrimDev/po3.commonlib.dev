@@ -1,5 +1,7 @@
 var NAVTREEINDEX300 =
 {
+"structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#a70d0e110b3d2c734fb01ec9e5d9cc60a":[5,0,0,228,0,4],
+"structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#a78d94fc6bfdcdb055768f9f1fa6aaffd":[5,0,0,228,0,3],
 "structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#a9dfc7e155ac657127a83830f31de8ef9":[5,0,0,228,0,2],
 "structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#ae31aca49554e195bf74b9f91756ecffa":[5,0,0,228,0,5],
 "structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#af34bcbd5e7617d74981cf0c2d7acb5d5":[5,0,0,228,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX300 =
 "structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#acd7426c12f42b9f9aea0448415fd3bf7":[5,0,0,335,0,5],
 "structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#adbfaca9decd52dcb82b5fc96908220f9":[5,0,0,335,0,4],
 "structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#aee105f24ff1c438bb24b3e98f312b44c":[5,0,0,335,0,2],
-"structRE_1_1BSBatchRenderer_1_1PassGroup.html":[5,0,0,335,1],
-"structRE_1_1BSBatchRenderer_1_1PassGroup.html#a00b1e598f392c92b08be3c5675c985fd":[5,0,0,335,1,0],
-"structRE_1_1BSBatchRenderer_1_1PassGroup.html#a7ad14652823018ddeccd876d80477456":[5,0,0,335,1,1]
+"structRE_1_1BSBatchRenderer_1_1PassGroup.html":[5,0,0,335,1]
 };

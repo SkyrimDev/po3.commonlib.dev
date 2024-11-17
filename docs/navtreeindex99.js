@@ -1,5 +1,7 @@
 var NAVTREEINDEX99 =
 {
+"classRE_1_1BGSAttackDataMap.html#a880309e965869e4a5d62e8e21f5dc08b":[5,0,0,96,0],
+"classRE_1_1BGSAttackDataMap.html#a885ea02716f241f79fcaf0a6235ebb90":[5,0,0,96,2],
 "classRE_1_1BGSBaseAlias.html":[5,0,0,97],
 "classRE_1_1BGSBaseAlias.html#a21193fcb2c8411591d7bedc763f3d866":[5,0,0,97,6],
 "classRE_1_1BGSBaseAlias.html#a22f9214b17c36c761643312b7efb11dc":[5,0,0,97,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX99 =
 "classRE_1_1BGSDecalEmitter.html#a4793d8b39198bc4d01bf679a2c1c08fc":[5,0,0,114,5],
 "classRE_1_1BGSDecalEmitter.html#af743b2b4f1f24c49faccef98ee0dea6b":[5,0,0,114,0],
 "classRE_1_1BGSDecalManager.html":[5,0,0,117],
-"classRE_1_1BGSDecalManager.html#a25e79077c8dfebf388ed9b42f75e9b2c":[5,0,0,117,5],
-"classRE_1_1BGSDecalManager.html#a271aa6a24b49cfc5a8d7d436c96860e4":[5,0,0,117,7],
-"classRE_1_1BGSDecalManager.html#a48700cd1aed69f8952f4eb4f84a83f3a":[5,0,0,117,2]
+"classRE_1_1BGSDecalManager.html#a25e79077c8dfebf388ed9b42f75e9b2c":[5,0,0,117,5]
 };

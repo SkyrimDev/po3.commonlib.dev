@@ -1,5 +1,7 @@
 var NAVTREEINDEX330 =
 {
+"structSKSE_1_1detail_1_1SKSEMessagingInterface.html#a5efdeda50fa0dd600db473f2910e2ec9":[5,0,3,0,2,0],
+"structSKSE_1_1detail_1_1SKSEMessagingInterface.html#abfe69f35fe03497cd71317744315c635":[5,0,3,0,2,2],
 "structSKSE_1_1detail_1_1SKSEMessagingInterface.html#ae592e53fa9706bebcb26531de0292c9c":[5,0,3,0,2,3],
 "structSKSE_1_1detail_1_1SKSEObjectInterface.html":[5,0,3,0,3],
 "structSKSE_1_1detail_1_1SKSEObjectInterface.html#a225acb22d7cafb1e35f75aaac19facc2":[5,0,3,0,3,2],

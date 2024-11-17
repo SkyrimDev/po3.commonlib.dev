@@ -1,5 +1,7 @@
 var NAVTREEINDEX165 =
 {
+"classRE_1_1NiAllocator.html#ac5f418154b6ee6186f55147fd670a321":[5,0,0,1416,3],
+"classRE_1_1NiAllocator.html#ac8419b54b6b9fc7dca8ceacd88e3f2e4":[5,0,0,1416,9],
 "classRE_1_1NiAllocator.html#ace05ee60cdf9a1877971920a6e4926f3":[5,0,0,1416,6],
 "classRE_1_1NiAlphaProperty.html":[5,0,0,1417],
 "classRE_1_1NiAlphaProperty.html#a00b96dd429d1552c814512de10645f07":[5,0,0,1417,19],
@@ -247,7 +249,5 @@ var NAVTREEINDEX165 =
 "classRE_1_1NiColorA.html#a935a629d41c1a60db73d020f363b8bd6":[5,0,0,1431,20],
 "classRE_1_1NiColorA.html#a9ba22852c8644d16c8ebeaee5b6b3bfb":[5,0,0,1431,13],
 "classRE_1_1NiColorA.html#a9e77fddd3573c8b7f7269d3071d25570":[5,0,0,1431,7],
-"classRE_1_1NiColorA.html#ac0031d8279751ca2648bf98f4a1bca73":[5,0,0,1431,1],
-"classRE_1_1NiColorA.html#ac25e88bdbf866b3fed41a6a17f57f8ad":[5,0,0,1431,14],
-"classRE_1_1NiColorA.html#ac79ae4bbc67821bb7aaf86298fc6df64":[5,0,0,1431,8]
+"classRE_1_1NiColorA.html#ac0031d8279751ca2648bf98f4a1bca73":[5,0,0,1431,1]
 };

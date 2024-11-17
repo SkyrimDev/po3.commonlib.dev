@@ -1,5 +1,7 @@
 var NAVTREEINDEX307 =
 {
+"structRE_1_1CombatStyleGeneralData.html#a787a08a564ed0af9e57a42928c66bfb9":[5,0,0,1651,5],
+"structRE_1_1CombatStyleGeneralData.html#a90a499eaeee5122c2a6026ab80866841":[5,0,0,1651,6],
 "structRE_1_1CombatStyleGeneralData.html#a9122153e51fa04a13b0f88155bcb0dda":[5,0,0,1651,8],
 "structRE_1_1CombatStyleGeneralData.html#af1809d3c5591a44f6bbd828e71221b64":[5,0,0,1651,2],
 "structRE_1_1CombatStyleGeneralData.html#af90ae674c90b67648cc357f9b185e9fc":[5,0,0,1651,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX307 =
 "structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba29be1e8b50f580f24510c66524963f3a":[5,0,0,119,0,28],
 "structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba29e73b7df442a7b8c3782d77800191f2":[5,0,0,119,0,360],
 "structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba2a0c404c345cd7d4ae405ce21e903494":[5,0,0,119,0,38],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba2aebf75d51cd844b7cae56e24dbeea05":[5,0,0,119,0,287],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba2d10cd2334b761ae0d1221eabf4c7605":[5,0,0,119,0,119],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba2d21b9101b4f92327c2c3df930e5365c":[5,0,0,119,0,72]
+"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba2aebf75d51cd844b7cae56e24dbeea05":[5,0,0,119,0,287]
 };

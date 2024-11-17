@@ -1,5 +1,7 @@
 var NAVTREEINDEX98 =
 {
+"classRE_1_1AnimationFileManagerSingleton.html#ad647f2628819d7f2e068a8fe4e67e516":[5,0,0,60,5],
+"classRE_1_1AnimationFileManagerSingleton.html#add29002678b993ab7465d65c2377d150":[5,0,0,60,11],
 "classRE_1_1AnimationFileManagerSingleton.html#adf607baef93f1cebb5a0853afaa439cb":[5,0,0,60,12],
 "classRE_1_1AnimationFileManagerSingleton.html#ae52bf73c12d4eba104e51ae6974a1b06":[5,0,0,60,17],
 "classRE_1_1AnimationFileManagerSingleton.html#aebe3dfa8fe182180a9de41f83512efcd":[5,0,0,60,16],
@@ -247,7 +249,5 @@ var NAVTREEINDEX98 =
 "classRE_1_1BGSAttackDataMap.html":[5,0,0,96],
 "classRE_1_1BGSAttackDataMap.html#a126e0fe53af0cc8f79f3c4761245a746":[5,0,0,96,4],
 "classRE_1_1BGSAttackDataMap.html#a2335859d29f593718734da19fa6277ab":[5,0,0,96,1],
-"classRE_1_1BGSAttackDataMap.html#a3eabf86dc85a0f34172b63b9bce3a4e9":[5,0,0,96,3],
-"classRE_1_1BGSAttackDataMap.html#a880309e965869e4a5d62e8e21f5dc08b":[5,0,0,96,0],
-"classRE_1_1BGSAttackDataMap.html#a885ea02716f241f79fcaf0a6235ebb90":[5,0,0,96,2]
+"classRE_1_1BGSAttackDataMap.html#a3eabf86dc85a0f34172b63b9bce3a4e9":[5,0,0,96,3]
 };

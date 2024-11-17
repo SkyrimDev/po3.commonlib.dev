@@ -1,5 +1,7 @@
 var NAVTREEINDEX149 =
 {
+"classRE_1_1GFxSetBackgroundColor.html#a170c5eaa5959ad479d6339e979534cc7":[5,0,0,998,2],
+"classRE_1_1GFxSetBackgroundColor.html#a4bbc6106df37bff9bee306b435b34dd6":[5,0,0,998,0],
 "classRE_1_1GFxSetBackgroundColor.html#a75db39c76f905b6d5babe1829d716773":[5,0,0,998,1],
 "classRE_1_1GFxShapeBase.html":[5,0,0,999],
 "classRE_1_1GFxShapeBaseCharacterDef.html":[5,0,0,1000],
@@ -247,7 +249,5 @@ var NAVTREEINDEX149 =
 "classRE_1_1GFxStream.html#a198455435385dfa28a768e5ec298d4a2":[5,0,0,1012,10],
 "classRE_1_1GFxStream.html#a20c13cfd0aef75497e6a98b8ecdf1e39":[5,0,0,1012,6],
 "classRE_1_1GFxStream.html#a29d2054bbe87566c297d539e57f25abe":[5,0,0,1012,15],
-"classRE_1_1GFxStream.html#a3547f469dd1c5d7fade701204c04e1fb":[5,0,0,1012,17],
-"classRE_1_1GFxStream.html#a3b913f86e71d732d48910170d6d18a05":[5,0,0,1012,13],
-"classRE_1_1GFxStream.html#a3dc3bbbd154d769e98c44aa04ba5a4d8":[5,0,0,1012,24]
+"classRE_1_1GFxStream.html#a3547f469dd1c5d7fade701204c04e1fb":[5,0,0,1012,17]
 };

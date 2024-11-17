@@ -132,6 +132,12 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af1ab67fbb4cf770a10c429892aaa315e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a68847bc30b43f3a3f656db34e9885cfd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classREL_1_1Relocation.html#a303842fddec6fecb7a35a411c997d858">value_type</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classREL_1_1Relocation.html#a68847bc30b43f3a3f656db34e9885cfd">get</a> () const noexcept(std::is_nothrow_copy_constructible_v&lt; <a class="el" href="classREL_1_1Relocation.html#a303842fddec6fecb7a35a411c997d858">value_type</a> &gt;)</td></tr>
 <tr class="separator:a68847bc30b43f3a3f656db34e9885cfd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb48b0a9920723c52c807cfc6d24b64b"><td class="memTemplParams" colspan="2">template&lt;std::ptrdiff_t O = 0&gt; </td></tr>
+<tr class="memitem:adb48b0a9920723c52c807cfc6d24b64b"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classREL_1_1Relocation.html#adb48b0a9920723c52c807cfc6d24b64b">replace_func</a> (const std::size_t a_count, const std::uintptr_t a_dst) requires(std</td></tr>
+<tr class="separator:adb48b0a9920723c52c807cfc6d24b64b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad89d2672198cc38cccb0bd699e3dbdc8"><td class="memTemplParams" colspan="2">template&lt;std::ptrdiff_t O = 0, class F &gt; </td></tr>
+<tr class="memitem:ad89d2672198cc38cccb0bd699e3dbdc8"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classREL_1_1Relocation.html#ad89d2672198cc38cccb0bd699e3dbdc8">replace_func</a> (const std::size_t a_count, const F a_dst) requires(std</td></tr>
+<tr class="separator:ad89d2672198cc38cccb0bd699e3dbdc8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa433fada105a7a93824d0639a1171d25"><td class="memTemplParams" colspan="2">template&lt;std::integral U&gt; </td></tr>
 <tr class="memitem:aa433fada105a7a93824d0639a1171d25"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="classREL_1_1Relocation.html#aa433fada105a7a93824d0639a1171d25">write</a> (const U &amp;a_data) requires(std</td></tr>
 <tr class="separator:aa433fada105a7a93824d0639a1171d25"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -574,6 +580,86 @@ template&lt;class T  = std::uintptr_t&gt; </div>
   </td>
   <td class="mlabels-right">
 <span class="mlabels"><span class="mlabel">inline</span><span class="mlabel">constexpr</span><span class="mlabel">noexcept</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad89d2672198cc38cccb0bd699e3dbdc8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad89d2672198cc38cccb0bd699e3dbdc8">&#9670;&nbsp;</a></span>replace_func() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T  = std::uintptr_t&gt; </div>
+<div class="memtemplate">
+template&lt;std::ptrdiff_t O = 0, class F &gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="classREL_1_1Relocation.html">REL::Relocation</a>&lt; T &gt;::replace_func </td>
+          <td>(</td>
+          <td class="paramtype">const std::size_t&#160;</td>
+          <td class="paramname"><em>a_count</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const F&#160;</td>
+          <td class="paramname"><em>a_dst</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adb48b0a9920723c52c807cfc6d24b64b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adb48b0a9920723c52c807cfc6d24b64b">&#9670;&nbsp;</a></span>replace_func() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class T  = std::uintptr_t&gt; </div>
+<div class="memtemplate">
+template&lt;std::ptrdiff_t O = 0&gt; </div>
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="classREL_1_1Relocation.html">REL::Relocation</a>&lt; T &gt;::replace_func </td>
+          <td>(</td>
+          <td class="paramtype">const std::size_t&#160;</td>
+          <td class="paramname"><em>a_count</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::uintptr_t&#160;</td>
+          <td class="paramname"><em>a_dst</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">inline</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">

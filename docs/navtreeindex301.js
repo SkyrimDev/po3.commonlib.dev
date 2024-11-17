@@ -1,5 +1,7 @@
 var NAVTREEINDEX301 =
 {
+"structRE_1_1BSBatchRenderer_1_1PassGroup.html#a00b1e598f392c92b08be3c5675c985fd":[5,0,0,335,1,0],
+"structRE_1_1BSBatchRenderer_1_1PassGroup.html#a7ad14652823018ddeccd876d80477456":[5,0,0,335,1,1],
 "structRE_1_1BSBatchRenderer_1_1PersistentPassList.html":[5,0,0,335,2],
 "structRE_1_1BSBatchRenderer_1_1PersistentPassList.html#aa52e19a1e77d2e0abe1e5e58699f3365":[5,0,0,335,2,0],
 "structRE_1_1BSBatchRenderer_1_1PersistentPassList.html#af9e368c83d99c1cad7870081b1716905":[5,0,0,335,2,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX301 =
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a67a6e4f9774f77b78d6591ff7ec4d441":[5,0,0,386,0,0,7],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a6c7cb2bc82a02b2d4914742ceb76552a":[5,0,0,386,0,0,99],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a6d568632fff2fbf7580df22d12541644":[5,0,0,386,0,0,102],
-"structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a6ff02a6b2b44717bf5796a067f55b38b":[5,0,0,386,0,0,64],
-"structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a702311bf9e1434456d19b79fe9fc20a1":[5,0,0,386,0,0,23],
-"structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a71435ab0c98b6b97435c7ac1b8c05e38":[5,0,0,386,0,0,85]
+"structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a6ff02a6b2b44717bf5796a067f55b38b":[5,0,0,386,0,0,64]
 };

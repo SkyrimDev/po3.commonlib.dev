@@ -1,5 +1,7 @@
 var NAVTREEINDEX321 =
 {
+"structRE_1_1RagDollBone.html#a2187042a907bec7a7f8e0a4cb421af73":[5,0,0,825,0],
+"structRE_1_1RagDollBone.html#a57ceb9664fa85eafbac17ce2c9d673e9":[5,0,0,825,3],
 "structRE_1_1RagDollBone.html#a6472adc062e5d22ab6389441ea901931":[5,0,0,825,2],
 "structRE_1_1RagDollBone.html#ae956b8b7543faa370100cc978f7a2e18":[5,0,0,825,1],
 "structRE_1_1RagDollData.html":[5,0,0,826],
@@ -247,7 +249,5 @@ var NAVTREEINDEX321 =
 "structRE_1_1SkyrimVM_1_1WaitCall.html#a8b0c21e5dca3af463e5d686007ea85db":[5,0,0,1597,4,2],
 "structRE_1_1SkyrimVM_1_1WaitCall.html#ab741355fd193f8e98663489c18a4e959":[5,0,0,1597,4,1],
 "structRE_1_1SneakHandler.html":[5,0,0,1600],
-"structRE_1_1SneakHandler.html#a1db920a784be8a2f0ff0dd7470fb83d2":[5,0,0,1600,3],
-"structRE_1_1SneakHandler.html#a48afa4441f058e6183ab8c1fbc84e35e":[5,0,0,1600,1],
-"structRE_1_1SneakHandler.html#a8eed1dc0ea07341c8da10282cfbf892d":[5,0,0,1600,4]
+"structRE_1_1SneakHandler.html#a1db920a784be8a2f0ff0dd7470fb83d2":[5,0,0,1600,3]
 };

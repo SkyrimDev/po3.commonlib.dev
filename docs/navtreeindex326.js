@@ -1,5 +1,7 @@
 var NAVTREEINDEX326 =
 {
+"structRE_1_1TESSpellList_1_1SpellData.html#ae90f983aeec052befe56424f01868239":[5,0,0,1811,0,5],
+"structRE_1_1TESSpellList_1_1SpellData.html#aef734dbfee6feeffd58f61b3f05315fc":[5,0,0,1811,0,20],
 "structRE_1_1TESSwitchRaceCompleteEvent.html":[5,0,0,1812],
 "structRE_1_1TESSwitchRaceCompleteEvent.html#a811763c776fb4e18abf3dc572f003b28":[5,0,0,1812,0],
 "structRE_1_1TESTopicInfoEvent.html":[5,0,0,1819],
@@ -247,7 +249,5 @@ var NAVTREEINDEX326 =
 "structRE_1_1WORLD__MAP__DATA.html#a8557a687ec1ae520e464b5d55e0c639c":[5,0,0,1834,7],
 "structRE_1_1WORLD__MAP__DATA.html#a89f6f37a1d98c5d3c0ff0b2efc5a2f75":[5,0,0,1834,4],
 "structRE_1_1WORLD__MAP__DATA.html#aa7e6faa5552e09dae683955887606b55":[5,0,0,1834,1],
-"structRE_1_1WORLD__MAP__DATA.html#ac6261e995465621cc82d2adf5ade03b8":[5,0,0,1834,6],
-"structRE_1_1WORLD__MAP__DATA.html#accadc95ce052c8923a6c2056198c0263":[5,0,0,1834,5],
-"structRE_1_1WORLD__MAP__DATA.html#ae4a73c3f31f9e220a73b3baa68f214d9":[5,0,0,1834,3]
+"structRE_1_1WORLD__MAP__DATA.html#ac6261e995465621cc82d2adf5ade03b8":[5,0,0,1834,6]
 };

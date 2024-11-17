@@ -1,5 +1,7 @@
 var NAVTREEINDEX132 =
 {
+"classRE_1_1CombatState.html#aa3703d5bc7988ec7465fa7eb83177407":[5,0,0,622,8],
+"classRE_1_1CombatState.html#aa7fb948e3532d05dddd3c7c86c331836":[5,0,0,622,9],
 "classRE_1_1CombatState.html#ab79bb24af1be833d49273f6c4d539564":[5,0,0,622,21],
 "classRE_1_1CombatState.html#ac70ee9f243aa0996d2605234419f9d68":[5,0,0,622,4],
 "classRE_1_1CombatState.html#acf8e2b002c94ddb18e41dfbb02fd60a6":[5,0,0,622,27],
@@ -247,7 +249,5 @@ var NAVTREEINDEX132 =
 "classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html":[5,0,0,11,0],
 "classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a13c6a28b4791851d68bc400c95905e43":[5,0,0,11,0,6],
 "classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a18c76b91e57cc9749cf1a1e7f1d62089":[5,0,0,11,0,10],
-"classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a20d641e69436ab12886446cafab50e2c":[5,0,0,11,0,19],
-"classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a2f6d48a1ddfb45e37c18e3a658b8373b":[5,0,0,11,0,14],
-"classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a38b55e125595a14fb0ac443e471caa91":[5,0,0,11,0,17]
+"classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a20d641e69436ab12886446cafab50e2c":[5,0,0,11,0,19]
 };

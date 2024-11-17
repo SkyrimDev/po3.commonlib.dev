@@ -1,5 +1,7 @@
 var NAVTREEINDEX298 =
 {
+"structRE_1_1BGSEntryPoint_1_1ENTRY__POINTS.html":[5,0,0,133,0],
+"structRE_1_1BGSEntryPoint_1_1ENTRY__POINTS.html#a7404ca9cc722017aacf6699afeeeface":[5,0,0,133,0,0],
 "structRE_1_1BGSEntryPoint_1_1ENTRY__POINTS.html#a7404ca9cc722017aacf6699afeeefacea006a9d62f0caa9ffe10335c09c89d280":[5,0,0,133,0,0,59],
 "structRE_1_1BGSEntryPoint_1_1ENTRY__POINTS.html#a7404ca9cc722017aacf6699afeeefacea00c2205ada5512a07ece774d3ec65c05":[5,0,0,133,0,0,89],
 "structRE_1_1BGSEntryPoint_1_1ENTRY__POINTS.html#a7404ca9cc722017aacf6699afeeefacea0137eb8a243ef9a3ee3f87988a767b81":[5,0,0,133,0,0,84],
@@ -247,7 +249,5 @@ var NAVTREEINDEX298 =
 "structRE_1_1BGSMaterialObject_1_1FILE__DATA.html#af90d016670464e54744b6ca9f0ad6961":[5,0,0,177,0,2],
 "structRE_1_1BGSMaterialObject_1_1RecordFlags.html":[5,0,0,177,1],
 "structRE_1_1BGSMaterialObject_1_1RecordFlags.html#a80f2cfdf55e75f9504e4b380ab0df4a6":[5,0,0,177,1,0],
-"structRE_1_1BGSMaterialObject_1_1RecordFlags.html#a80f2cfdf55e75f9504e4b380ab0df4a6a1a0e875b8de8e75740b2c886049d5a84":[5,0,0,177,1,0,0],
-"structRE_1_1BGSMaterialObject_1_1RecordFlags.html#a80f2cfdf55e75f9504e4b380ab0df4a6af4b9425ca5f75c9f009241fbf016174f":[5,0,0,177,1,0,1],
-"structRE_1_1BGSMaterialType_1_1RecordFlags.html":[5,0,0,178,0]
+"structRE_1_1BGSMaterialObject_1_1RecordFlags.html#a80f2cfdf55e75f9504e4b380ab0df4a6a1a0e875b8de8e75740b2c886049d5a84":[5,0,0,177,1,0,0]
 };

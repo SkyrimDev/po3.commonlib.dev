@@ -1,5 +1,7 @@
 var NAVTREEINDEX157 =
 {
+"classRE_1_1IMovementDirectControl.html#a10f8a4fa3ea65ac300c584bd08fed8dc":[5,0,0,1301,1],
+"classRE_1_1IMovementDirectControl.html#a1b5c354ac69e3643a5487f848ab1a88a":[5,0,0,1301,10],
 "classRE_1_1IMovementDirectControl.html#a378fdba13e8d2fce6fee4a0eca11e429":[5,0,0,1301,6],
 "classRE_1_1IMovementDirectControl.html#a4fd9f382b6aa2d77fde7fea495be5ed9":[5,0,0,1301,5],
 "classRE_1_1IMovementDirectControl.html#a50e894539048795a6425af1506eb102f":[5,0,0,1301,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX157 =
 "classRE_1_1ImageSpaceManager.html#a63cfa09e979244d0fa6757953f4ba7a2a1b1e272d3718795618e2a6ad45a656cf":[5,0,0,1285,0,113],
 "classRE_1_1ImageSpaceManager.html#a63cfa09e979244d0fa6757953f4ba7a2a1c7c89867be80f156863258be4d45a80":[5,0,0,1285,0,9],
 "classRE_1_1ImageSpaceManager.html#a63cfa09e979244d0fa6757953f4ba7a2a1dad18f038ffbadee93f65ec1a9eb551":[5,0,0,1285,0,54],
-"classRE_1_1ImageSpaceManager.html#a63cfa09e979244d0fa6757953f4ba7a2a1dfbd20880940c66b854020738e60931":[5,0,0,1285,0,13],
-"classRE_1_1ImageSpaceManager.html#a63cfa09e979244d0fa6757953f4ba7a2a1e7dedd8fd26cbfdb95022bf0bd53116":[5,0,0,1285,0,76],
-"classRE_1_1ImageSpaceManager.html#a63cfa09e979244d0fa6757953f4ba7a2a1f027baef70677b1ff41b08706bc9771":[5,0,0,1285,0,83]
+"classRE_1_1ImageSpaceManager.html#a63cfa09e979244d0fa6757953f4ba7a2a1dfbd20880940c66b854020738e60931":[5,0,0,1285,0,13]
 };

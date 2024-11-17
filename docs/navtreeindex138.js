@@ -1,5 +1,7 @@
 var NAVTREEINDEX138 =
 {
+"classRE_1_1ExtraHorse.html#a9685eeff584eea4b6ec7564acfb436e0":[5,0,0,762,4],
+"classRE_1_1ExtraHorse.html#aacd2843521c1ade12242e007dc7a8d1b":[5,0,0,762,6],
 "classRE_1_1ExtraHorse.html#ab56d05eaecb5510ae57089c025a1c634":[5,0,0,762,2],
 "classRE_1_1ExtraHorse.html#ab8c78c22f635d0c9a871a1b8f6c43ee1":[5,0,0,762,3],
 "classRE_1_1ExtraHorse.html#af190ec1678b04219c77431dcea6d2431":[5,0,0,762,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX138 =
 "classRE_1_1ExtraNorthRotation.html#aa04ce369141d5a6f7482bf1767bfb811":[5,0,0,798,7],
 "classRE_1_1ExtraNorthRotation.html#aeb2dae80bf5f1da6956361c01e02586a":[5,0,0,798,3],
 "classRE_1_1ExtraObjectHealth.html":[5,0,0,799],
-"classRE_1_1ExtraObjectHealth.html#a12b7356a8844266420050688c585a5c8":[5,0,0,799,3],
-"classRE_1_1ExtraObjectHealth.html#a209b645fc7a1fa7b813262debe5d8f9c":[5,0,0,799,6],
-"classRE_1_1ExtraObjectHealth.html#a293f47b512580b69ba3a04aec0967de1":[5,0,0,799,0]
+"classRE_1_1ExtraObjectHealth.html#a12b7356a8844266420050688c585a5c8":[5,0,0,799,3]
 };

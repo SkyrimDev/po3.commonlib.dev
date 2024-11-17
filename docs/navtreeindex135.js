@@ -1,5 +1,7 @@
 var NAVTREEINDEX135 =
 {
+"classRE_1_1EnchantmentItem_1_1Data.html#a23630c62235ba683f288fc54ab1bffdc":[5,0,0,683,0,0],
+"classRE_1_1EnchantmentItem_1_1Data.html#a3b75bf9ee7acd980c04f6b5b784deb80":[5,0,0,683,0,5],
 "classRE_1_1EnchantmentItem_1_1Data.html#a5780cff03177213d5116d698c418b208":[5,0,0,683,0,6],
 "classRE_1_1EnchantmentItem_1_1Data.html#a5cb98b9b321f6ac2b0635b8bdaca4321":[5,0,0,683,0,2],
 "classRE_1_1EnchantmentItem_1_1Data.html#a65ba02289ce4c4905ba7eb6b85e78b49":[5,0,0,683,0,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX135 =
 "classRE_1_1ExtraCannotWear.html#ad781a07829df99761acd0eb3e7bbaaeb":[5,0,0,706,4],
 "classRE_1_1ExtraCannotWear.html#af2b33a0a28b948a946b2ac982eda24fc":[5,0,0,706,3],
 "classRE_1_1ExtraCannotWear.html#afc898e9a95f32acf66c84d6ba5e8e3ff":[5,0,0,706,0],
-"classRE_1_1ExtraCell3D.html":[5,0,0,708],
-"classRE_1_1ExtraCell3D.html#a07b5a9986f27449684d97d3552128f49":[5,0,0,708,1],
-"classRE_1_1ExtraCell3D.html#a68ba7199e9835927b31a374361afb756":[5,0,0,708,2]
+"classRE_1_1ExtraCell3D.html":[5,0,0,708]
 };

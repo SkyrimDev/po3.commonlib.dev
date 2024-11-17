@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"namespaceRE_1_1BSResource.html#acd4bd788064d177a918b78e3999c88a0a2d3404fbbb5ebc5a29a678187fdd8d23":[4,0,0,11,30,1],
+"namespaceRE_1_1BSResource.html#acd4bd788064d177a918b78e3999c88a0a374bf9ba57a441a600d65b212cf9d13c":[4,0,0,11,30,2],
 "namespaceRE_1_1BSScript.html":[4,0,0,12],
 "namespaceRE_1_1BSScript.html#a0016385613ef179dd107802d41de9d9c":[4,0,0,12,173],
 "namespaceRE_1_1BSScript.html#a05ecf08bf55dbc6a22f8fe3cc496f4ab":[4,0,0,12,134],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "namespaceRE_1_1Offset_1_1ActorEquipManager.html#ae1146f3c9b4fbf64733296bb82ed850c":[4,0,0,30,1,1],
 "namespaceRE_1_1Offset_1_1ActorValueOwner.html":[4,0,0,30,2],
 "namespaceRE_1_1Offset_1_1ActorValueOwner.html#a3f4c192ee429c80daba43d98e7e8784b":[4,0,0,30,2,0],
-"namespaceRE_1_1Offset_1_1BGSFootstepManager.html":[4,0,0,30,4],
-"namespaceRE_1_1Offset_1_1BGSFootstepManager.html#aac78c47e8a7bff4549b77346f667019d":[4,0,0,30,4,0],
-"namespaceRE_1_1Offset_1_1BGSListForm.html":[4,0,0,30,5]
+"namespaceRE_1_1Offset_1_1BGSFootstepManager.html":[4,0,0,30,4]
 };

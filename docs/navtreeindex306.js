@@ -1,5 +1,7 @@
 var NAVTREEINDEX306 =
 {
+"structRE_1_1CLASS__DATA.html#ad7d97cba1c53968fd99146d4a7d0db0b":[5,0,0,1647,5],
+"structRE_1_1CLASS__DATA.html#afcf7f988dacc09ca5b6556128148edee":[5,0,0,1647,7],
 "structRE_1_1CLASS__DATA_1_1AttributeWeights.html":[5,0,0,1647,0],
 "structRE_1_1CLASS__DATA_1_1AttributeWeights.html#a31eba9afcdf075754cdc69aa4e07a2e9":[5,0,0,1647,0,2],
 "structRE_1_1CLASS__DATA_1_1AttributeWeights.html#a72e7d0d0458bf4bbd31c32046f52eb40":[5,0,0,1647,0,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX306 =
 "structRE_1_1CombatStyleGeneralData.html#a05518a4cd354e1e8e88f3e878c53b80d":[5,0,0,1651,0],
 "structRE_1_1CombatStyleGeneralData.html#a0b232a5c4e98c62018e3d91e39a9ebc6":[5,0,0,1651,3],
 "structRE_1_1CombatStyleGeneralData.html#a555fb7bad38853495d603863f6041f8a":[5,0,0,1651,1],
-"structRE_1_1CombatStyleGeneralData.html#a6f93191119a378c2d4802b9c26a05c18":[5,0,0,1651,7],
-"structRE_1_1CombatStyleGeneralData.html#a787a08a564ed0af9e57a42928c66bfb9":[5,0,0,1651,5],
-"structRE_1_1CombatStyleGeneralData.html#a90a499eaeee5122c2a6026ab80866841":[5,0,0,1651,6]
+"structRE_1_1CombatStyleGeneralData.html#a6f93191119a378c2d4802b9c26a05c18":[5,0,0,1651,7]
 };

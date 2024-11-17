@@ -1,5 +1,7 @@
 var NAVTREEINDEX126 =
 {
+"classRE_1_1BSTSmartPointer.html#ad149997d7e0922413a309e81be2d1907":[5,0,0,556,17],
+"classRE_1_1BSTSmartPointer.html#ad9089d02a9490a1d1dc9ea021dbd723c":[5,0,0,556,14],
 "classRE_1_1BSTSmartPointer.html#ade8b2381041a364d4927d885ed93fc5e":[5,0,0,556,10],
 "classRE_1_1BSTSmartPointer.html#afe78ebca2af1eb6b75948a86786c4d12":[5,0,0,556,19],
 "classRE_1_1BSTStaticFreeList.html":[5,0,0,522],
@@ -247,7 +249,5 @@ var NAVTREEINDEX126 =
 "classRE_1_1BSTerrainEffect.html#a9ab7527d4a511c96ea9d1fe9ae6b74f5":[5,0,0,516,21],
 "classRE_1_1BSTerrainEffect.html#aa9920c0a4490e17884703910fa9a3eea":[5,0,0,516,2],
 "classRE_1_1BSTerrainEffect.html#acd2a6d1a163e223c31d61fab8d422575":[5,0,0,516,23],
-"classRE_1_1BSTerrainEffect.html#ad0f84b4401883d8d2537e55c270cde87":[5,0,0,516,6],
-"classRE_1_1BSTerrainEffect.html#ad2ff5a0a71eaf4a415949015f828057f":[5,0,0,516,15],
-"classRE_1_1BSTerrainEffect.html#ad64d327be8caefae917afee92b7403a6":[5,0,0,516,5]
+"classRE_1_1BSTerrainEffect.html#ad0f84b4401883d8d2537e55c270cde87":[5,0,0,516,6]
 };

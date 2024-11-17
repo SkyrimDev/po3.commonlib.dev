@@ -1,5 +1,7 @@
 var NAVTREEINDEX115 =
 {
+"classRE_1_1BSPCGamepadDeviceDelegate.html#a00d28864be7c9532801e0d2dcdf9e11b":[5,0,0,441,3],
+"classRE_1_1BSPCGamepadDeviceDelegate.html#a19914f4ad1beacde3eb8cf95019d68b2":[5,0,0,441,10],
 "classRE_1_1BSPCGamepadDeviceDelegate.html#a2ace30959998a26a3b6b9495ea21efbb":[5,0,0,441,5],
 "classRE_1_1BSPCGamepadDeviceDelegate.html#a39fc068993b1465d97e5c66f16d6cfa5":[5,0,0,441,9],
 "classRE_1_1BSPCGamepadDeviceDelegate.html#a488c434a33247f7c9ce8560d0c5a25ec":[5,0,0,441,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX115 =
 "classRE_1_1BSPortal.html#ac025c7f50a66bb54d641cf4eb4c615d4":[5,0,0,450,0],
 "classRE_1_1BSPortalGraph.html":[5,0,0,451],
 "classRE_1_1BSPortalGraph.html#a0f2dd7cd539c5c78b78fed2a8318827b":[5,0,0,451,9],
-"classRE_1_1BSPortalGraph.html#a1d02b6acae604207c18acd9c4d34170f":[5,0,0,451,8],
-"classRE_1_1BSPortalGraph.html#a1db4b799b230eb2165ccadd72a1fb4a6":[5,0,0,451,5],
-"classRE_1_1BSPortalGraph.html#a22dbd32a1c28a7812f577f79af1527a9":[5,0,0,451,2]
+"classRE_1_1BSPortalGraph.html#a1d02b6acae604207c18acd9c4d34170f":[5,0,0,451,8]
 };

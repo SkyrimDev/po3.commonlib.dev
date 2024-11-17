@@ -1,5 +1,7 @@
 var NAVTREEINDEX156 =
 {
+"classRE_1_1HitData.html#a12034fcf38f5ac0006bd682001b2806ba2e2591766ffdeddd437d10e2b7c6756f":[5,0,0,1082,0,2],
+"classRE_1_1HitData.html#a12034fcf38f5ac0006bd682001b2806ba33cd681c400471659050fe98025425d7":[5,0,0,1082,0,10],
 "classRE_1_1HitData.html#a12034fcf38f5ac0006bd682001b2806ba4f12b80ba39d2b38d89a7e729a95a5ba":[5,0,0,1082,0,7],
 "classRE_1_1HitData.html#a12034fcf38f5ac0006bd682001b2806ba5a20548c220f372fc701cae6de94040b":[5,0,0,1082,0,3],
 "classRE_1_1HitData.html#a12034fcf38f5ac0006bd682001b2806ba677d364e58f7576eb67cfa2cc52b1628":[5,0,0,1082,0,18],
@@ -247,7 +249,5 @@ var NAVTREEINDEX156 =
 "classRE_1_1IMovementControllerRegisterInterface.html#ade8fe7d10513f6d91d35ea092967e2bb":[5,0,0,1300,6],
 "classRE_1_1IMovementControllerRegisterInterface.html#af8c9e86ba5c6e65c85ccbf22cc0820e7":[5,0,0,1300,1],
 "classRE_1_1IMovementControllerRegisterInterface.html#afa764d0286ef5016df414c6fb34dc446":[5,0,0,1300,3],
-"classRE_1_1IMovementDirectControl.html":[5,0,0,1301],
-"classRE_1_1IMovementDirectControl.html#a10f8a4fa3ea65ac300c584bd08fed8dc":[5,0,0,1301,1],
-"classRE_1_1IMovementDirectControl.html#a1b5c354ac69e3643a5487f848ab1a88a":[5,0,0,1301,10]
+"classRE_1_1IMovementDirectControl.html":[5,0,0,1301]
 };

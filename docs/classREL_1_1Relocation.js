@@ -15,6 +15,8 @@ var classREL_1_1Relocation =
     [ "operator=", "classREL_1_1Relocation.html#ae1ffd8fb53704c918ba3afe1f3b7f30f", null ],
     [ "operator=", "classREL_1_1Relocation.html#aa0738b6f5d022f5ae0ab222cc5c270e2", null ],
     [ "operator=", "classREL_1_1Relocation.html#a3eacbac561ec8975c32a3c34157a4e17", null ],
+    [ "replace_func", "classREL_1_1Relocation.html#ad89d2672198cc38cccb0bd699e3dbdc8", null ],
+    [ "replace_func", "classREL_1_1Relocation.html#adb48b0a9920723c52c807cfc6d24b64b", null ],
     [ "write", "classREL_1_1Relocation.html#a01ab197ab8a008685bf87d6176952d73", null ],
     [ "write", "classREL_1_1Relocation.html#aa433fada105a7a93824d0639a1171d25", null ],
     [ "write_branch", "classREL_1_1Relocation.html#a1af08b068f6eb970b195b987233994ad", null ],

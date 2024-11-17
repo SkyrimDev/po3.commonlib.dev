@@ -1,5 +1,7 @@
 var NAVTREEINDEX148 =
 {
+"classRE_1_1GFxMovieView.html#ad1ecc0453890fab48e34f032b9d08016a4474eeffb101b2ba0dd6a6f07f42a15e":[5,0,0,975,3,3],
+"classRE_1_1GFxMovieView.html#ad1ecc0453890fab48e34f032b9d08016acc17556fbf4e76adb2e96bee87aaa812":[5,0,0,975,3,0],
 "classRE_1_1GFxMovieView.html#adc6d6848337c893da04204e431359b70":[5,0,0,975,9],
 "classRE_1_1GFxMovieView.html#add2cb6e40269cd27489bd2a08c8ad2ed":[5,0,0,975,50],
 "classRE_1_1GFxMovieView.html#af0f322bad35105876982835556371e1b":[5,0,0,975,7],
@@ -247,7 +249,5 @@ var NAVTREEINDEX148 =
 "classRE_1_1GFxResourceWeakLib.html#ab0f327aa971b425b3484ba6e644a754e":[5,0,0,997,4],
 "classRE_1_1GFxResourceWeakLib.html#af35c0b04718527dd503fb659933e04f0":[5,0,0,997,6],
 "classRE_1_1GFxResourceWeakLib.html#af88e091ea6e9db49d7b9a65ec645b573":[5,0,0,997,1],
-"classRE_1_1GFxSetBackgroundColor.html":[5,0,0,998],
-"classRE_1_1GFxSetBackgroundColor.html#a170c5eaa5959ad479d6339e979534cc7":[5,0,0,998,2],
-"classRE_1_1GFxSetBackgroundColor.html#a4bbc6106df37bff9bee306b435b34dd6":[5,0,0,998,0]
+"classRE_1_1GFxSetBackgroundColor.html":[5,0,0,998]
 };
