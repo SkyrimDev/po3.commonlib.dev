@@ -26,11 +26,6 @@ jobs:
                   fetch-depth: 0
                   submodules: recursive
 
-            - name: Reset README.md placeholders
-              run: |
-                  sed -i "s/> Last Updated: .*/> Last Updated: TIMESTAMP_PLACEHOLDER/g" README.md
-                  sed -i "s|> Git revision: https://github.com/.*|> Git revision: https://github.com/CharmedBaryon/CommonLibSSE-NG/commit/COMMIT_SHA_PLACEHOLDER|g" README.md
-
             - name: Fetch submodule latest commit
               run: |
                   cd ${{ env.SUBMODULE_PATH }}
@@ -53,17 +48,22 @@ jobs:
                     echo "UPDATED=true" >> $GITHUB_OUTPUT
                   fi
 
-            - name: Override update check if force_update is true
-              if: github.event.inputs.force_update == 'true'
-              run: echo "UPDATED=true" >> $GITHUB_OUTPUT
+            - name: Determine if we should proceed with the update
+              id: should_proceed
+              run: |
+                  if [ "${{ steps.check_submodule.outputs.UPDATED }}" == "true" ] || [ "${{ github.event.inputs.force_update }}" == "true" ]; then
+                    echo "PROCEED=true" >> $GITHUB_OUTPUT
+                  else
+                    echo "PROCEED=false" >> $GITHUB_OUTPUT
+                  fi
 
             - name: Update submodule
-              if: steps.check_submodule.outputs.UPDATED == 'true'
+              if: steps.should_proceed.outputs.PROCEED == 'true'
               run: |
                   git submodule update --remote ${{ env.SUBMODULE_PATH }}
 
             - name: Get submodule latest commit SHA
-              if: steps.check_submodule.outputs.UPDATED == 'true'
+              if: steps.should_proceed.outputs.PROCEED == 'true'
               id: get_submodule_sha
               run: |
                   SUBMODULE_SHA=$(git submodule status ${{ env.SUBMODULE_PATH }} | awk '{print $1}' | sed 's/^-//;s/^+//;s/^ //')
@@ -71,7 +71,7 @@ jobs:
                   echo "SUBMODULE_SHA=${SUBMODULE_SHA_SHORT}" >> $GITHUB_OUTPUT
 
             - name: Update README.md placeholders
-              if: steps.check_submodule.outputs.UPDATED == 'true'
+              if: steps.should_proceed.outputs.PROCEED == 'true'
               run: |
                   TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
                   SUBMODULE_SHA=${{ steps.get_submodule_sha.outputs.SUBMODULE_SHA }}
@@ -79,15 +79,15 @@ jobs:
                   sed -i "s/COMMIT_SHA_PLACEHOLDER/${SUBMODULE_SHA}/g" README.md
 
             - name: Install Doxygen
-              if: steps.check_submodule.outputs.UPDATED == 'true'
+              if: steps.should_proceed.outputs.PROCEED == 'true'
               run: sudo apt-get install -y doxygen
 
             - name: Run Doxygen
-              if: steps.check_submodule.outputs.UPDATED == 'true'
+              if: steps.should_proceed.outputs.PROCEED == 'true'
               run: doxygen Doxyfile
 
             - name: Commit and push changes
-              if: steps.check_submodule.outputs.UPDATED == 'true' && success()
+              if: steps.should_proceed.outputs.PROCEED == 'true' && success()
               run: |
                   git config user.name "GitHub Actions"
                   git config user.email "actions@github.com"
