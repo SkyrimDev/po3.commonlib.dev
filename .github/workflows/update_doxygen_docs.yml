@@ -91,6 +91,6 @@ jobs:
               run: |
                   git config user.name "GitHub Actions"
                   git config user.email "actions@github.com"
-                  git add ${{ env.SUBMODULE_PATH }} docs/ README.md
+                  git add ${{ env.SUBMODULE_PATH }} docs/
                   git commit -m "Updated docs to ${{ steps.get_submodule_sha.outputs.SUBMODULE_SHA }}"
                   git push
