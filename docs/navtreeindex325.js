@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"structRE_1_1TESObjectWEAP_1_1Data.html#aaf2696a4dcccd3aa10b070f888c88ec3":[5,0,0,1764,1,6],
 "structRE_1_1TESObjectWEAP_1_1Data.html#abb9ecf657a554502d12c02f6be465d2e":[5,0,0,1764,1,15],
 "structRE_1_1TESObjectWEAP_1_1Data.html#abcfc4a349ffb1850af8c3153a39f8c1d":[5,0,0,1764,1,7],
 "structRE_1_1TESObjectWEAP_1_1Data.html#ad6e7f50c66f5a1b5a776b8efd8d57881":[5,0,0,1764,1,18],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "structRE_1_1TESSpellList_1_1SpellData.html#abfacc99e6010c7b21a41678c1b77cc07":[5,0,0,1811,0,12],
 "structRE_1_1TESSpellList_1_1SpellData.html#ac5b5cca55f50f1a84e1c135158f9bff8":[5,0,0,1811,0,10],
 "structRE_1_1TESSpellList_1_1SpellData.html#ad0a542a81108a4061d57dc9f7c0c7598":[5,0,0,1811,0,14],
-"structRE_1_1TESSpellList_1_1SpellData.html#ad12ecf236665fe025b2c307fa65f7407":[5,0,0,1811,0,4],
-"structRE_1_1TESSpellList_1_1SpellData.html#ae628396ceb847ede4d6bf12cb3bf81a3":[5,0,0,1811,0,16]
+"structRE_1_1TESSpellList_1_1SpellData.html#ad12ecf236665fe025b2c307fa65f7407":[5,0,0,1811,0,4]
 };

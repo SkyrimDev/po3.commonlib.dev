@@ -167,9 +167,10 @@ var NAVTREEINDEX191 =
 "classRE_1_1TargetValueModifierEffect.html#ac96ec83c23711c7afbe9cd03aa9c23a3":[5,0,0,1619,1],
 "classRE_1_1TaskQueueInterface.html":[5,0,0,1620],
 "classRE_1_1TaskQueueInterface.html#a157865c51ab7d6ad728f4a0192168a83":[5,0,0,1620,7],
-"classRE_1_1TaskQueueInterface.html#a555ba54a0169162174b0b210a63af939":[5,0,0,1620,8],
+"classRE_1_1TaskQueueInterface.html#a555ba54a0169162174b0b210a63af939":[5,0,0,1620,9],
 "classRE_1_1TaskQueueInterface.html#a6ab6d4ab7f53230657438b60e4592d50":[5,0,0,1620,3],
 "classRE_1_1TaskQueueInterface.html#a9396ea9e1507573f70f502ede9c65d2c":[5,0,0,1620,2],
+"classRE_1_1TaskQueueInterface.html#a9e0b99e750db9fdd3b64d28c6207e9dd":[5,0,0,1620,8],
 "classRE_1_1TaskQueueInterface.html#aa859ae021ac070fff1308429ea27cdd4":[5,0,0,1620,5],
 "classRE_1_1TaskQueueInterface.html#ab88269b7af79119f18a0195b7ebd20d8":[5,0,0,1620,1],
 "classRE_1_1TaskQueueInterface.html#ad1ef1f0b4e965c3eae6cdd97d5f81dd2":[5,0,0,1620,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX191 =
 "classRE_1_1ThumbstickEvent.html#a5c54b516167b0451c63f02d4a8da5e1d":[5,0,0,1841,2],
 "classRE_1_1ThumbstickEvent.html#a5ff1247fc31575a590305679721c7023":[5,0,0,1841,5],
 "classRE_1_1ThumbstickEvent.html#a74779a4a997b83c1f2c95d36dbe9cda0":[5,0,0,1841,3],
-"classRE_1_1ThumbstickEvent.html#a77b9c14978a3424b991630ce72c28d16":[5,0,0,1841,6],
-"classRE_1_1ThumbstickEvent.html#aa3031d3f6844b746207685236cec9bf2":[5,0,0,1841,1]
+"classRE_1_1ThumbstickEvent.html#a77b9c14978a3424b991630ce72c28d16":[5,0,0,1841,6]
 };

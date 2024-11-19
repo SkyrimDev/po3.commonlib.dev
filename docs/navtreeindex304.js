@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"structRE_1_1BSScript_1_1ObjectTypeInfo_1_1NamedStateInfo.html":[5,0,0,7,82,3],
 "structRE_1_1BSScript_1_1ObjectTypeInfo_1_1NamedStateInfo.html#a021210f886317fd972d079833d8dc425":[5,0,0,7,82,3,2],
 "structRE_1_1BSScript_1_1ObjectTypeInfo_1_1NamedStateInfo.html#a590cf398e2f7e2016a0b85a3f236206c":[5,0,0,7,82,3,7],
 "structRE_1_1BSScript_1_1ObjectTypeInfo_1_1NamedStateInfo.html#a5cb76012dc6b45bf5541f462e23c6f10":[5,0,0,7,82,3,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8aa824609a8c511d10b4496d1d24761b3a":[5,0,0,494,0,0,2],
 "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8ae9618e1d837e3f47d12e665a51176041":[5,0,0,494,0,0,6],
 "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8afedc2a5c504bbde9e30d86523c2df86f":[5,0,0,494,0,0,4],
-"structRE_1_1BSSystemFileStorage_1_1Attributes.html#abaf16402462f36bfdef1d960a6f65bc0":[5,0,0,494,0,2],
-"structRE_1_1BSSystemFileStorage_1_1Attributes.html#ad1ca37a488dc6751ae26304b53d0c062":[5,0,0,494,0,3]
+"structRE_1_1BSSystemFileStorage_1_1Attributes.html#abaf16402462f36bfdef1d960a6f65bc0":[5,0,0,494,0,2]
 };

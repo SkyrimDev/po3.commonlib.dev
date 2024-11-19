@@ -1,5 +1,6 @@
 var NAVTREEINDEX313 =
 {
+"structRE_1_1GFxStatMovieViews.html#a6e25872c5733b2d32d17b92e971551d1a18e068a89b2613260dc35a52af170a12":[5,0,0,985,0,8],
 "structRE_1_1GFxStatMovieViews.html#a6e25872c5733b2d32d17b92e971551d1a1e7bcebdbeeb598e50bc85ee9a56a23e":[5,0,0,985,0,1],
 "structRE_1_1GFxStatMovieViews.html#a6e25872c5733b2d32d17b92e971551d1a30f45c05e31bb076427ed0c47ab9557e":[5,0,0,985,0,11],
 "structRE_1_1GFxStatMovieViews.html#a6e25872c5733b2d32d17b92e971551d1a3ae56007c4933c2a9f086380760723d4":[5,0,0,985,0,15],
@@ -248,6 +249,5 @@ var NAVTREEINDEX313 =
 "structRE_1_1GStatGroups.html#a4d9fa3ada19aaa42c6523cc2c1fc45a6a38180ed82c556cd01ac6a5c125339c86":[5,0,0,1063,0,21],
 "structRE_1_1GStatGroups.html#a4d9fa3ada19aaa42c6523cc2c1fc45a6a5dbf30b4559afc8f964e9231ec9646b3":[5,0,0,1063,0,5],
 "structRE_1_1GStatGroups.html#a4d9fa3ada19aaa42c6523cc2c1fc45a6a64f100e55daf65e05fa2866181fb6dbe":[5,0,0,1063,0,18],
-"structRE_1_1GStatGroups.html#a4d9fa3ada19aaa42c6523cc2c1fc45a6a6a98c6a4fff06eef16a0d4555bc2d832":[5,0,0,1063,0,8],
-"structRE_1_1GStatGroups.html#a4d9fa3ada19aaa42c6523cc2c1fc45a6a783151a17b3c10f63ee1af94efda03a2":[5,0,0,1063,0,20]
+"structRE_1_1GStatGroups.html#a4d9fa3ada19aaa42c6523cc2c1fc45a6a6a98c6a4fff06eef16a0d4555bc2d832":[5,0,0,1063,0,8]
 };

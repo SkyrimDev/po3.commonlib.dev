@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820aa29aca1ce64338b5635e846f590541a8":[5,0,0,1627,1,11],
 "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820aba49aa54143b24d2837d56ece4b14876":[5,0,0,1627,1,3],
 "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820ad11a0f9e492d6bca7859732ba5706b60":[5,0,0,1627,1,5],
 "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820ad6a54ead0655dbd060189710f07faf7b":[5,0,0,1627,1,10],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "structRE_1_1AttackBlockHandler.html#a184fd76a3b26bc57fecbd78bfde35abf":[5,0,0,70,14],
 "structRE_1_1AttackBlockHandler.html#a2b26ab83f5d3c56a9dd8a1cc9429b665":[5,0,0,70,9],
 "structRE_1_1AttackBlockHandler.html#a3b72e1988d940fe649e090dc2019f016":[5,0,0,70,22],
-"structRE_1_1AttackBlockHandler.html#a48f2f14b14d6a40a3e87704554d9d847":[5,0,0,70,7],
-"structRE_1_1AttackBlockHandler.html#a5b55f48ef730a1c6dc1a17aa75d3192d":[5,0,0,70,19]
+"structRE_1_1AttackBlockHandler.html#a48f2f14b14d6a40a3e87704554d9d847":[5,0,0,70,7]
 };

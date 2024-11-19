@@ -1,5 +1,6 @@
 var NAVTREEINDEX322 =
 {
+"structRE_1_1SneakHandler.html#a1db920a784be8a2f0ff0dd7470fb83d2":[5,0,0,1600,3],
 "structRE_1_1SneakHandler.html#a48afa4441f058e6183ab8c1fbc84e35e":[5,0,0,1600,1],
 "structRE_1_1SneakHandler.html#a8eed1dc0ea07341c8da10282cfbf892d":[5,0,0,1600,4],
 "structRE_1_1SneakHandler.html#a954b7a7f6bddd5ec7647be9885adc2ea":[5,0,0,1600,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX322 =
 "structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824":[5,0,0,1695,0],
 "structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824a4c1f40f3f6fa765ce3dae7ef38a49c3c":[5,0,0,1695,0,0],
 "structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824ac2477f77de6d38233af46d78ec777846":[5,0,0,1695,0,1],
-"structRE_1_1TESFurnitureEvent.html#acf20548079af788570cbcc007531f8b2":[5,0,0,1695,1],
-"structRE_1_1TESFurniture_1_1EntryPointData.html":[5,0,0,1694,0]
+"structRE_1_1TESFurnitureEvent.html#acf20548079af788570cbcc007531f8b2":[5,0,0,1695,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#a3a88dfca3f451d96ba7556150d0d7f25":[5,0,0,228,0,1],
 "structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#a70d0e110b3d2c734fb01ec9e5d9cc60a":[5,0,0,228,0,4],
 "structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#a78d94fc6bfdcdb055768f9f1fa6aaffd":[5,0,0,228,0,3],
 "structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html#a9dfc7e155ac657127a83830f31de8ef9":[5,0,0,228,0,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#ac645e519a65b5e38eabc0199940e8d48":[5,0,0,335,0,0],
 "structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#acd7426c12f42b9f9aea0448415fd3bf7":[5,0,0,335,0,5],
 "structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#adbfaca9decd52dcb82b5fc96908220f9":[5,0,0,335,0,4],
-"structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#aee105f24ff1c438bb24b3e98f312b44c":[5,0,0,335,0,2],
-"structRE_1_1BSBatchRenderer_1_1PassGroup.html":[5,0,0,335,1]
+"structRE_1_1BSBatchRenderer_1_1GeometryGroup.html#aee105f24ff1c438bb24b3e98f312b44c":[5,0,0,335,0,2]
 };

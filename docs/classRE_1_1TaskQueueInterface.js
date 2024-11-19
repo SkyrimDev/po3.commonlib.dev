@@ -8,5 +8,6 @@ var classRE_1_1TaskQueueInterface =
     [ "QueueNodeDetach", "classRE_1_1TaskQueueInterface.html#aa859ae021ac070fff1308429ea27cdd4", null ],
     [ "QueueRemoveSpell", "classRE_1_1TaskQueueInterface.html#ae6d8575ea6a59d814fe6a42ebdde1e40", null ],
     [ "QueueUpdateDestructibleObject", "classRE_1_1TaskQueueInterface.html#a157865c51ab7d6ad728f4a0192168a83", null ],
+    [ "QueueUpdateNiObject", "classRE_1_1TaskQueueInterface.html#a9e0b99e750db9fdd3b64d28c6207e9dd", null ],
     [ "ShouldUseTaskQueue", "classRE_1_1TaskQueueInterface.html#a555ba54a0169162174b0b210a63af939", null ]
 ];
