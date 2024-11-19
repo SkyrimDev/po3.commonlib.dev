@@ -1,5 +1,6 @@
 var NAVTREEINDEX179 =
 {
+"classRE_1_1SkyrimScript_1_1Profiler.html":[5,0,0,19,8],
 "classRE_1_1SkyrimScript_1_1Profiler.html#a0dcc52941fd40a5eec6d6892ffbdc693":[5,0,0,19,8,18],
 "classRE_1_1SkyrimScript_1_1Profiler.html#a2125546af79e962c199361eb6104dd47":[5,0,0,19,8,1],
 "classRE_1_1SkyrimScript_1_1Profiler.html#a320c5d66bc5a1616b3468f8b58e0feb2":[5,0,0,19,8,6],
@@ -248,6 +249,5 @@ var NAVTREEINDEX179 =
 "classRE_1_1SpellItem.html#abfc3694fd6c11966edb5a3b8fcc91c0e":[5,0,0,1604,5],
 "classRE_1_1SpellItem.html#ac14bfa6ee2365f94bd32f2957e148e46":[5,0,0,1604,24],
 "classRE_1_1SpellItem.html#ac17b52c8adc29520fa60731a5deee92e":[5,0,0,1604,31],
-"classRE_1_1SpellItem.html#acc0e579c4db76840ba0a07e03e500e2b":[5,0,0,1604,32],
-"classRE_1_1SpellItem.html#acd95419db0f45915b56a0d2b3fe7d328":[5,0,0,1604,10]
+"classRE_1_1SpellItem.html#acc0e579c4db76840ba0a07e03e500e2b":[5,0,0,1604,32]
 };

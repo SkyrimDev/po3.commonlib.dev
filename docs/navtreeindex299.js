@@ -1,5 +1,6 @@
 var NAVTREEINDEX299 =
 {
+"structRE_1_1BGSMaterialObject_1_1RecordFlags.html#a80f2cfdf55e75f9504e4b380ab0df4a6":[5,0,0,177,1,0],
 "structRE_1_1BGSMaterialObject_1_1RecordFlags.html#a80f2cfdf55e75f9504e4b380ab0df4a6a1a0e875b8de8e75740b2c886049d5a84":[5,0,0,177,1,0,0],
 "structRE_1_1BGSMaterialObject_1_1RecordFlags.html#a80f2cfdf55e75f9504e4b380ab0df4a6af4b9425ca5f75c9f009241fbf016174f":[5,0,0,177,1,0,1],
 "structRE_1_1BGSMaterialType_1_1RecordFlags.html":[5,0,0,178,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX299 =
 "structRE_1_1BGSReverbParameters_1_1ReverbParams.html#ad54006c5ddc227e7d8d6b119aa9f3c3f":[5,0,0,219,1,10],
 "structRE_1_1BGSReverbParameters_1_1ReverbParams.html#ad6946c9021c983adb7ea61619cb3f1f5":[5,0,0,219,1,4],
 "structRE_1_1BGSSaveLoadBuffer.html":[5,0,0,167],
-"structRE_1_1BGSSaveLoadBuffer.html#ab7cbf23d4f291463767cc189b5177543":[5,0,0,167,0],
-"structRE_1_1BGSSaveLoadManager_1_1SaveEntry.html":[5,0,0,228,0]
+"structRE_1_1BGSSaveLoadBuffer.html#ab7cbf23d4f291463767cc189b5177543":[5,0,0,167,0]
 };

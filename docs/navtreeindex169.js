@@ -1,5 +1,6 @@
 var NAVTREEINDEX169 =
 {
+"classRE_1_1NiObject.html#a717c0501a6d698f8c014c70cc393d5b9":[5,0,0,1461,27],
 "classRE_1_1NiObject.html#a79b379ff072b02078d450de0eca2188e":[5,0,0,1461,39],
 "classRE_1_1NiObject.html#a80be1fa6b7cebcf73e2b915ff38060a9":[5,0,0,1461,36],
 "classRE_1_1NiObject.html#a80e6d4820f5bec6ed34da455d7d0b454":[5,0,0,1461,22],
@@ -248,6 +249,5 @@ var NAVTREEINDEX169 =
 "classRE_1_1NiPoint2.html#a01c0fc049e669bb229e44d476f1237fd":[5,0,0,1468,13],
 "classRE_1_1NiPoint2.html#a060a12a73e3e2f880ec9fd0f077b0e59":[5,0,0,1468,9],
 "classRE_1_1NiPoint2.html#a0ccba4a5f9d526b562816e126478fe43":[5,0,0,1468,23],
-"classRE_1_1NiPoint2.html#a278a50bdeb124a3825124a30066588e5":[5,0,0,1468,3],
-"classRE_1_1NiPoint2.html#a27910d6308fa0b5222568051e20431db":[5,0,0,1468,2]
+"classRE_1_1NiPoint2.html#a278a50bdeb124a3825124a30066588e5":[5,0,0,1468,3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX152 =
 {
+"classRE_1_1GHashsetCachedNodeEntry.html#ad2e196bf5e030a79c7676d0852c78af1":[5,0,0,1024,3],
 "classRE_1_1GHashsetCachedNodeEntry.html#adc4247ce92234213d948e61decb5c328":[5,0,0,1024,11],
 "classRE_1_1GHashsetCachedNodeEntry.html#ae98dbd0266371409d99686313c728591":[5,0,0,1024,10],
 "classRE_1_1GHashsetEntry.html":[5,0,0,1025],
@@ -248,6 +249,5 @@ var NAVTREEINDEX152 =
 "classRE_1_1GMemoryHeap.html#aa7e9c6e7ca810268dc708b689ee97985":[5,0,0,1040,67],
 "classRE_1_1GMemoryHeap.html#aaa76101e0658c532382c99897c001307":[5,0,0,1040,16],
 "classRE_1_1GMemoryHeap.html#ab00bc78becaf796acd6eaf8f54c371ad":[5,0,0,1040,46],
-"classRE_1_1GMemoryHeap.html#ab11fdadf73007cf1371e5fa02928cd21":[5,0,0,1040,41],
-"classRE_1_1GMemoryHeap.html#ab3270d8f3b33580f6334ff3c2a04a093":[5,0,0,1040,21]
+"classRE_1_1GMemoryHeap.html#ab11fdadf73007cf1371e5fa02928cd21":[5,0,0,1040,41]
 };

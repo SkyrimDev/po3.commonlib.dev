@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"structRE_1_1CLASS__DATA.html#ac4cb5238f95b54cdcdd7d7644e2971cf":[5,0,0,1647,8],
 "structRE_1_1CLASS__DATA.html#ad73f3f275ea12c1c581beee9655d31e9":[5,0,0,1647,4],
 "structRE_1_1CLASS__DATA.html#ad7d97cba1c53968fd99146d4a7d0db0b":[5,0,0,1647,5],
 "structRE_1_1CLASS__DATA.html#afcf7f988dacc09ca5b6556128148edee":[5,0,0,1647,7],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "structRE_1_1CombatStyleGeneralData.html":[5,0,0,1651],
 "structRE_1_1CombatStyleGeneralData.html#a03b5c24eb26ff9f8b294401a39389e7b":[5,0,0,1651,4],
 "structRE_1_1CombatStyleGeneralData.html#a05518a4cd354e1e8e88f3e878c53b80d":[5,0,0,1651,0],
-"structRE_1_1CombatStyleGeneralData.html#a0b232a5c4e98c62018e3d91e39a9ebc6":[5,0,0,1651,3],
-"structRE_1_1CombatStyleGeneralData.html#a555fb7bad38853495d603863f6041f8a":[5,0,0,1651,1]
+"structRE_1_1CombatStyleGeneralData.html#a0b232a5c4e98c62018e3d91e39a9ebc6":[5,0,0,1651,3]
 };

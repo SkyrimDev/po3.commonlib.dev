@@ -1,5 +1,6 @@
 var NAVTREEINDEX289 =
 {
+"namespaceRE_1_1Offset_1_1TESObjectREFR.html#abd34881ea84c5f0f7f8b611229929639":[4,0,0,30,82,6],
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html#aca4cc740af5edbdef0e52b500f6b7842":[4,0,0,30,82,3],
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html#ae7a6baaf6babb2aaf2f43e4a95486a64":[4,0,0,30,82,5],
 "namespaceRE_1_1Offset_1_1TESQuest.html":[4,0,0,30,83],
@@ -208,8 +209,8 @@ var NAVTREEINDEX289 =
 "namespacemembers_eval_w.html":[4,1,5,5],
 "namespacemembers_eval_x.html":[4,1,5,6],
 "namespacemembers_f.html":[4,1,0,6],
-"namespacemembers_func.html":[4,1,1],
 "namespacemembers_func.html":[4,1,1,0],
+"namespacemembers_func.html":[4,1,1],
 "namespacemembers_func_a.html":[4,1,1,1],
 "namespacemembers_func_b.html":[4,1,1,2],
 "namespacemembers_func_c.html":[4,1,1,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX289 =
 "namespacemembers_s.html":[4,1,0,19],
 "namespacemembers_t.html":[4,1,0,20],
 "namespacemembers_type.html":[4,1,3],
-"namespacemembers_u.html":[4,1,0,21],
-"namespacemembers_v.html":[4,1,0,22]
+"namespacemembers_u.html":[4,1,0,21]
 };

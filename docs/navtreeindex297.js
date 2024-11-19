@@ -1,5 +1,6 @@
 var NAVTREEINDEX297 =
 {
+"structRE_1_1AttackBlockHandler.html#a48f2f14b14d6a40a3e87704554d9d847":[5,0,0,70,7],
 "structRE_1_1AttackBlockHandler.html#a5b55f48ef730a1c6dc1a17aa75d3192d":[5,0,0,70,19],
 "structRE_1_1AttackBlockHandler.html#a62c6dabe5fa6d0a2fe42448636ef8b34":[5,0,0,70,13],
 "structRE_1_1AttackBlockHandler.html#a6ca12f01ad77feb97caa91722d935a13":[5,0,0,70,20],
@@ -248,6 +249,5 @@ var NAVTREEINDEX297 =
 "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a26e77c4fcec60916cb82377ed0c168ccae5e37a8a8576cbdd63a868c564d771a3":[5,0,0,139,0,0,13],
 "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a26e77c4fcec60916cb82377ed0c168ccaeb80591115f579d6d75050d7c8e5205f":[5,0,0,139,0,0,0],
 "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a3a7bd798d978d44aed0f3c0ec3423f72":[5,0,0,139,0,4],
-"structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a959d8837ef71b9291a007065e8023aeb":[5,0,0,139,0,3],
-"structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a98f345bab64df5b7f1c481af02682814":[5,0,0,139,0,5]
+"structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a959d8837ef71b9291a007065e8023aeb":[5,0,0,139,0,3]
 };

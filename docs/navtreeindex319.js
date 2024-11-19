@@ -1,5 +1,6 @@
 var NAVTREEINDEX319 =
 {
+"structRE_1_1PACKAGE__DATA.html#adb8aede3f4800a1e465e5b58a17208fd":[5,0,0,1766,9],
 "structRE_1_1PACKAGE__DATA.html#af8e3f0c89291ea1221969c35c8fa3b25":[5,0,0,1766,1],
 "structRE_1_1PACKAGE__DATA.html#af8e3f0c89291ea1221969c35c8fa3b25a35c3ace1970663a16e5c65baa5941b13":[5,0,0,1766,1,0],
 "structRE_1_1PACKAGE__DATA.html#af8e3f0c89291ea1221969c35c8fa3b25a3f89ca47a04bb1085c8083fb8c90552d":[5,0,0,1766,1,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX319 =
 "structRE_1_1PositionPlayerEvent.html":[5,0,0,1545],
 "structRE_1_1PositionPlayerEvent.html#a84ea7bd297d9b34423677743c2a225f5":[5,0,0,1545,1],
 "structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563":[5,0,0,1545,0],
-"structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a3507169efc9b2f4ef26f74a8eecefa70":[5,0,0,1545,0,2],
-"structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a35a066c0e13328b52559d97ec54653e1":[5,0,0,1545,0,3]
+"structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a3507169efc9b2f4ef26f74a8eecefa70":[5,0,0,1545,0,2]
 };

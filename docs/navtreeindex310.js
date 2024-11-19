@@ -1,5 +1,6 @@
 var NAVTREEINDEX310 =
 {
+"structRE_1_1DismemberedLimb.html#aa33fc23019ca6b6f2644d6ace0247a5e":[5,0,0,729,3],
 "structRE_1_1DismemberedLimb.html#ab3b5c6d32314a286f47c19ca697a79a7":[5,0,0,729,2],
 "structRE_1_1DoorTeleportData.html":[5,0,0,859],
 "structRE_1_1DoorTeleportData.html#a3163f4250762f0908e5f24c46fe798e3":[5,0,0,859,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX310 =
 "structRE_1_1EffectShaderData.html#ae1ca0eb760c104047ae5b86e17f4f595":[5,0,0,1673,64],
 "structRE_1_1EffectShaderData.html#ae53d199b5b9da4781f9f662d68147165":[5,0,0,1673,87],
 "structRE_1_1EffectShaderData.html#ae819b47efdc9d3334993a0acb2d0575a":[5,0,0,1673,75],
-"structRE_1_1EffectShaderData.html#ae8478d73e9c554bbd0cf1520594e252b":[5,0,0,1673,83],
-"structRE_1_1EffectShaderData.html#ae84c5c14222ee4af14cb7c19f6aae8b0":[5,0,0,1673,34]
+"structRE_1_1EffectShaderData.html#ae8478d73e9c554bbd0cf1520594e252b":[5,0,0,1673,83]
 };

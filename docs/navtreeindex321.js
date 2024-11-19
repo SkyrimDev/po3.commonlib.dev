@@ -1,5 +1,6 @@
 var NAVTREEINDEX321 =
 {
+"structRE_1_1RagDollBone.html":[5,0,0,825],
 "structRE_1_1RagDollBone.html#a1e235b3bb381385893789c94fb1f527a":[5,0,0,825,4],
 "structRE_1_1RagDollBone.html#a2187042a907bec7a7f8e0a4cb421af73":[5,0,0,825,0],
 "structRE_1_1RagDollBone.html#a57ceb9664fa85eafbac17ce2c9d673e9":[5,0,0,825,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX321 =
 "structRE_1_1SkyrimVM_1_1WaitCall.html":[5,0,0,1597,4],
 "structRE_1_1SkyrimVM_1_1WaitCall.html#a70fc1a2a1498ae9312d5994d50946145":[5,0,0,1597,4,0],
 "structRE_1_1SkyrimVM_1_1WaitCall.html#a8b0c21e5dca3af463e5d686007ea85db":[5,0,0,1597,4,2],
-"structRE_1_1SkyrimVM_1_1WaitCall.html#ab741355fd193f8e98663489c18a4e959":[5,0,0,1597,4,1],
-"structRE_1_1SneakHandler.html":[5,0,0,1600]
+"structRE_1_1SkyrimVM_1_1WaitCall.html#ab741355fd193f8e98663489c18a4e959":[5,0,0,1597,4,1]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX132 =
 {
+"classRE_1_1CombatState.html#a98e6b18cfbe360fbdeb3b1b95801a425":[5,0,0,622,3],
 "classRE_1_1CombatState.html#aa3703d5bc7988ec7465fa7eb83177407":[5,0,0,622,8],
 "classRE_1_1CombatState.html#aa7fb948e3532d05dddd3c7c86c331836":[5,0,0,622,9],
 "classRE_1_1CombatState.html#ab79bb24af1be833d49273f6c4d539564":[5,0,0,622,21],
@@ -248,6 +249,5 @@ var NAVTREEINDEX132 =
 "classRE_1_1CraftingMenu.html#afec9116c0c38bd0df08a7ab34fd7b8ae":[5,0,0,646,1],
 "classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html":[5,0,0,11,0],
 "classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a13c6a28b4791851d68bc400c95905e43":[5,0,0,11,0,6],
-"classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a18c76b91e57cc9749cf1a1e7f1d62089":[5,0,0,11,0,10],
-"classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a20d641e69436ab12886446cafab50e2c":[5,0,0,11,0,19]
+"classRE_1_1CraftingSubMenus_1_1AlchemyMenu.html#a18c76b91e57cc9749cf1a1e7f1d62089":[5,0,0,11,0,10]
 };

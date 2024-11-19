@@ -1,5 +1,6 @@
 var NAVTREEINDEX130 =
 {
+"classRE_1_1Calendar.html#a113e6599d0bb548189dbb5a47b231889":[5,0,0,575,6],
 "classRE_1_1Calendar.html#a17f61a307f25273970b6b9c3876df3ee":[5,0,0,575,13],
 "classRE_1_1Calendar.html#a1c1f1e2a8391d8c79ec78bde09609df3":[5,0,0,575,9],
 "classRE_1_1Calendar.html#a2764dd886f850a454f2c1f9a2918b816":[5,0,0,575,26],
@@ -248,6 +249,5 @@ var NAVTREEINDEX130 =
 "classRE_1_1CombatInventoryItemMagic.html#a4eeae93571821a69cb155f3cc294c8c0":[5,0,0,596,0],
 "classRE_1_1CombatInventoryItemMagic.html#a511cefe248587368db7302023dd85887":[5,0,0,596,2],
 "classRE_1_1CombatInventoryItemMagic.html#a5acaa5a60d9694818695b7fd6a5f7576":[5,0,0,596,10],
-"classRE_1_1CombatInventoryItemMagic.html#a645ee70958287e79e4d6d40e61765751":[5,0,0,596,14],
-"classRE_1_1CombatInventoryItemMagic.html#a68feb996bb1ab0c0f7a7df9015ce57d2":[5,0,0,596,18]
+"classRE_1_1CombatInventoryItemMagic.html#a645ee70958287e79e4d6d40e61765751":[5,0,0,596,14]
 };

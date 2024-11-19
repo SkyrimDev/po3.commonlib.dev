@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"structRE_1_1TESNPC_1_1Skills.html#ae1e34c456e51c72093b534f28480fb9a":[5,0,0,1730,5,0],
 "structRE_1_1TESNPC_1_1Skills.html#aeee3665376527ca6378baa486c18e4c2":[5,0,0,1730,5,3],
 "structRE_1_1TESObjectACTI_1_1RecordFlags.html":[5,0,0,1732,0],
 "structRE_1_1TESObjectACTI_1_1RecordFlags.html#aa754c6b9f45b782c5c306a1fc0bd3f04":[5,0,0,1732,0,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "structRE_1_1TESObjectWEAP_1_1Data.html#aa1be2eadab1076c2ba51237f8660caf3aa1f3d4aeef20a7a0e8c88543085c053a":[5,0,0,1764,1,2,2],
 "structRE_1_1TESObjectWEAP_1_1Data.html#aa1be2eadab1076c2ba51237f8660caf3ac1899a9ac064900b7fa50ae02f342baa":[5,0,0,1764,1,2,3],
 "structRE_1_1TESObjectWEAP_1_1Data.html#aa1be2eadab1076c2ba51237f8660caf3ae15bc5d6f88c14a7b1f79714ab639c85":[5,0,0,1764,1,2,12],
-"structRE_1_1TESObjectWEAP_1_1Data.html#aa1be2eadab1076c2ba51237f8660caf3af2f9f1acb4fed90f193607b4002a31d8":[5,0,0,1764,1,2,8],
-"structRE_1_1TESObjectWEAP_1_1Data.html#aa1be2eadab1076c2ba51237f8660caf3af775beb380abd58b6b472686c3a8a0bf":[5,0,0,1764,1,2,9]
+"structRE_1_1TESObjectWEAP_1_1Data.html#aa1be2eadab1076c2ba51237f8660caf3af2f9f1acb4fed90f193607b4002a31d8":[5,0,0,1764,1,2,8]
 };

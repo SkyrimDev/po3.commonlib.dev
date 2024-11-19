@@ -1,5 +1,6 @@
 var NAVTREEINDEX139 =
 {
+"classRE_1_1ExtraObjectHealth.html#a12b7356a8844266420050688c585a5c8":[5,0,0,799,3],
 "classRE_1_1ExtraObjectHealth.html#a209b645fc7a1fa7b813262debe5d8f9c":[5,0,0,799,6],
 "classRE_1_1ExtraObjectHealth.html#a293f47b512580b69ba3a04aec0967de1":[5,0,0,799,0],
 "classRE_1_1ExtraObjectHealth.html#a3ec7efbb499be899b21f3ce491e1f1d3":[5,0,0,799,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX139 =
 "classRE_1_1ExtraRefrPath.html#a8acde33128ee889f02531862033828d2":[5,0,0,834,14],
 "classRE_1_1ExtraRefrPath.html#aa58de2264f8f05464382224fc31783fd":[5,0,0,834,0],
 "classRE_1_1ExtraRefrPath.html#aad3cf41b52d373dcc616d5af44e97f8c":[5,0,0,834,4],
-"classRE_1_1ExtraRefrPath.html#ab8409eaac5386c64573658fe011e5b6f":[5,0,0,834,6],
-"classRE_1_1ExtraRefrPath.html#ac082a08745e89e21595bfa5bf1a11e23":[5,0,0,834,1]
+"classRE_1_1ExtraRefrPath.html#ab8409eaac5386c64573658fe011e5b6f":[5,0,0,834,6]
 };

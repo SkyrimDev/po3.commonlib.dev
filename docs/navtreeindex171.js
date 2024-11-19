@@ -1,5 +1,6 @@
 var NAVTREEINDEX171 =
 {
+"classRE_1_1NiSourceTexture.html#a3451c766f39619f8e14ea38df2263772":[5,0,0,1485,14],
 "classRE_1_1NiSourceTexture.html#a47e21d2271cec5d238402117bd63674f":[5,0,0,1485,7],
 "classRE_1_1NiSourceTexture.html#a4be1a40242a37978fd438f6ea5196e82":[5,0,0,1485,1],
 "classRE_1_1NiSourceTexture.html#a4d7f224faee12a1aa7847bbe403aa34d":[5,0,0,1485,16],
@@ -248,6 +249,5 @@ var NAVTREEINDEX171 =
 "classRE_1_1NiTPointerMap.html#aa1c450ff5f397c8255f4944fabbe07c3":[5,0,0,1511,4],
 "classRE_1_1NiTPointerMap.html#aa44b6581f96141f9dd4fe792920bde8a":[5,0,0,1511,2],
 "classRE_1_1NiTPointerMap.html#afb9b0fa43e7a8e0e36f6e465aa5dfdb2":[5,0,0,1511,5],
-"classRE_1_1NiTPrimitiveArray.html":[5,0,0,1492],
-"classRE_1_1NiTPrimitiveArray.html#a08061ea506abe8849d36c3155f4274db":[5,0,0,1492,0]
+"classRE_1_1NiTPrimitiveArray.html":[5,0,0,1492]
 };
