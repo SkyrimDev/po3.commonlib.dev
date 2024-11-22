@@ -1,5 +1,7 @@
 var NAVTREEINDEX322 =
 {
+"structRE_1_1SkyrimVM_1_1WaitCall.html#a8b0c21e5dca3af463e5d686007ea85db":[5,0,0,1597,4,2],
+"structRE_1_1SkyrimVM_1_1WaitCall.html#ab741355fd193f8e98663489c18a4e959":[5,0,0,1597,4,1],
 "structRE_1_1SneakHandler.html":[5,0,0,1600],
 "structRE_1_1SneakHandler.html#a1db920a784be8a2f0ff0dd7470fb83d2":[5,0,0,1600,3],
 "structRE_1_1SneakHandler.html#a48afa4441f058e6183ab8c1fbc84e35e":[5,0,0,1600,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX322 =
 "structRE_1_1TESFurnitureEvent.html":[5,0,0,1695],
 "structRE_1_1TESFurnitureEvent.html#a5876ce2c191043f3b70a9b5a61f1be37":[5,0,0,1695,3],
 "structRE_1_1TESFurnitureEvent.html#a6b199c0b8d9117f5300b5e932152f4d8":[5,0,0,1695,2],
-"structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824":[5,0,0,1695,0],
-"structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824a4c1f40f3f6fa765ce3dae7ef38a49c3c":[5,0,0,1695,0,0],
-"structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824ac2477f77de6d38233af46d78ec777846":[5,0,0,1695,0,1]
+"structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824":[5,0,0,1695,0]
 };

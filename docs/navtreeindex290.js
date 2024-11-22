@@ -1,8 +1,10 @@
 var NAVTREEINDEX290 =
 {
+"namespacemembers_type.html":[4,1,3],
+"namespacemembers_u.html":[4,1,0,21],
 "namespacemembers_v.html":[4,1,0,22],
-"namespacemembers_vars.html":[4,1,2],
 "namespacemembers_vars.html":[4,1,2,0],
+"namespacemembers_vars.html":[4,1,2],
 "namespacemembers_vars_b.html":[4,1,2,1],
 "namespacemembers_vars_c.html":[4,1,2,2],
 "namespacemembers_vars_d.html":[4,1,2,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX290 =
 "structREX_1_1W32_1_1D3D11__QUERY__DESC.html":[5,0,2,0,33],
 "structREX_1_1W32_1_1D3D11__QUERY__DESC.html#a13e63701fab4d2d64b9d4c95a3bff2c6":[5,0,2,0,33,0],
 "structREX_1_1W32_1_1D3D11__QUERY__DESC.html#a49e21ee338191b2eda1ca72ef459302b":[5,0,2,0,33,1],
-"structREX_1_1W32_1_1D3D11__QUERY__DESC1.html":[5,0,2,0,123],
-"structREX_1_1W32_1_1D3D11__QUERY__DESC1.html#a63f0e867bcd862cb79acc9aaeb05aa6d":[5,0,2,0,123,0],
-"structREX_1_1W32_1_1D3D11__QUERY__DESC1.html#a97c5dcfa5449ed529966b91c0cc85c05":[5,0,2,0,123,1]
+"structREX_1_1W32_1_1D3D11__QUERY__DESC1.html":[5,0,2,0,123]
 };

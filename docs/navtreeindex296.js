@@ -1,5 +1,7 @@
 var NAVTREEINDEX296 =
 {
+"structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820a7771825a3d589ef636d0086f64e14559":[5,0,0,1627,1,6],
+"structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820a7c634993c000c2dcd1ad37d160de7ca6":[5,0,0,1627,1,14],
 "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820a9a6aefc081622082c01a486af083e44f":[5,0,0,1627,1,2],
 "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820aa29aca1ce64338b5635e846f590541a8":[5,0,0,1627,1,11],
 "structRE_1_1ACTOR__BASE__DATA.html#a8c182009d8c983e14e108ebf4e978820aba49aa54143b24d2837d56ece4b14876":[5,0,0,1627,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX296 =
 "structRE_1_1ArrowProjectile_1_1RecordFlags.html#a783f84f68ab57e207c6bc00d64d8bef7":[5,0,0,66,0,0],
 "structRE_1_1AttackBlockHandler.html":[5,0,0,70],
 "structRE_1_1AttackBlockHandler.html#a087a1565f7350b851817068ffc65e942":[5,0,0,70,18],
-"structRE_1_1AttackBlockHandler.html#a184fd76a3b26bc57fecbd78bfde35abf":[5,0,0,70,14],
-"structRE_1_1AttackBlockHandler.html#a2b26ab83f5d3c56a9dd8a1cc9429b665":[5,0,0,70,9],
-"structRE_1_1AttackBlockHandler.html#a3b72e1988d940fe649e090dc2019f016":[5,0,0,70,22]
+"structRE_1_1AttackBlockHandler.html#a184fd76a3b26bc57fecbd78bfde35abf":[5,0,0,70,14]
 };

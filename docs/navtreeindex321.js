@@ -1,5 +1,7 @@
 var NAVTREEINDEX321 =
 {
+"structRE_1_1RaceSexMenuEvent.html":[5,0,0,1554],
+"structRE_1_1RaceSexMenuEvent_1_1NameChangedEvent.html":[5,0,0,1554,0],
 "structRE_1_1RagDollBone.html":[5,0,0,825],
 "structRE_1_1RagDollBone.html#a1e235b3bb381385893789c94fb1f527a":[5,0,0,825,4],
 "structRE_1_1RagDollBone.html#a2187042a907bec7a7f8e0a4cb421af73":[5,0,0,825,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX321 =
 "structRE_1_1SkyrimVM_1_1UpdateDataEvent.html#a8d50b49accb7bb66b548b34afbddcdfc":[5,0,0,1597,3,5],
 "structRE_1_1SkyrimVM_1_1UpdateDataEvent.html#ad744406474d7692a9f0e4b93e8f8063f":[5,0,0,1597,3,2],
 "structRE_1_1SkyrimVM_1_1WaitCall.html":[5,0,0,1597,4],
-"structRE_1_1SkyrimVM_1_1WaitCall.html#a70fc1a2a1498ae9312d5994d50946145":[5,0,0,1597,4,0],
-"structRE_1_1SkyrimVM_1_1WaitCall.html#a8b0c21e5dca3af463e5d686007ea85db":[5,0,0,1597,4,2],
-"structRE_1_1SkyrimVM_1_1WaitCall.html#ab741355fd193f8e98663489c18a4e959":[5,0,0,1597,4,1]
+"structRE_1_1SkyrimVM_1_1WaitCall.html#a70fc1a2a1498ae9312d5994d50946145":[5,0,0,1597,4,0]
 };

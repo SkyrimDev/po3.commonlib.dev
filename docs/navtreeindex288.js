@@ -1,5 +1,7 @@
 var NAVTREEINDEX288 =
 {
+"namespaceRE_1_1Offset_1_1ActorEquipManager.html#ae1146f3c9b4fbf64733296bb82ed850c":[4,0,0,30,1,1],
+"namespaceRE_1_1Offset_1_1ActorValueOwner.html":[4,0,0,30,2],
 "namespaceRE_1_1Offset_1_1ActorValueOwner.html#a3f4c192ee429c80daba43d98e7e8784b":[4,0,0,30,2,0],
 "namespaceRE_1_1Offset_1_1BGSFootstepManager.html":[4,0,0,30,4],
 "namespaceRE_1_1Offset_1_1BGSFootstepManager.html#aac78c47e8a7bff4549b77346f667019d":[4,0,0,30,4,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX288 =
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html":[4,0,0,30,82],
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html#a4be954806d6337d56f974ea2b63100e6":[4,0,0,30,82,7],
 "namespaceRE_1_1Offset_1_1TESObjectREFR.html#a4df169865e9bbeaca2517d1b334921f1":[4,0,0,30,82,1],
-"namespaceRE_1_1Offset_1_1TESObjectREFR.html#a6dd951ecfe30746b03971e8520ba967d":[4,0,0,30,82,0],
-"namespaceRE_1_1Offset_1_1TESObjectREFR.html#aa84922b6d1b1656a3d7f04f64a39fb46":[4,0,0,30,82,2],
-"namespaceRE_1_1Offset_1_1TESObjectREFR.html#ab75fa6b7f15acd77caa320fa07042fc1":[4,0,0,30,82,4]
+"namespaceRE_1_1Offset_1_1TESObjectREFR.html#a6dd951ecfe30746b03971e8520ba967d":[4,0,0,30,82,0]
 };

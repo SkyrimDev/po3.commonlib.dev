@@ -1,5 +1,7 @@
 var NAVTREEINDEX304 =
 {
+"structRE_1_1BSScript_1_1ObjectTypeInfo_1_1InitialValueInfo.html#a873f315ec6a96ab6ef1ddf591beaa2d0":[5,0,0,7,82,1,2],
+"structRE_1_1BSScript_1_1ObjectTypeInfo_1_1MemberFuncInfo.html":[5,0,0,7,82,2],
 "structRE_1_1BSScript_1_1ObjectTypeInfo_1_1MemberFuncInfo.html#a6930e66599ff59d98f436ce84599343a":[5,0,0,7,82,2,0],
 "structRE_1_1BSScript_1_1ObjectTypeInfo_1_1NamedStateInfo.html":[5,0,0,7,82,3],
 "structRE_1_1BSScript_1_1ObjectTypeInfo_1_1NamedStateInfo.html#a021210f886317fd972d079833d8dc425":[5,0,0,7,82,3,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX304 =
 "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8a35c3ace1970663a16e5c65baa5941b13":[5,0,0,494,0,0,0],
 "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8a3a62d594c4725a38e29490fa75b0a0be":[5,0,0,494,0,0,1],
 "structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8a9de4239f555620bdce6d68225848683a":[5,0,0,494,0,0,3],
-"structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8aa824609a8c511d10b4496d1d24761b3a":[5,0,0,494,0,0,2],
-"structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8ae9618e1d837e3f47d12e665a51176041":[5,0,0,494,0,0,6],
-"structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8afedc2a5c504bbde9e30d86523c2df86f":[5,0,0,494,0,0,4]
+"structRE_1_1BSSystemFileStorage_1_1Attributes.html#a5ae16c88f0b3816ef828a346a55132a8aa824609a8c511d10b4496d1d24761b3a":[5,0,0,494,0,0,2]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX287 =
 {
+"namespaceRE_1_1BSResource.html#ac5488a3c3b5b8819ac5c724ab8943aeaa9dae9636360c15ec09edf4d78a9a2516":[4,0,0,11,29,6],
+"namespaceRE_1_1BSResource.html#ac5488a3c3b5b8819ac5c724ab8943aeaaa6e4ba414b0125c605016353a110c8e6":[4,0,0,11,29,7],
 "namespaceRE_1_1BSResource.html#acd4bd788064d177a918b78e3999c88a0":[4,0,0,11,30],
 "namespaceRE_1_1BSResource.html#acd4bd788064d177a918b78e3999c88a0a0d164365a292452ae852fa83d4b39ea9":[4,0,0,11,30,0],
 "namespaceRE_1_1BSResource.html#acd4bd788064d177a918b78e3999c88a0a2d3404fbbb5ebc5a29a678187fdd8d23":[4,0,0,11,30,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX287 =
 "namespaceRE_1_1Offset_1_1Actor.html#afecff01507304b4aa7b7fc1639ac42fd":[4,0,0,30,0,8],
 "namespaceRE_1_1Offset_1_1ActorEquipManager.html":[4,0,0,30,1],
 "namespaceRE_1_1Offset_1_1ActorEquipManager.html#a0f72bd0680c108af28249870351a7131":[4,0,0,30,1,2],
-"namespaceRE_1_1Offset_1_1ActorEquipManager.html#a7c1afb41a3c860796839b76f47d4f148":[4,0,0,30,1,0],
-"namespaceRE_1_1Offset_1_1ActorEquipManager.html#ae1146f3c9b4fbf64733296bb82ed850c":[4,0,0,30,1,1],
-"namespaceRE_1_1Offset_1_1ActorValueOwner.html":[4,0,0,30,2]
+"namespaceRE_1_1Offset_1_1ActorEquipManager.html#a7c1afb41a3c860796839b76f47d4f148":[4,0,0,30,1,0]
 };

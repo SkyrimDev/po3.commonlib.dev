@@ -1,5 +1,7 @@
 var NAVTREEINDEX320 =
 {
+"structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563":[5,0,0,1545,0],
+"structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a3507169efc9b2f4ef26f74a8eecefa70":[5,0,0,1545,0,2],
 "structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a35a066c0e13328b52559d97ec54653e1":[5,0,0,1545,0,3],
 "structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a7ae57d79e7837a25ef64189169e87e7c":[5,0,0,1545,0,0],
 "structRE_1_1PositionPlayerEvent.html#aecc663d2aa0d8a453d776bd5b9127563a8941714ff8251a03708025c060c46556":[5,0,0,1545,0,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX320 =
 "structRE_1_1RTTI_1_1PMD.html":[5,0,0,18,1],
 "structRE_1_1RTTI_1_1PMD.html#a352a6c140db6a2a212d9c489b3eed9bf":[5,0,0,18,1,1],
 "structRE_1_1RTTI_1_1PMD.html#aab68d3af2c58fdcc8df58481d2c9d043":[5,0,0,18,1,2],
-"structRE_1_1RTTI_1_1PMD.html#ab70b6417dacb4b2aabb75a056483af1e":[5,0,0,18,1,0],
-"structRE_1_1RaceSexMenuEvent.html":[5,0,0,1554],
-"structRE_1_1RaceSexMenuEvent_1_1NameChangedEvent.html":[5,0,0,1554,0]
+"structRE_1_1RTTI_1_1PMD.html#ab70b6417dacb4b2aabb75a056483af1e":[5,0,0,18,1,0]
 };

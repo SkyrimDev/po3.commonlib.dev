@@ -1,5 +1,7 @@
 var NAVTREEINDEX298 =
 {
+"structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a3a7bd798d978d44aed0f3c0ec3423f72":[5,0,0,139,0,4],
+"structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a959d8837ef71b9291a007065e8023aeb":[5,0,0,139,0,3],
 "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#a98f345bab64df5b7f1c481af02682814":[5,0,0,139,0,5],
 "structRE_1_1BGSEntryPointPerkEntry_1_1EntryData.html#af2232e2d8ac13e4d475e9958f9917507":[5,0,0,139,0,2],
 "structRE_1_1BGSEntryPoint_1_1ENTRY__POINTS.html":[5,0,0,133,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX298 =
 "structRE_1_1BGSLocation_1_1RecordFlags.html#a9391554f7b40ffe921d917fac4a3ab86ac2f1807910e79d1668a55a19b30fe613":[5,0,0,175,2,0,0],
 "structRE_1_1BGSMaterialObject_1_1FILE__DATA.html":[5,0,0,177,0],
 "structRE_1_1BGSMaterialObject_1_1FILE__DATA.html#a1ba9d016f491ab4880fee34671725232":[5,0,0,177,0,0],
-"structRE_1_1BGSMaterialObject_1_1FILE__DATA.html#ac1fc91f5ab88aae750102917338a13d6":[5,0,0,177,0,1],
-"structRE_1_1BGSMaterialObject_1_1FILE__DATA.html#af90d016670464e54744b6ca9f0ad6961":[5,0,0,177,0,2],
-"structRE_1_1BGSMaterialObject_1_1RecordFlags.html":[5,0,0,177,1]
+"structRE_1_1BGSMaterialObject_1_1FILE__DATA.html#ac1fc91f5ab88aae750102917338a13d6":[5,0,0,177,0,1]
 };

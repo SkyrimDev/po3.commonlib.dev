@@ -1,5 +1,7 @@
 var NAVTREEINDEX323 =
 {
+"structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824a4c1f40f3f6fa765ce3dae7ef38a49c3c":[5,0,0,1695,0,0],
+"structRE_1_1TESFurnitureEvent.html#a7bf2ed500922cb7a4c1edfe1fafbd824ac2477f77de6d38233af46d78ec777846":[5,0,0,1695,0,1],
 "structRE_1_1TESFurnitureEvent.html#acf20548079af788570cbcc007531f8b2":[5,0,0,1695,1],
 "structRE_1_1TESFurniture_1_1EntryPointData.html":[5,0,0,1694,0],
 "structRE_1_1TESFurniture_1_1EntryPointData.html#a732e09b5ddfb40c676a2925a00dd1cf0":[5,0,0,1694,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX323 =
 "structRE_1_1TESNPC_1_1Skills.html":[5,0,0,1730,5],
 "structRE_1_1TESNPC_1_1Skills.html#a566c867ac10649bb54907f1c92001ae1":[5,0,0,1730,5,1],
 "structRE_1_1TESNPC_1_1Skills.html#a74e2bcbf6e8b1c8fbe53b986a1175d6f":[5,0,0,1730,5,5],
-"structRE_1_1TESNPC_1_1Skills.html#aa3ff2fdb548ab1c27be53980e2c2e450":[5,0,0,1730,5,2],
-"structRE_1_1TESNPC_1_1Skills.html#aa67d8afe7c4c3f06768f1f052047baef":[5,0,0,1730,5,6],
-"structRE_1_1TESNPC_1_1Skills.html#ab64c03793dd837dc1359fe05c94143c6":[5,0,0,1730,5,4]
+"structRE_1_1TESNPC_1_1Skills.html#aa3ff2fdb548ab1c27be53980e2c2e450":[5,0,0,1730,5,2]
 };
