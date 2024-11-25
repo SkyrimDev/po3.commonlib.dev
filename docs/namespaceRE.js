@@ -2014,6 +2014,7 @@ var namespaceRE =
     [ "VATS", "classRE_1_1VATS.html", "classRE_1_1VATS" ],
     [ "VoiceSpellFireHandler", "classRE_1_1VoiceSpellFireHandler.html", "classRE_1_1VoiceSpellFireHandler" ],
     [ "WeaponAnimationGraphManagerHolder", "classRE_1_1WeaponAnimationGraphManagerHolder.html", "classRE_1_1WeaponAnimationGraphManagerHolder" ],
+    [ "WeaponEnchantmentController", "classRE_1_1WeaponEnchantmentController.html", "classRE_1_1WeaponEnchantmentController" ],
     [ "WeatherType", "structRE_1_1WeatherType.html", "structRE_1_1WeatherType" ],
     [ "WerewolfEffect", "classRE_1_1WerewolfEffect.html", "classRE_1_1WerewolfEffect" ],
     [ "WerewolfFeedEffect", "classRE_1_1WerewolfFeedEffect.html", "classRE_1_1WerewolfFeedEffect" ],

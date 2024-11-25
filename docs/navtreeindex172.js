@@ -1,5 +1,7 @@
 var NAVTREEINDEX172 =
 {
+"classRE_1_1NiTPointerMap.html#afb9b0fa43e7a8e0e36f6e465aa5dfdb2":[5,0,0,1511,5],
+"classRE_1_1NiTPrimitiveArray.html":[5,0,0,1492],
 "classRE_1_1NiTPrimitiveArray.html#a08061ea506abe8849d36c3155f4274db":[5,0,0,1492,0],
 "classRE_1_1NiTPrimitiveSet.html":[5,0,0,1517],
 "classRE_1_1NiTPrimitiveSet.html#afc165cd9fdcb4f37d698ba50163675c5":[5,0,0,1517,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX172 =
 "classRE_1_1NonActorMagicTarget.html#a6e08f50130b63d9f88ca909f6fd81be3":[5,0,0,1521,5],
 "classRE_1_1NonActorMagicTarget.html#a7d2d699dce4b3f3e6204157ea2c3958d":[5,0,0,1521,8],
 "classRE_1_1NonActorMagicTarget.html#a8c5861244d8d5fb0019a6b5006bea4d9":[5,0,0,1521,4],
-"classRE_1_1NonActorMagicTarget.html#ae288a79d81a44eb08447e2c6f689dc2e":[5,0,0,1521,2],
-"classRE_1_1NonActorMagicTarget.html#aed13ac14ba5c382688393a7aa49e24ea":[5,0,0,1521,0],
-"classRE_1_1OldMessageBoxCallback.html":[5,0,0,1523]
+"classRE_1_1NonActorMagicTarget.html#ae288a79d81a44eb08447e2c6f689dc2e":[5,0,0,1521,2]
 };

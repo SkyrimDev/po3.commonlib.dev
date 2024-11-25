@@ -1,5 +1,7 @@
 var NAVTREEINDEX130 =
 {
+"classRE_1_1Calendar.html#a0294c4605b350467459275829e36c899":[5,0,0,575,3],
+"classRE_1_1Calendar.html#a0bdcae91e16978926af19af65475e0f5":[5,0,0,575,20],
 "classRE_1_1Calendar.html#a113e6599d0bb548189dbb5a47b231889":[5,0,0,575,6],
 "classRE_1_1Calendar.html#a17f61a307f25273970b6b9c3876df3ee":[5,0,0,575,13],
 "classRE_1_1Calendar.html#a1c1f1e2a8391d8c79ec78bde09609df3":[5,0,0,575,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX130 =
 "classRE_1_1CombatInventoryItemMagic.html#a22953b9140bb3d9786ffd8c6f3b14e2b":[5,0,0,596,23],
 "classRE_1_1CombatInventoryItemMagic.html#a4cbc0c4237bb65f8782c51aca90a3b36":[5,0,0,596,7],
 "classRE_1_1CombatInventoryItemMagic.html#a4eeae93571821a69cb155f3cc294c8c0":[5,0,0,596,0],
-"classRE_1_1CombatInventoryItemMagic.html#a511cefe248587368db7302023dd85887":[5,0,0,596,2],
-"classRE_1_1CombatInventoryItemMagic.html#a5acaa5a60d9694818695b7fd6a5f7576":[5,0,0,596,10],
-"classRE_1_1CombatInventoryItemMagic.html#a645ee70958287e79e4d6d40e61765751":[5,0,0,596,14]
+"classRE_1_1CombatInventoryItemMagic.html#a511cefe248587368db7302023dd85887":[5,0,0,596,2]
 };

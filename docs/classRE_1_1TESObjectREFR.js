@@ -81,6 +81,7 @@ var classRE_1_1TESObjectREFR =
     [ "GetEditorLocation", "classRE_1_1TESObjectREFR.html#a938a9becdd192bea59e8fa785939cae8", null ],
     [ "GetEditorLocation1", "classRE_1_1TESObjectREFR.html#aed528b8563756a650821e1073ef01dac", null ],
     [ "GetEditorLocation2", "classRE_1_1TESObjectREFR.html#a8850f010c053545346644ce7c6ad8417", null ],
+    [ "GetEnchantment", "classRE_1_1TESObjectREFR.html#a9b60f896442b9b36f2b393e8c9e9b631", null ],
     [ "GetEnchantmentCharge", "classRE_1_1TESObjectREFR.html#adb0ae10580c285e89b0feabc81639752", null ],
     [ "GetEncounterZone", "classRE_1_1TESObjectREFR.html#a7f9e5c5fcbfc3157f3076c3aefc20bd0", null ],
     [ "GetExclusiveBranch", "classRE_1_1TESObjectREFR.html#a5e9bf0ab06fe8013ec5bfd053bb122fb", null ],

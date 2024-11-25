@@ -1,5 +1,7 @@
 var NAVTREEINDEX98 =
 {
+"classRE_1_1AnimationFileManagerSingleton.html#aa17f72f08682b45ae1b9a292aa7a1b5d":[5,0,0,60,15],
+"classRE_1_1AnimationFileManagerSingleton.html#aa63b3ac651a4a8b0388f2b597b6755bf":[5,0,0,60,3],
 "classRE_1_1AnimationFileManagerSingleton.html#ad647f2628819d7f2e068a8fe4e67e516":[5,0,0,60,5],
 "classRE_1_1AnimationFileManagerSingleton.html#add29002678b993ab7465d65c2377d150":[5,0,0,60,11],
 "classRE_1_1AnimationFileManagerSingleton.html#adf607baef93f1cebb5a0853afaa439cb":[5,0,0,60,12],
@@ -247,7 +249,5 @@ var NAVTREEINDEX98 =
 "classRE_1_1BGSAttackDataForm.html#aa5bc60bdc448b93feaa09684cf7f791d":[5,0,0,95,4],
 "classRE_1_1BGSAttackDataForm.html#ac9a220c872febb29b9ac97b5624e08a1":[5,0,0,95,6],
 "classRE_1_1BGSAttackDataMap.html":[5,0,0,96],
-"classRE_1_1BGSAttackDataMap.html#a126e0fe53af0cc8f79f3c4761245a746":[5,0,0,96,4],
-"classRE_1_1BGSAttackDataMap.html#a2335859d29f593718734da19fa6277ab":[5,0,0,96,1],
-"classRE_1_1BGSAttackDataMap.html#a3eabf86dc85a0f34172b63b9bce3a4e9":[5,0,0,96,3]
+"classRE_1_1BGSAttackDataMap.html#a126e0fe53af0cc8f79f3c4761245a746":[5,0,0,96,4]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX149 =
 {
+"classRE_1_1GFxResourceWeakLib.html#af35c0b04718527dd503fb659933e04f0":[5,0,0,997,6],
+"classRE_1_1GFxResourceWeakLib.html#af88e091ea6e9db49d7b9a65ec645b573":[5,0,0,997,1],
 "classRE_1_1GFxSetBackgroundColor.html":[5,0,0,998],
 "classRE_1_1GFxSetBackgroundColor.html#a170c5eaa5959ad479d6339e979534cc7":[5,0,0,998,2],
 "classRE_1_1GFxSetBackgroundColor.html#a4bbc6106df37bff9bee306b435b34dd6":[5,0,0,998,0],
@@ -247,7 +249,5 @@ var NAVTREEINDEX149 =
 "classRE_1_1GFxStream.html":[5,0,0,1012],
 "classRE_1_1GFxStream.html#a0e6a59287701556418a9b7931ac903ce":[5,0,0,1012,0],
 "classRE_1_1GFxStream.html#a1263db1703765b860dc79f9e75191fac":[5,0,0,1012,7],
-"classRE_1_1GFxStream.html#a198455435385dfa28a768e5ec298d4a2":[5,0,0,1012,10],
-"classRE_1_1GFxStream.html#a20c13cfd0aef75497e6a98b8ecdf1e39":[5,0,0,1012,6],
-"classRE_1_1GFxStream.html#a29d2054bbe87566c297d539e57f25abe":[5,0,0,1012,15]
+"classRE_1_1GFxStream.html#a198455435385dfa28a768e5ec298d4a2":[5,0,0,1012,10]
 };

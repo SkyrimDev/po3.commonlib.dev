@@ -1,5 +1,7 @@
 var NAVTREEINDEX137 =
 {
+"classRE_1_1ExtraEditorRefMoveData.html#a9f979d1881c2ce2a086d09051bcce99c":[5,0,0,735,1],
+"classRE_1_1ExtraEditorRefMoveData.html#aa0afa5c20092cb0a5df8bd40497f70ca":[5,0,0,735,5],
 "classRE_1_1ExtraEditorRefMoveData.html#abe4fd33c2d79a320991b51eac50a1c44":[5,0,0,735,2],
 "classRE_1_1ExtraEditorRefMoveData.html#ac529b08421c30cb5078aeadc2572c26a":[5,0,0,735,4],
 "classRE_1_1ExtraEditorRefMoveData.html#af1112e07f52eca3f784fe43f353b88b8":[5,0,0,735,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX137 =
 "classRE_1_1ExtraHealthPerc.html#acb2faa2d3a7333c8e452143fbe47b127":[5,0,0,761,1],
 "classRE_1_1ExtraHealthPerc.html#aeb88b146496ba0b0bb76f1e75c99174a":[5,0,0,761,3],
 "classRE_1_1ExtraHealthPerc.html#af5d2a19c14b0359813c6dd8c31c558ef":[5,0,0,761,0],
-"classRE_1_1ExtraHorse.html":[5,0,0,762],
-"classRE_1_1ExtraHorse.html#a35a529c4ce3d45ca842d3b10cbc58146":[5,0,0,762,7],
-"classRE_1_1ExtraHorse.html#a58f2ba239e1e795c642b3d777c317372":[5,0,0,762,5]
+"classRE_1_1ExtraHorse.html":[5,0,0,762]
 };

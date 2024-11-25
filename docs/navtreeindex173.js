@@ -1,5 +1,7 @@
 var NAVTREEINDEX173 =
 {
+"classRE_1_1NonActorMagicTarget.html#aed13ac14ba5c382688393a7aa49e24ea":[5,0,0,1521,0],
+"classRE_1_1OldMessageBoxCallback.html":[5,0,0,1523],
 "classRE_1_1OldMessageBoxCallback.html#a156ea15c544dab4c41447e8ba09826cf":[5,0,0,1523,2],
 "classRE_1_1OldMessageBoxCallback.html#a2ccf5f0b1bae042906c769790a00c917":[5,0,0,1523,1],
 "classRE_1_1OldMessageBoxCallback.html#a4000401dc675d5281bb834c36d981726":[5,0,0,1523,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX173 =
 "classRE_1_1PlayerCharacter.html#a6ebd72e988e07e614ee4febf09721034":[5,0,0,1540,175],
 "classRE_1_1PlayerCharacter.html#a6ec833c4d262c2e187d059c0bda539b2":[5,0,0,1540,76],
 "classRE_1_1PlayerCharacter.html#a6f79b46652565e3a85303cfa384a3f91":[5,0,0,1540,92],
-"classRE_1_1PlayerCharacter.html#a6fc5a5c3965925cb65cfc81495961e71":[5,0,0,1540,107],
-"classRE_1_1PlayerCharacter.html#a7333141742ea77813e841fc5934b8b8f":[5,0,0,1540,105],
-"classRE_1_1PlayerCharacter.html#a73b6d8236f3cd7fd09a6d6b093574f7a":[5,0,0,1540,79]
+"classRE_1_1PlayerCharacter.html#a6fc5a5c3965925cb65cfc81495961e71":[5,0,0,1540,107]
 };

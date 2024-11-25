@@ -1,5 +1,7 @@
 var NAVTREEINDEX103 =
 {
+"classRE_1_1BGSMusicTrack.html#a7534b13112c7840089b5de4752c48534":[5,0,0,190,5],
+"classRE_1_1BGSMusicTrack.html#ace1bb1052069936893d7def714f93536":[5,0,0,190,7],
 "classRE_1_1BGSMusicTrack.html#ae71cde56fa5d91fc769d20db02137f5d":[5,0,0,190,2],
 "classRE_1_1BGSMusicTrackFormWrapper.html":[5,0,0,191],
 "classRE_1_1BGSMusicTrackFormWrapper.html#a00e1e638b7a10c96d305f1ec28bcc098":[5,0,0,191,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX103 =
 "classRE_1_1BGSProcedureTreeProcedure.html#af7ff2ee706c95d7558b884596e097978":[5,0,0,211,10],
 "classRE_1_1BGSProcedureTreeProcedure.html#afcdc4aa67a9e42d1fc515fa37df84f3d":[5,0,0,211,3],
 "classRE_1_1BGSProcedureTreeSequence.html":[5,0,0,212],
-"classRE_1_1BGSProcedureTreeSequence.html#a39298d9f06b35d2b187a27c2fad69a07":[5,0,0,212,3],
-"classRE_1_1BGSProcedureTreeSequence.html#a4dcc092cbd3508d774ba061c1d56fb6f":[5,0,0,212,2],
-"classRE_1_1BGSProcedureTreeSequence.html#a65793722ece2a28cca8f85efe40d4947":[5,0,0,212,0]
+"classRE_1_1BGSProcedureTreeSequence.html#a39298d9f06b35d2b187a27c2fad69a07":[5,0,0,212,3]
 };
