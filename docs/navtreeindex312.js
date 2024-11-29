@@ -1,5 +1,6 @@
 var NAVTREEINDEX312 =
 {
+"structRE_1_1GASString.html#a6dd515d898983a8ed4fd34b31d78e2b4":[5,0,0,923,0],
 "structRE_1_1GASString.html#a7319f77d5e48f7df6bc645ba3284482c":[5,0,0,923,5],
 "structRE_1_1GASString.html#a93dee523fcd616f7436395d351d793a7":[5,0,0,923,1],
 "structRE_1_1GASString.html#ab42cf17bfaa8b07bfb3b708870eecdba":[5,0,0,923,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX312 =
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a6a6e62e37e325b44f8236111af6facb5":[5,0,0,997,0,2],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a7f50ac6273d52e3af1d94d6fe186e361":[5,0,0,997,0,6],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1":[5,0,0,997,0,1],
-"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1a5f0eae052a08e15cf1d1974845296d0d":[5,0,0,997,0,1,1],
-"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1abd3939eb9a725d110b34b628eaad8095":[5,0,0,997,0,1,0]
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1a5f0eae052a08e15cf1d1974845296d0d":[5,0,0,997,0,1,1]
 };

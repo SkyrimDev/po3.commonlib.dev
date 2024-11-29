@@ -4,8 +4,9 @@ var classRE_1_1ShaderReferenceEffect =
     [ "TextureRequest", "structRE_1_1ShaderReferenceEffect_1_1TextureRequest.html", "structRE_1_1ShaderReferenceEffect_1_1TextureRequest" ],
     [ "Flag", "classRE_1_1ShaderReferenceEffect.html#a0693e9dd2cecd38008bb049e6e1f9336", [
       [ "kNone", "classRE_1_1ShaderReferenceEffect.html#a0693e9dd2cecd38008bb049e6e1f9336a35c3ace1970663a16e5c65baa5941b13", null ],
-      [ "kVisible", "classRE_1_1ShaderReferenceEffect.html#a0693e9dd2cecd38008bb049e6e1f9336a1157767e9b4fd4f2ffeb7ee94c8fac2f", null ],
+      [ "kThirdPerson", "classRE_1_1ShaderReferenceEffect.html#a0693e9dd2cecd38008bb049e6e1f9336a4d39f6a0e54e5fa63d1677b7a6862c96", null ],
       [ "kInterfaceEffect", "classRE_1_1ShaderReferenceEffect.html#a0693e9dd2cecd38008bb049e6e1f9336a8ae17c1f4f383d6e413c5d14d09d6532", null ],
+      [ "kSuspended", "classRE_1_1ShaderReferenceEffect.html#a0693e9dd2cecd38008bb049e6e1f9336a6e09d95243f1f7bec7d0061e5831dc82", null ],
       [ "kAllowTargetRoot", "classRE_1_1ShaderReferenceEffect.html#a0693e9dd2cecd38008bb049e6e1f9336ad9afe71ef0dd10bdc30811a83a409896", null ]
     ] ],
     [ "~ShaderReferenceEffect", "classRE_1_1ShaderReferenceEffect.html#a5540a2fe303e2e957bd6a46350824943", null ],

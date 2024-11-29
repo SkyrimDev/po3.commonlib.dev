@@ -1,5 +1,6 @@
 var NAVTREEINDEX326 =
 {
+"structRE_1_1TESSoulGem_1_1RecordFlags.html":[5,0,0,1808,0],
 "structRE_1_1TESSoulGem_1_1RecordFlags.html#ae41313739f801838663571c70edd7656":[5,0,0,1808,0,0],
 "structRE_1_1TESSoulGem_1_1RecordFlags.html#ae41313739f801838663571c70edd7656a139971970eccf13c9bd54cab6f79db1c":[5,0,0,1808,0,0,2],
 "structRE_1_1TESSoulGem_1_1RecordFlags.html#ae41313739f801838663571c70edd7656a484be4bc35b357df9d4381df12a1f8f4":[5,0,0,1808,0,0,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX326 =
 "structRE_1_1UnreachableLocation.html#acb40bbed219d869f04e0494ea8b50e7d":[5,0,0,621,1],
 "structRE_1_1UnreachableLocation.html#ae82212ad3a1d1821f595e36e7d5db6b3":[5,0,0,621,0],
 "structRE_1_1UnreachableLocation.html#aecfe9503ee57ebfe1d3ca38dcb68e5e3":[5,0,0,621,2],
-"structRE_1_1UserEvents_1_1INPUT__CONTEXT__IDS.html":[5,0,0,1859,0],
-"structRE_1_1UserEvents_1_1INPUT__CONTEXT__IDS.html#a80a37eabeb8e8d4a0db012464a83ce78":[5,0,0,1859,0,0]
+"structRE_1_1UserEvents_1_1INPUT__CONTEXT__IDS.html":[5,0,0,1859,0]
 };

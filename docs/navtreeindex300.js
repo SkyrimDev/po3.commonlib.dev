@@ -1,5 +1,6 @@
 var NAVTREEINDEX300 =
 {
+"structRE_1_1BGSReferenceEffect_1_1Data.html#a1756b2d846cc61a39f99bd459d115134":[5,0,0,217,0,0],
 "structRE_1_1BGSReferenceEffect_1_1Data.html#a1e3c63cb298d5137f88b166c18ae4de9":[5,0,0,217,0,1],
 "structRE_1_1BGSReferenceEffect_1_1Data.html#ac6fc489e507bad6768e986673eeabeb8":[5,0,0,217,0,2],
 "structRE_1_1BGSReferenceEffect_1_1RecordFlags.html":[5,0,0,217,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX300 =
 "structRE_1_1BSAnimationGraphManager_1_1AnimationVariable.html":[5,0,0,316,0],
 "structRE_1_1BSAnimationGraphManager_1_1AnimationVariable.html#a0ddafbd7cfc8429861f8c434754b0ec7":[5,0,0,316,0,2],
 "structRE_1_1BSAnimationGraphManager_1_1AnimationVariable.html#a793d82666892c2c01405724185cc2142":[5,0,0,316,0,1],
-"structRE_1_1BSAnimationGraphVariableCache.html":[5,0,0,315],
-"structRE_1_1BSAnimationGraphVariableCache.html#ad479e7563ef0f8d84b4718af2e42528c":[5,0,0,315,1]
+"structRE_1_1BSAnimationGraphVariableCache.html":[5,0,0,315]
 };

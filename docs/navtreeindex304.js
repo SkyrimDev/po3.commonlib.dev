@@ -1,5 +1,6 @@
 var NAVTREEINDEX304 =
 {
+"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#ab43fe5eb8035e8d9d999a4de8e42884b":[5,0,0,7,1,2,4],
 "structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#ade37232af718a5c243c980898bf90c51":[5,0,0,7,1,2,2],
 "structRE_1_1BSScript_1_1Internal_1_1SuspendedStack.html":[5,0,0,7,1,6],
 "structRE_1_1BSScript_1_1Internal_1_1SuspendedStack.html#a02d01cdc2fc6fd6f6920a7fdd5c1a674":[5,0,0,7,1,6,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX304 =
 "structRE_1_1BSSoundHandle.html#aad0511cca20406dc7d28a8f9115877bc":[5,0,0,485,15],
 "structRE_1_1BSSoundHandle.html#ab5b19302606013a422da40fda8d170c2":[5,0,0,485,0],
 "structRE_1_1BSSoundHandle.html#ab5b19302606013a422da40fda8d170c2a39133fbe05b9135570285dc1ce4bf3d7":[5,0,0,485,0,3],
-"structRE_1_1BSSoundHandle.html#ab5b19302606013a422da40fda8d170c2ab661416dbe99f1eddca1a5547a8bd720":[5,0,0,485,0,0],
-"structRE_1_1BSSoundHandle.html#ab5b19302606013a422da40fda8d170c2abd84a7c81969b596e98c96512bd69515":[5,0,0,485,0,1]
+"structRE_1_1BSSoundHandle.html#ab5b19302606013a422da40fda8d170c2ab661416dbe99f1eddca1a5547a8bd720":[5,0,0,485,0,0]
 };

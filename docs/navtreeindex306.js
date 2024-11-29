@@ -1,5 +1,6 @@
 var NAVTREEINDEX306 =
 {
+"structRE_1_1CALCED__OBJECT.html":[5,0,0,1713],
 "structRE_1_1CALCED__OBJECT.html#a10efc33587d72943530c41aff1cbc4f7":[5,0,0,1713,2],
 "structRE_1_1CALCED__OBJECT.html#a271fe1dfeea5d551d10af917309f758a":[5,0,0,1713,3],
 "structRE_1_1CALCED__OBJECT.html#a8a0b83b76735046acacd2645d5e4e87b":[5,0,0,1713,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX306 =
 "structRE_1_1Color.html#aee940edb4ff170bc330f451cd2c1c35c":[5,0,0,583,21],
 "structRE_1_1CombatEquipment.html":[5,0,0,590],
 "structRE_1_1CombatEquipment.html#a1b3b4fc9b317820df5fc46417a91f80c":[5,0,0,590,5],
-"structRE_1_1CombatEquipment.html#a2400e10cb7fa17d30cca085564c7fb8b":[5,0,0,590,4],
-"structRE_1_1CombatEquipment.html#a39dd306393339025aa4ebbf1d9474b72":[5,0,0,590,1]
+"structRE_1_1CombatEquipment.html#a2400e10cb7fa17d30cca085564c7fb8b":[5,0,0,590,4]
 };

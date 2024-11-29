@@ -1,5 +1,6 @@
 var NAVTREEINDEX189 =
 {
+"classRE_1_1TESQuest.html#acae8ca74e20ca87af464ab77ac7274e1":[5,0,0,1784,42],
 "classRE_1_1TESQuest.html#acee96925cb86d91ce259498e4e5a004d":[5,0,0,1784,26],
 "classRE_1_1TESQuest.html#ad323595ccf0b99eaf6419245492ae34c":[5,0,0,1784,51],
 "classRE_1_1TESQuest.html#ada220d5ddd4ce49f7669876ae20ae2b1":[5,0,0,1784,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX189 =
 "classRE_1_1TESSoulGem.html#a27cb30e855b6a5096bfd371488dd2858":[5,0,0,1808,12],
 "classRE_1_1TESSoulGem.html#a3150e626cee82dd71082496904f3e52d":[5,0,0,1808,13],
 "classRE_1_1TESSoulGem.html#a3a0a2366f692ac6d6a82115643a3d2c2":[5,0,0,1808,8],
-"classRE_1_1TESSoulGem.html#a62afbfcd192ad841db6bf29912a91d83":[5,0,0,1808,11],
-"classRE_1_1TESSoulGem.html#a9a83fe77a22c2a7480fa63e42793011e":[5,0,0,1808,6]
+"classRE_1_1TESSoulGem.html#a62afbfcd192ad841db6bf29912a91d83":[5,0,0,1808,11]
 };

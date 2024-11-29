@@ -3,7 +3,7 @@ var classRE_1_1ModelReferenceEffect =
     [ "Flags", "classRE_1_1ModelReferenceEffect.html#a8d103ccbc5176740f1c884861ac4b1f4", [
       [ "kNone", "classRE_1_1ModelReferenceEffect.html#a8d103ccbc5176740f1c884861ac4b1f4a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kAttached", "classRE_1_1ModelReferenceEffect.html#a8d103ccbc5176740f1c884861ac4b1f4aa093003ece2a0eeae9263dbaed3dd861", null ],
-      [ "k3rdPersonVisible", "classRE_1_1ModelReferenceEffect.html#a8d103ccbc5176740f1c884861ac4b1f4a31cc823823614249ed885c83e83e8d50", null ]
+      [ "kThirdPerson", "classRE_1_1ModelReferenceEffect.html#a8d103ccbc5176740f1c884861ac4b1f4a4d39f6a0e54e5fa63d1677b7a6862c96", null ]
     ] ],
     [ "~ModelReferenceEffect", "classRE_1_1ModelReferenceEffect.html#afbf6a3ea78d6352a95742914f83122ad", null ],
     [ "CreateAnimationChannels", "classRE_1_1ModelReferenceEffect.html#a0fd56be4f56e2d348c58bda8029aa118", null ],

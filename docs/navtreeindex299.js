@@ -1,5 +1,6 @@
 var NAVTREEINDEX299 =
 {
+"structRE_1_1BGSLightingTemplate_1_1RecordFlags.html#ac8bbeccebf46f664495a410a53986c49":[5,0,0,162,0,0],
 "structRE_1_1BGSLightingTemplate_1_1RecordFlags.html#ac8bbeccebf46f664495a410a53986c49a5da8e3855f9b681881e6e798be7cc771":[5,0,0,162,0,0,1],
 "structRE_1_1BGSLightingTemplate_1_1RecordFlags.html#ac8bbeccebf46f664495a410a53986c49a61fe2bcec28bc654fa9381bb59ff66b1":[5,0,0,162,0,0,0],
 "structRE_1_1BGSListForm_1_1ChangeFlags.html":[5,0,0,163,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX299 =
 "structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html":[5,0,0,216,7],
 "structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html#a07424b333e3e86cd738e680487be5f79":[5,0,0,216,7,0],
 "structRE_1_1BGSReferenceEffect_1_1Data.html":[5,0,0,217,0],
-"structRE_1_1BGSReferenceEffect_1_1Data.html#a01d07edde90b2db51ae1c4cfc345fe8c":[5,0,0,217,0,3],
-"structRE_1_1BGSReferenceEffect_1_1Data.html#a1756b2d846cc61a39f99bd459d115134":[5,0,0,217,0,0]
+"structRE_1_1BGSReferenceEffect_1_1Data.html#a01d07edde90b2db51ae1c4cfc345fe8c":[5,0,0,217,0,3]
 };

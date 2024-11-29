@@ -1,5 +1,6 @@
 var NAVTREEINDEX325 =
 {
+"structRE_1_1TESObjectWEAP_1_1Data.html#a180662cb6e4cd61f8497d9cdb8f755fa":[5,0,0,1764,1,5],
 "structRE_1_1TESObjectWEAP_1_1Data.html#a1e60060a47bef51058fbccfdf094f712":[5,0,0,1764,1,9],
 "structRE_1_1TESObjectWEAP_1_1Data.html#a1f10bae0e79379f9d5f4d76bd17b0b0a":[5,0,0,1764,1,19],
 "structRE_1_1TESObjectWEAP_1_1Data.html#a289eeb5f36a8118621b9d167237889ec":[5,0,0,1764,1,17],
@@ -248,6 +249,5 @@ var NAVTREEINDEX325 =
 "structRE_1_1TESShout_1_1VariationIDs.html":[5,0,0,1806,2],
 "structRE_1_1TESShout_1_1VariationIDs.html#a9f69780d6ab32c825752f4407d0df784":[5,0,0,1806,2,0],
 "structRE_1_1TESSleepStopEvent.html":[5,0,0,1807],
-"structRE_1_1TESSleepStopEvent.html#a51aaddf2df1d755691cf6d362eeda053":[5,0,0,1807,0],
-"structRE_1_1TESSoulGem_1_1RecordFlags.html":[5,0,0,1808,0]
+"structRE_1_1TESSleepStopEvent.html#a51aaddf2df1d755691cf6d362eeda053":[5,0,0,1807,0]
 };

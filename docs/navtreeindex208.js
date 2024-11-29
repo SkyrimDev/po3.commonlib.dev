@@ -1,5 +1,6 @@
 var NAVTREEINDEX208 =
 {
+"hkbCharacter_8h.html":[6,0,0,0,0,7,25],
 "hkbCharacter_8h_source.html":[6,0,0,0,0,7,25],
 "hkbClipGenerator_8h.html":[6,0,0,0,0,7,30],
 "hkbClipGenerator_8h_source.html":[6,0,0,0,0,7,30],
@@ -248,6 +249,5 @@ var NAVTREEINDEX208 =
 "index.html#autotoc_md5":[1,2],
 "index.html#autotoc_md6":[1,3],
 "index.html#autotoc_md7":[2],
-"index.html#autotoc_md9":[3],
-"namespaceRE.html":[4,0,0]
+"index.html#autotoc_md9":[3]
 };

@@ -1,5 +1,6 @@
 var NAVTREEINDEX178 =
 {
+"classRE_1_1SimpleArray.html#ad09f96101b3a5f76797285aebe9158f1":[5,0,0,1380,28],
 "classRE_1_1SimpleArray.html#ad874b259547ae272de4b3caa79e7b69c":[5,0,0,1380,19],
 "classRE_1_1SimpleArray.html#ae2b60d18b75aa5cebc4b219b8ee0185e":[5,0,0,1380,16],
 "classRE_1_1SimpleArray.html#ae6e0ef4ee6101e9968b330c723a654fb":[5,0,0,1380,12],
@@ -248,6 +249,5 @@ var NAVTREEINDEX178 =
 "classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#a957f5b962ff9cf2c577dda080b4f2329":[5,0,0,19,15,20],
 "classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#a9a538d0692e249c2916591221d35ce84":[5,0,0,19,15,16],
 "classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#a9ef7f1d87a80bf38b227a6100c86f494":[5,0,0,19,15,4],
-"classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#ab87d94df2246b2db6c024f02755be8e7":[5,0,0,19,15,7],
-"classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#abc614aa7f4b2f14815bc932e0efaa650":[5,0,0,19,15,22]
+"classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#ab87d94df2246b2db6c024f02755be8e7":[5,0,0,19,15,7]
 };

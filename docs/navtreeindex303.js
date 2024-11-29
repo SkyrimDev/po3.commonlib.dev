@@ -1,5 +1,6 @@
 var NAVTREEINDEX303 =
 {
+"structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a0cddfeb7b70c67ad00e30aead416ac44":[5,0,0,443,1,13],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a197324ee92e54f43b636aff8b6a45ba3":[5,0,0,443,1,7],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a20e0c659df82299a65b41d3fb2ce130d":[5,0,0,443,1,4],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a37cfdea7d2a9527761945b231cacac78":[5,0,0,443,1,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX303 =
 "structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a22edadb5694b17c6769a0ef121892c9eab10913c938482a8aa4ba85b7a1116cb4":[5,0,0,7,1,2,0,0],
 "structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a22edadb5694b17c6769a0ef121892c9ead7ec42086e89c1b1ffe3a16edfc12ef3":[5,0,0,7,1,2,0,2],
 "structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a309256885a73a7cd811977b9d318fd57":[5,0,0,7,1,2,3],
-"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a5d9f061d91f8605b320857f9f2c540ff":[5,0,0,7,1,2,1],
-"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#ab43fe5eb8035e8d9d999a4de8e42884b":[5,0,0,7,1,2,4]
+"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a5d9f061d91f8605b320857f9f2c540ff":[5,0,0,7,1,2,1]
 };

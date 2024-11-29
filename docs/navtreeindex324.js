@@ -1,5 +1,6 @@
 var NAVTREEINDEX324 =
 {
+"structRE_1_1TESNPC_1_1ChangeFlags.html#ae8853ffd8766a60d94ed49a18c8707acad81f71295e6d736a9ba6647f0e2d0ea1":[5,0,0,1730,0,0,12],
 "structRE_1_1TESNPC_1_1ChangeFlags.html#ae8853ffd8766a60d94ed49a18c8707acae9028736a4356c7611dba9d7187eacf3":[5,0,0,1730,0,0,11],
 "structRE_1_1TESNPC_1_1ChangeFlags.html#ae8853ffd8766a60d94ed49a18c8707acaf8c003d90908c04e3322aec525da8ed7":[5,0,0,1730,0,0,5],
 "structRE_1_1TESNPC_1_1FaceData.html":[5,0,0,1730,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX324 =
 "structRE_1_1TESObjectWEAP_1_1Data.html":[5,0,0,1764,1],
 "structRE_1_1TESObjectWEAP_1_1Data.html#a08eee6da8395cdc3f639f9f6c0851792":[5,0,0,1764,1,13],
 "structRE_1_1TESObjectWEAP_1_1Data.html#a0c252daaec6eb643723befe638652f29":[5,0,0,1764,1,3],
-"structRE_1_1TESObjectWEAP_1_1Data.html#a12c83b1ec58a1fc570c18abc926e5cdd":[5,0,0,1764,1,14],
-"structRE_1_1TESObjectWEAP_1_1Data.html#a180662cb6e4cd61f8497d9cdb8f755fa":[5,0,0,1764,1,5]
+"structRE_1_1TESObjectWEAP_1_1Data.html#a12c83b1ec58a1fc570c18abc926e5cdd":[5,0,0,1764,1,14]
 };

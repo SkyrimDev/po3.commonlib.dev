@@ -1,5 +1,6 @@
 var NAVTREEINDEX317 =
 {
+"structRE_1_1LevelIncrease_1_1Event.html#a54f623e8a83b038286b3e01703ffbbdf":[5,0,0,1343,0,3],
 "structRE_1_1LevelIncrease_1_1Event.html#a86fdb2739c5b3cda6c0a474bb22d2d47":[5,0,0,1343,0,2],
 "structRE_1_1LevelIncrease_1_1Event.html#ae5ca8b12d199085af185c717dd040aaf":[5,0,0,1343,0,1],
 "structRE_1_1LoadedInventoryModel.html":[5,0,0,1316],
@@ -248,6 +249,5 @@ var NAVTREEINDEX317 =
 "structRE_1_1MiddleHighProcessData.html#ab3580ef5ba2bf260d494f66da86f6b13":[5,0,0,1395,5],
 "structRE_1_1MiddleHighProcessData.html#ab4649c79dc35fbf79bc5c977bb35eb76":[5,0,0,1395,16],
 "structRE_1_1MiddleHighProcessData.html#ac10a72c3a8609abff8048a9ce3c7e9f1":[5,0,0,1395,79],
-"structRE_1_1MiddleHighProcessData.html#ac19a0655a478c8b26dd4976bde81b3a9":[5,0,0,1395,96],
-"structRE_1_1MiddleHighProcessData.html#ac391ab9fbecd8f0f9eab68a4904ef04d":[5,0,0,1395,36]
+"structRE_1_1MiddleHighProcessData.html#ac19a0655a478c8b26dd4976bde81b3a9":[5,0,0,1395,96]
 };

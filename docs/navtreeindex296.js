@@ -1,5 +1,6 @@
 var NAVTREEINDEX296 =
 {
+"structREX_1_1W32_1_1XINPUT__GAMEPAD.html#a8dadf906d6f7e1e193ea11db130266d0":[5,0,2,0,212,1],
 "structREX_1_1W32_1_1XINPUT__KEYSTROKE.html":[5,0,2,0,213],
 "structREX_1_1W32_1_1XINPUT__KEYSTROKE.html#a0ddd5750a77bd46c21581d49e7209e43":[5,0,2,0,213,3],
 "structREX_1_1W32_1_1XINPUT__KEYSTROKE.html#a2c11cbb9d65c98c02b0dd612588cd0c4":[5,0,2,0,213,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX296 =
 "structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619ae191e9dd6fa8dad92aa6f56c1c4621bb":[5,0,0,32,0,0,6],
 "structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619aee86c66817d309a8dc30c8d0aa7d9b3d":[5,0,0,32,0,0,7],
 "structRE_1_1Actor_1_1RecordFlags.html":[5,0,0,32,2],
-"structRE_1_1Actor_1_1RecordFlags.html#a2b63a72e615613e9e7d04d786279baa3":[5,0,0,32,2,0],
-"structRE_1_1Actor_1_1RecordFlags.html#a2b63a72e615613e9e7d04d786279baa3a0ad2d82171960106e97bd15aa601e072":[5,0,0,32,2,0,3]
+"structRE_1_1Actor_1_1RecordFlags.html#a2b63a72e615613e9e7d04d786279baa3":[5,0,0,32,2,0]
 };

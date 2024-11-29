@@ -1,5 +1,6 @@
 var NAVTREEINDEX329 =
 {
+"structRE_1_1hkpLinkedCollidable_1_1CollisionEntry.html#a3dad46f894bd7cd6d55b162d1408a412":[5,0,0,1202,0,1],
 "structRE_1_1hkpListShape_1_1ChildInfo.html":[5,0,0,1203,0],
 "structRE_1_1hkpListShape_1_1ChildInfo.html#a0ebd4969c53dbc8c0db865257b154f45":[5,0,0,1203,0,2],
 "structRE_1_1hkpListShape_1_1ChildInfo.html#a7a76c2df3610578986398048ccc0d911":[5,0,0,1203,0,5],
@@ -248,6 +249,5 @@ var NAVTREEINDEX329 =
 "structSKSE_1_1ActionEvent.html#af39c9bd3f84c3428d7d33b65fcf1a570af9a85a469c0d292242b8d24471fb1feb":[5,0,3,6,1,4],
 "structSKSE_1_1ActionEvent.html#af39c9bd3f84c3428d7d33b65fcf1a570afc2454471b98accdb4d0b76569e04ecc":[5,0,3,6,1,9],
 "structSKSE_1_1ActionEvent.html#af8b14596edf3f13bced3180093a94181":[5,0,3,6,4],
-"structSKSE_1_1CameraEvent.html":[5,0,3,4],
-"structSKSE_1_1CameraEvent.html#a0b3eaef079828ff814bf18fb6ceb1fbb":[5,0,3,4,1]
+"structSKSE_1_1CameraEvent.html":[5,0,3,4]
 };

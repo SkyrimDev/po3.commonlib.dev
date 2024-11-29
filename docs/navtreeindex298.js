@@ -1,5 +1,6 @@
 var NAVTREEINDEX298 =
 {
+"structRE_1_1BGSDualCastData_1_1RecordFlags.html#a3890352a6b39f3212837624325fd59ef":[5,0,0,129,0,0],
 "structRE_1_1BGSDualCastData_1_1RecordFlags.html#a3890352a6b39f3212837624325fd59efa18ac19792ab370830558af67265f8524":[5,0,0,129,0,0,0],
 "structRE_1_1BGSDualCastData_1_1RecordFlags.html#a3890352a6b39f3212837624325fd59efade192245d5bc8656b57c9326f684dbad":[5,0,0,129,0,0,1],
 "structRE_1_1BGSEncounterZone_1_1ChangeFlags.html":[5,0,0,132,0],
@@ -248,6 +249,5 @@ var NAVTREEINDEX298 =
 "structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32af7748e8757a3e90989655b9400903fe1":[5,0,0,159,0,0,0],
 "structRE_1_1BGSLensFlare_1_1RecordFlags.html":[5,0,0,161,0],
 "structRE_1_1BGSLensFlare_1_1RecordFlags.html#a1c4cee51900bb770a85b2c2f83d1e074":[5,0,0,161,0,0],
-"structRE_1_1BGSLightingTemplate_1_1RecordFlags.html":[5,0,0,162,0],
-"structRE_1_1BGSLightingTemplate_1_1RecordFlags.html#ac8bbeccebf46f664495a410a53986c49":[5,0,0,162,0,0]
+"structRE_1_1BGSLightingTemplate_1_1RecordFlags.html":[5,0,0,162,0]
 };

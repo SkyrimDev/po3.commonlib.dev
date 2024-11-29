@@ -1,5 +1,6 @@
 var NAVTREEINDEX330 =
 {
+"structSKSE_1_1CameraEvent.html#a0b3eaef079828ff814bf18fb6ceb1fbb":[5,0,3,4,1],
 "structSKSE_1_1CameraEvent.html#a0cbefbd8463d72c9469ea12cd7878d16":[5,0,3,4,0],
 "structSKSE_1_1CrosshairRefEvent.html":[5,0,3,5],
 "structSKSE_1_1CrosshairRefEvent.html#adb27cdaa21bf45873c5674f76a303a2c":[5,0,3,5,0],

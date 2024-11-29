@@ -1,5 +1,6 @@
 var NAVTREEINDEX288 =
 {
+"namespaceRE_1_1MapCameraStates.html":[4,0,0,26],
 "namespaceRE_1_1Movement.html":[4,0,0,27],
 "namespaceRE_1_1Movement.html#aa027537238297ea9eeae97a5a8c58137":[4,0,0,27,3],
 "namespaceRE_1_1Ni__Impl.html":[4,0,0,29],
@@ -248,6 +249,5 @@ var NAVTREEINDEX288 =
 "namespaceRE_1_1Offset_1_1Script.html#a0f372bf1a7fae8ae5fa609d4b3ab2f1e":[4,0,0,30,72,0],
 "namespaceRE_1_1Offset_1_1Script.html#a788661609cfe4345e7f36b9317f67cf5":[4,0,0,30,72,1],
 "namespaceRE_1_1Offset_1_1Script.html#a9ccc1c065ee783f6edc0c9bfe00310c2":[4,0,0,30,72,2],
-"namespaceRE_1_1Offset_1_1SkyrimVM.html":[4,0,0,30,74],
-"namespaceRE_1_1Offset_1_1SkyrimVM.html#a2350fd4e59b421ac2f498f51e258c5ca":[4,0,0,30,74,2]
+"namespaceRE_1_1Offset_1_1SkyrimVM.html":[4,0,0,30,74]
 };

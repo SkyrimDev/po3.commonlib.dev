@@ -1,5 +1,6 @@
 var NAVTREEINDEX320 =
 {
+"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4ae76fceada038bf410c76244e4bc22ad2":[5,0,0,1540,1,0,1,0,3],
 "structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4aea4b9db646f8a88447ae0af79e4b0b20":[5,0,0,1540,1,0,1,0,11],
 "structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4afcfa7d70a88c188b8b0c708e31ba2b30":[5,0,0,1540,1,0,1,0,5],
 "structRE_1_1PlayerCharacter_1_1PreTransformationData.html":[5,0,0,1540,2],
@@ -248,6 +249,5 @@ var NAVTREEINDEX320 =
 "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a29199e9ce2750d970f6675e540ee427e":[5,0,0,18,2,4],
 "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a3df7edc171e49f6bedf7c18283705c2c":[5,0,0,18,2,2],
 "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10":[5,0,0,18,2,0],
-"structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a23f56d95d0068609bb9b60b62af3a054":[5,0,0,18,2,0,3],
-"structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a336b9c70df2ffcba17bcfffdae99c015":[5,0,0,18,2,0,1]
+"structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a23f56d95d0068609bb9b60b62af3a054":[5,0,0,18,2,0,3]
 };

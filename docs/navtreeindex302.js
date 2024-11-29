@@ -1,5 +1,6 @@
 var NAVTREEINDEX302 =
 {
+"structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a0ab016c43662ed6f09db6ab01c3385fb":[5,0,0,386,0,0,2],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a0ae7c64a0679286eefde3b7a6a6e2076":[5,0,0,386,0,0,59],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a12972548108dc5d1b7ec3bf9d2c874e1":[5,0,0,386,0,0,33],
 "structRE_1_1BSKeyboardDevice_1_1Keys.html#a3259b352672a87fa9ffb97600a92c144a15e1fe2a87518119665b9f2c5a0ff80b":[5,0,0,386,0,0,24],
@@ -248,6 +249,5 @@ var NAVTREEINDEX302 =
 "structRE_1_1BSPCOrbisGamepadDevice_1_1ButtonState.html#addc7502cdcdb35946c5d0c9506e1d0e3":[5,0,0,443,0,27],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1ButtonState.html#afb913f8d27846bceca31bb8451fe5b2b":[5,0,0,443,0,1],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html":[5,0,0,443,1],
-"structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a003b7be74f18bbfef6e61544c110021d":[5,0,0,443,1,2],
-"structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a0cddfeb7b70c67ad00e30aead416ac44":[5,0,0,443,1,13]
+"structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a003b7be74f18bbfef6e61544c110021d":[5,0,0,443,1,2]
 };
