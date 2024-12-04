@@ -1,5 +1,9 @@
 var NAVTREEINDEX306 =
 {
+"structRE_1_1BucketTable.html#a4ce66bfde87701ca69aba707b10313e4":[5,0,0,493,1],
+"structRE_1_1BucketTable.html#a4dc40ca9f0189f5ac7d3637cc96c35a1":[5,0,0,493,3],
+"structRE_1_1BucketTable.html#a66879205f58b2e638fd498c780aec76c":[5,0,0,493,2],
+"structRE_1_1BucketTable.html#af4ecd994689a052ba4a1edf8d291bf96":[5,0,0,493,4],
 "structRE_1_1CALCED__OBJECT.html":[5,0,0,1713],
 "structRE_1_1CALCED__OBJECT.html#a10efc33587d72943530c41aff1cbc4f7":[5,0,0,1713,2],
 "structRE_1_1CALCED__OBJECT.html#a271fe1dfeea5d551d10af917309f758a":[5,0,0,1713,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX306 =
 "structRE_1_1Color.html#ac8b3b78e563be2281c672d7ee98dd512":[5,0,0,583,0],
 "structRE_1_1Color.html#adfe7237e99d7349745a0304aad26a058":[5,0,0,583,34],
 "structRE_1_1Color.html#ae9ad96a972ab91abd322154deb823fc4":[5,0,0,583,32],
-"structRE_1_1Color.html#aea4ede6eb017a59888f159007050148a":[5,0,0,583,14],
-"structRE_1_1Color.html#aee940edb4ff170bc330f451cd2c1c35c":[5,0,0,583,21],
-"structRE_1_1CombatEquipment.html":[5,0,0,590],
-"structRE_1_1CombatEquipment.html#a1b3b4fc9b317820df5fc46417a91f80c":[5,0,0,590,5],
-"structRE_1_1CombatEquipment.html#a2400e10cb7fa17d30cca085564c7fb8b":[5,0,0,590,4]
+"structRE_1_1Color.html#aea4ede6eb017a59888f159007050148a":[5,0,0,583,14]
 };

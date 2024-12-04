@@ -1,5 +1,9 @@
 var NAVTREEINDEX298 =
 {
+"structRE_1_1BGSDualCastDataDEF.html#a9a3e2923aa33576fcd9784bdb7d08800":[5,0,0,128,6],
+"structRE_1_1BGSDualCastDataDEF.html#ab2d4176938ed0ed2414c7e3422d75cb4":[5,0,0,128,2],
+"structRE_1_1BGSDualCastDataDEF.html#ad56c4d7520382196024ab15563b0d2d2":[5,0,0,128,5],
+"structRE_1_1BGSDualCastData_1_1RecordFlags.html":[5,0,0,129,0],
 "structRE_1_1BGSDualCastData_1_1RecordFlags.html#a3890352a6b39f3212837624325fd59ef":[5,0,0,129,0,0],
 "structRE_1_1BGSDualCastData_1_1RecordFlags.html#a3890352a6b39f3212837624325fd59efa18ac19792ab370830558af67265f8524":[5,0,0,129,0,0,0],
 "structRE_1_1BGSDualCastData_1_1RecordFlags.html#a3890352a6b39f3212837624325fd59efade192245d5bc8656b57c9326f684dbad":[5,0,0,129,0,0,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX298 =
 "structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#afb849da2199668435520c731413157e3":[5,0,0,157,0,7],
 "structRE_1_1BGSKeyword_1_1RecordFlags.html":[5,0,0,159,0],
 "structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32":[5,0,0,159,0,0],
-"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32acdea8be5176bfa829ea756a5b7d9daa5":[5,0,0,159,0,0,1],
-"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32af7748e8757a3e90989655b9400903fe1":[5,0,0,159,0,0,0],
-"structRE_1_1BGSLensFlare_1_1RecordFlags.html":[5,0,0,161,0],
-"structRE_1_1BGSLensFlare_1_1RecordFlags.html#a1c4cee51900bb770a85b2c2f83d1e074":[5,0,0,161,0,0],
-"structRE_1_1BGSLightingTemplate_1_1RecordFlags.html":[5,0,0,162,0]
+"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32acdea8be5176bfa829ea756a5b7d9daa5":[5,0,0,159,0,0,1]
 };

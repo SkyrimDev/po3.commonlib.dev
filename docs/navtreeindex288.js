@@ -1,5 +1,9 @@
 var NAVTREEINDEX288 =
 {
+"namespaceRE_1_1MagicUtilities.html#a493d92671658b42dda7b60deafca3d43":[4,0,0,25,4],
+"namespaceRE_1_1MagicUtilities.html#ad4abe438c5a422311d4c4c782cd9db0a":[4,0,0,25,2],
+"namespaceRE_1_1MagicUtilities.html#adf25d3d7131d44fb9aa0ad62a7236dc6":[4,0,0,25,0],
+"namespaceRE_1_1MagicUtilities.html#ae64368bf060f65e005623f801bbcea85":[4,0,0,25,1],
 "namespaceRE_1_1MapCameraStates.html":[4,0,0,26],
 "namespaceRE_1_1Movement.html":[4,0,0,27],
 "namespaceRE_1_1Movement.html#aa027537238297ea9eeae97a5a8c58137":[4,0,0,27,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX288 =
 "namespaceRE_1_1Offset_1_1SCRIPT__FUNCTION.html":[4,0,0,30,73],
 "namespaceRE_1_1Offset_1_1SCRIPT__FUNCTION.html#a01d029ed9a5d31d1ddce3a15b9999cbc":[4,0,0,30,73,0],
 "namespaceRE_1_1Offset_1_1SCRIPT__FUNCTION.html#a69eac83c0ec07fdcb0ce65304d4462cc":[4,0,0,30,73,1],
-"namespaceRE_1_1Offset_1_1Script.html":[4,0,0,30,72],
-"namespaceRE_1_1Offset_1_1Script.html#a0f372bf1a7fae8ae5fa609d4b3ab2f1e":[4,0,0,30,72,0],
-"namespaceRE_1_1Offset_1_1Script.html#a788661609cfe4345e7f36b9317f67cf5":[4,0,0,30,72,1],
-"namespaceRE_1_1Offset_1_1Script.html#a9ccc1c065ee783f6edc0c9bfe00310c2":[4,0,0,30,72,2],
-"namespaceRE_1_1Offset_1_1SkyrimVM.html":[4,0,0,30,74]
+"namespaceRE_1_1Offset_1_1Script.html":[4,0,0,30,72]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX303 =
 {
+"structRE_1_1BSPCOrbisGamepadDevice_1_1ButtonState.html#addc7502cdcdb35946c5d0c9506e1d0e3":[5,0,0,443,0,27],
+"structRE_1_1BSPCOrbisGamepadDevice_1_1ButtonState.html#afb913f8d27846bceca31bb8451fe5b2b":[5,0,0,443,0,1],
+"structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html":[5,0,0,443,1],
+"structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a003b7be74f18bbfef6e61544c110021d":[5,0,0,443,1,2],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a0cddfeb7b70c67ad00e30aead416ac44":[5,0,0,443,1,13],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a197324ee92e54f43b636aff8b6a45ba3":[5,0,0,443,1,7],
 "structRE_1_1BSPCOrbisGamepadDevice_1_1GamepadData.html#a20e0c659df82299a65b41d3fb2ce130d":[5,0,0,443,1,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX303 =
 "structRE_1_1BSScript_1_1IVMObjectBindInterface.html#af8966f993dbbea3d861f4db32daa326c":[5,0,0,7,72,9],
 "structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html":[5,0,0,7,1,2],
 "structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a22edadb5694b17c6769a0ef121892c9e":[5,0,0,7,1,2,0],
-"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a22edadb5694b17c6769a0ef121892c9ea4ff0cb81f1d2d093837e39bbf48501c8":[5,0,0,7,1,2,0,1],
-"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a22edadb5694b17c6769a0ef121892c9eab10913c938482a8aa4ba85b7a1116cb4":[5,0,0,7,1,2,0,0],
-"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a22edadb5694b17c6769a0ef121892c9ead7ec42086e89c1b1ffe3a16edfc12ef3":[5,0,0,7,1,2,0,2],
-"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a309256885a73a7cd811977b9d318fd57":[5,0,0,7,1,2,3],
-"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a5d9f061d91f8605b320857f9f2c540ff":[5,0,0,7,1,2,1]
+"structRE_1_1BSScript_1_1Internal_1_1FunctionMessage.html#a22edadb5694b17c6769a0ef121892c9ea4ff0cb81f1d2d093837e39bbf48501c8":[5,0,0,7,1,2,0,1]
 };

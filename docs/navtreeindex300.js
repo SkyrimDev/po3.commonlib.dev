@@ -1,5 +1,9 @@
 var NAVTREEINDEX300 =
 {
+"structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html":[5,0,0,216,7],
+"structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html#a07424b333e3e86cd738e680487be5f79":[5,0,0,216,7,0],
+"structRE_1_1BGSReferenceEffect_1_1Data.html":[5,0,0,217,0],
+"structRE_1_1BGSReferenceEffect_1_1Data.html#a01d07edde90b2db51ae1c4cfc345fe8c":[5,0,0,217,0,3],
 "structRE_1_1BGSReferenceEffect_1_1Data.html#a1756b2d846cc61a39f99bd459d115134":[5,0,0,217,0,0],
 "structRE_1_1BGSReferenceEffect_1_1Data.html#a1e3c63cb298d5137f88b166c18ae4de9":[5,0,0,217,0,1],
 "structRE_1_1BGSReferenceEffect_1_1Data.html#ac6fc489e507bad6768e986673eeabeb8":[5,0,0,217,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX300 =
 "structRE_1_1BSAnimationGraphEvent.html":[5,0,0,312],
 "structRE_1_1BSAnimationGraphEvent.html#a3c159de8bf7a81a5f785593365bffd8a":[5,0,0,312,2],
 "structRE_1_1BSAnimationGraphEvent.html#a6383f18d28eebc6a37e858e2a18bebbe":[5,0,0,312,1],
-"structRE_1_1BSAnimationGraphEvent.html#ab5b6806a5057c1af7bd041cd5328189c":[5,0,0,312,0],
-"structRE_1_1BSAnimationGraphManager_1_1AnimationVariable.html":[5,0,0,316,0],
-"structRE_1_1BSAnimationGraphManager_1_1AnimationVariable.html#a0ddafbd7cfc8429861f8c434754b0ec7":[5,0,0,316,0,2],
-"structRE_1_1BSAnimationGraphManager_1_1AnimationVariable.html#a793d82666892c2c01405724185cc2142":[5,0,0,316,0,1],
-"structRE_1_1BSAnimationGraphVariableCache.html":[5,0,0,315]
+"structRE_1_1BSAnimationGraphEvent.html#ab5b6806a5057c1af7bd041cd5328189c":[5,0,0,312,0]
 };

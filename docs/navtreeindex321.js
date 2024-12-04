@@ -1,5 +1,9 @@
 var NAVTREEINDEX321 =
 {
+"structRE_1_1RTTI_1_1BaseClassDescriptor.html#a29199e9ce2750d970f6675e540ee427e":[5,0,0,18,2,4],
+"structRE_1_1RTTI_1_1BaseClassDescriptor.html#a3df7edc171e49f6bedf7c18283705c2c":[5,0,0,18,2,2],
+"structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10":[5,0,0,18,2,0],
+"structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a23f56d95d0068609bb9b60b62af3a054":[5,0,0,18,2,0,3],
 "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a336b9c70df2ffcba17bcfffdae99c015":[5,0,0,18,2,0,1],
 "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a35c3ace1970663a16e5c65baa5941b13":[5,0,0,18,2,0,0],
 "structRE_1_1RTTI_1_1BaseClassDescriptor.html#a470b335bbc99a0bafd94ea9a5058be10a87052cf7e2b0b9ce1887e385ef5020a4":[5,0,0,18,2,0,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX321 =
 "structRE_1_1ShoutHandler.html#aab22ba20834f3d7869ac818b451bfd75":[5,0,0,1590,4],
 "structRE_1_1ShoutHandler.html#ab674e2f5a2daa2450bb62e7f32c8f872":[5,0,0,1590,1],
 "structRE_1_1ShoutHandler.html#ac93fbd3c9ea9b0feb713fe27fd51aff8":[5,0,0,1590,2],
-"structRE_1_1SkillIncrease.html":[5,0,0,1593],
-"structRE_1_1SkillIncrease.html#a4d338981fc65f6ef893b05e07a020e1f":[5,0,0,1593,1],
-"structRE_1_1SkillIncrease_1_1Event.html":[5,0,0,1593,0],
-"structRE_1_1SkillIncrease_1_1Event.html#a0a5d99e39080fc6c50e7dd1297d2f3e3":[5,0,0,1593,0,1],
-"structRE_1_1SkillIncrease_1_1Event.html#abccf50f3f6fb35090277c05ce3522065":[5,0,0,1593,0,0]
+"structRE_1_1SkillIncrease.html":[5,0,0,1593]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX172 =
 {
+"classRE_1_1NiTPointerMap.html#a8039fa4aec20ed0f6613c51893280976":[5,0,0,1511,1],
+"classRE_1_1NiTPointerMap.html#a98df60c5bab12fc2f9f7185fbf658117":[5,0,0,1511,6],
+"classRE_1_1NiTPointerMap.html#aa1c450ff5f397c8255f4944fabbe07c3":[5,0,0,1511,4],
+"classRE_1_1NiTPointerMap.html#aa44b6581f96141f9dd4fe792920bde8a":[5,0,0,1511,2],
 "classRE_1_1NiTPointerMap.html#afb9b0fa43e7a8e0e36f6e465aa5dfdb2":[5,0,0,1511,5],
 "classRE_1_1NiTPrimitiveArray.html":[5,0,0,1492],
 "classRE_1_1NiTPrimitiveArray.html#a08061ea506abe8849d36c3155f4274db":[5,0,0,1492,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX172 =
 "classRE_1_1NonActorMagicTarget.html#a1c2818634314e07d9a0bf03c04b6ba3a":[5,0,0,1521,7],
 "classRE_1_1NonActorMagicTarget.html#a39f3ca5ba41f05254ca6984fd161ae26":[5,0,0,1521,3],
 "classRE_1_1NonActorMagicTarget.html#a4ca8acf9418d9d37f40bd508eb822012":[5,0,0,1521,9],
-"classRE_1_1NonActorMagicTarget.html#a55be1cd228ca1f36be99238801453858":[5,0,0,1521,10],
-"classRE_1_1NonActorMagicTarget.html#a6e08f50130b63d9f88ca909f6fd81be3":[5,0,0,1521,5],
-"classRE_1_1NonActorMagicTarget.html#a7d2d699dce4b3f3e6204157ea2c3958d":[5,0,0,1521,8],
-"classRE_1_1NonActorMagicTarget.html#a8c5861244d8d5fb0019a6b5006bea4d9":[5,0,0,1521,4],
-"classRE_1_1NonActorMagicTarget.html#ae288a79d81a44eb08447e2c6f689dc2e":[5,0,0,1521,2]
+"classRE_1_1NonActorMagicTarget.html#a55be1cd228ca1f36be99238801453858":[5,0,0,1521,10]
 };

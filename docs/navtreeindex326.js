@@ -1,5 +1,9 @@
 var NAVTREEINDEX326 =
 {
+"structRE_1_1TESShout_1_1VariationIDs.html":[5,0,0,1806,2],
+"structRE_1_1TESShout_1_1VariationIDs.html#a9f69780d6ab32c825752f4407d0df784":[5,0,0,1806,2,0],
+"structRE_1_1TESSleepStopEvent.html":[5,0,0,1807],
+"structRE_1_1TESSleepStopEvent.html#a51aaddf2df1d755691cf6d362eeda053":[5,0,0,1807,0],
 "structRE_1_1TESSoulGem_1_1RecordFlags.html":[5,0,0,1808,0],
 "structRE_1_1TESSoulGem_1_1RecordFlags.html#ae41313739f801838663571c70edd7656":[5,0,0,1808,0,0],
 "structRE_1_1TESSoulGem_1_1RecordFlags.html#ae41313739f801838663571c70edd7656a139971970eccf13c9bd54cab6f79db1c":[5,0,0,1808,0,0,2],
@@ -245,9 +249,5 @@ var NAVTREEINDEX326 =
 "structRE_1_1UnloadedRefData.html#a3398a4d3d9e2853e7be4d6df09aecadb":[5,0,0,171,1],
 "structRE_1_1UnloadedRefData.html#a54af2616073a426a62adc4e60e77da7b":[5,0,0,171,3],
 "structRE_1_1UnloadedRefData.html#a7c5f5cf460dfc17e4eb3c5245478168e":[5,0,0,171,2],
-"structRE_1_1UnreachableLocation.html":[5,0,0,621],
-"structRE_1_1UnreachableLocation.html#acb40bbed219d869f04e0494ea8b50e7d":[5,0,0,621,1],
-"structRE_1_1UnreachableLocation.html#ae82212ad3a1d1821f595e36e7d5db6b3":[5,0,0,621,0],
-"structRE_1_1UnreachableLocation.html#aecfe9503ee57ebfe1d3ca38dcb68e5e3":[5,0,0,621,2],
-"structRE_1_1UserEvents_1_1INPUT__CONTEXT__IDS.html":[5,0,0,1859,0]
+"structRE_1_1UnreachableLocation.html":[5,0,0,621]
 };

@@ -1,5 +1,9 @@
 var NAVTREEINDEX313 =
 {
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a6a6e62e37e325b44f8236111af6facb5":[5,0,0,997,0,2],
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a7f50ac6273d52e3af1d94d6fe186e361":[5,0,0,997,0,6],
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1":[5,0,0,997,0,1],
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1a5f0eae052a08e15cf1d1974845296d0d":[5,0,0,997,0,1,1],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1abd3939eb9a725d110b34b628eaad8095":[5,0,0,997,0,1,0],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#ae42e2eac81d9f3973b05b001161ee82f":[5,0,0,997,0,3],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode_1_1HashOp.html":[5,0,0,997,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX313 =
 "structRE_1_1GRenderer_1_1FillTexture.html#ab65becbb521c64aba01cf60c7bf5db9d":[5,0,0,1059,6,0],
 "structRE_1_1GRenderer_1_1RenderCaps.html":[5,0,0,1059,7],
 "structRE_1_1GRenderer_1_1RenderCaps.html#a033faf0b98daee7729bc32ec25985540":[5,0,0,1059,7,2],
-"structRE_1_1GRenderer_1_1RenderCaps.html#a81e35444861b0a9391b3c68b524d1f37":[5,0,0,1059,7,0],
-"structRE_1_1GRenderer_1_1RenderCaps.html#a8ab40cc822fdc1df72afe35583facd45":[5,0,0,1059,7,3],
-"structRE_1_1GRenderer_1_1RenderCaps.html#acc7eb8e1ffaa29b22210468f54e34987":[5,0,0,1059,7,1],
-"structRE_1_1GRenderer_1_1StereoParams.html":[5,0,0,1059,9],
-"structRE_1_1GRenderer_1_1StereoParams.html#a2a1b0c329e273369e39b9dcd3afa0470":[5,0,0,1059,9,5]
+"structRE_1_1GRenderer_1_1RenderCaps.html#a81e35444861b0a9391b3c68b524d1f37":[5,0,0,1059,7,0]
 };

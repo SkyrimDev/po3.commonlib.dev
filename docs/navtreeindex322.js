@@ -1,5 +1,9 @@
 var NAVTREEINDEX322 =
 {
+"structRE_1_1SkillIncrease.html#a4d338981fc65f6ef893b05e07a020e1f":[5,0,0,1593,1],
+"structRE_1_1SkillIncrease_1_1Event.html":[5,0,0,1593,0],
+"structRE_1_1SkillIncrease_1_1Event.html#a0a5d99e39080fc6c50e7dd1297d2f3e3":[5,0,0,1593,0,1],
+"structRE_1_1SkillIncrease_1_1Event.html#abccf50f3f6fb35090277c05ce3522065":[5,0,0,1593,0,0],
 "structRE_1_1SkillIncrease_1_1Event.html#ae0cb3436240ea31b69c8a34905084e89":[5,0,0,1593,0,2],
 "structRE_1_1Sky_1_1SkyStaticRefData.html":[5,0,0,1594,0],
 "structRE_1_1SkyrimVM_1_1ISendEventFilter.html":[5,0,0,1597,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX322 =
 "structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a1790eea97a4ac979e3a8e3adf7a2d72f":[5,0,0,1691,1,0,1],
 "structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a2042597b27c1387c4a2af1b64a914d3e":[5,0,0,1691,1,0,24],
 "structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a24397e53cc71f3fe3bcacca1ab01ac4c":[5,0,0,1691,1,0,21],
-"structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a2961a064fcecfe8f18b2d1440eb54ec5":[5,0,0,1691,1,0,18],
-"structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a2efcc158bb1de1c2521661ecf3bc87d1":[5,0,0,1691,1,0,13],
-"structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a422de377fcc2166a45664b8300027790":[5,0,0,1691,1,0,7],
-"structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a43bb3fb76c1e250c0d3f5eec8be1eb6c":[5,0,0,1691,1,0,2],
-"structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a4fbbec732b4eeef184e9a5ee9812d4e9":[5,0,0,1691,1,0,23]
+"structRE_1_1TESForm_1_1RecordFlags.html#abc9239eacd9a59dd52a46e09ed0a8f00a2961a064fcecfe8f18b2d1440eb54ec5":[5,0,0,1691,1,0,18]
 };

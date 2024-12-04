@@ -1,5 +1,9 @@
 var NAVTREEINDEX198 =
 {
+"classRE_1_1hkaAnimationControl.html#ac7722b2813a20535f3f459a4c8c19cfa":[5,0,0,1087,4],
+"classRE_1_1hkaAnnotationTrack.html":[5,0,0,1088],
+"classRE_1_1hkaAnnotationTrack.html#a6fcf9bf9dd5b1eae001a12fa09d8092d":[5,0,0,1088,1],
+"classRE_1_1hkaAnnotationTrack.html#a7438e8c3711d8b1443909f81f8d88c45":[5,0,0,1088,2],
 "classRE_1_1hkaDefaultAnimationControl.html":[5,0,0,1089],
 "classRE_1_1hkaDefaultAnimationControl.html#a0a78d4a183d55fdc736b7ad3f5db107b":[5,0,0,1089,27],
 "classRE_1_1hkaDefaultAnimationControl.html#a151f55199fc1e887d055690dbc06c0c6":[5,0,0,1089,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX198 =
 "classRE_1_1hkbClipGenerator.html#ad9efbe8915b864ab6ac2d6b5bda520c2":[5,0,0,1112,8],
 "classRE_1_1hkbClipGenerator.html#aeb78433b26b85d618359da09f33c3eea":[5,0,0,1112,31],
 "classRE_1_1hkbClipGenerator.html#aefeacad8258dd3b7b2e2753df741752a":[5,0,0,1112,24],
-"classRE_1_1hkbClipGenerator.html#afa230477fa750c7e183d777140ae0386":[5,0,0,1112,3],
-"classRE_1_1hkbClipGenerator.html#afca2d4265b1bdbc1cd4b6a05607b4359":[5,0,0,1112,27],
-"classRE_1_1hkbClipTriggerArray.html":[5,0,0,1111],
-"classRE_1_1hkbClipTriggerArray.html#aaffeacb81451924f02318cde8691d903":[5,0,0,1111,3],
-"classRE_1_1hkbClipTriggerArray.html#ab4d7b2fe58c7466a51ff7f1c55e69768":[5,0,0,1111,2]
+"classRE_1_1hkbClipGenerator.html#afa230477fa750c7e183d777140ae0386":[5,0,0,1112,3]
 };

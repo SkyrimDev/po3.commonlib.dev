@@ -1,5 +1,9 @@
 var NAVTREEINDEX290 =
 {
+"namespacemembers_func_b.html":[4,1,1,2],
+"namespacemembers_func_c.html":[4,1,1,3],
+"namespacemembers_func_d.html":[4,1,1,4],
+"namespacemembers_func_e.html":[4,1,1,5],
 "namespacemembers_func_f.html":[4,1,1,6],
 "namespacemembers_func_g.html":[4,1,1,7],
 "namespacemembers_func_h.html":[4,1,1,8],
@@ -245,9 +249,5 @@ var NAVTREEINDEX290 =
 "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html":[5,0,2,0,103],
 "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a3b9a8429ebe73dd5a7050051345131b8":[5,0,2,0,103,4],
 "structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a3f736b955dc99114ed9108797a7d9bba":[5,0,2,0,103,3],
-"structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a73a678a97519f33406e1c6bacf4bf9af":[5,0,2,0,103,1],
-"structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a94926686246aae54d05a554d099ac442":[5,0,2,0,103,5],
-"structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#ab471408044d6de2a92ef5c336116d299":[5,0,2,0,103,2],
-"structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#ad511f5bd6e082923ec1351414372ba61":[5,0,2,0,103,0],
-"structREX_1_1W32_1_1D3D11__MAPPED__SUBRESOURCE.html":[5,0,2,0,29]
+"structREX_1_1W32_1_1D3D11__KEY__EXCHANGE__HW__PROTECTION__OUTPUT__DATA.html#a73a678a97519f33406e1c6bacf4bf9af":[5,0,2,0,103,1]
 };

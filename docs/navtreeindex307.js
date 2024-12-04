@@ -1,5 +1,9 @@
 var NAVTREEINDEX307 =
 {
+"structRE_1_1Color.html#aee940edb4ff170bc330f451cd2c1c35c":[5,0,0,583,21],
+"structRE_1_1CombatEquipment.html":[5,0,0,590],
+"structRE_1_1CombatEquipment.html#a1b3b4fc9b317820df5fc46417a91f80c":[5,0,0,590,5],
+"structRE_1_1CombatEquipment.html#a2400e10cb7fa17d30cca085564c7fb8b":[5,0,0,590,4],
 "structRE_1_1CombatEquipment.html#a39dd306393339025aa4ebbf1d9474b72":[5,0,0,590,1],
 "structRE_1_1CombatEquipment.html#a9d8f5e6b0cf1ac54da6d0d008e8732de":[5,0,0,590,0],
 "structRE_1_1CombatEquipment.html#ab9aa679f5fa87289e8d8edbe91ce9610":[5,0,0,590,3],
@@ -245,9 +249,5 @@ var NAVTREEINDEX307 =
 "structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba11a7fc83a3419634da85b680af9c87eb":[5,0,0,119,0,98],
 "structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba11dfd68d03b4f071d0ef8314087588c6":[5,0,0,119,0,211],
 "structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba1213e2060119df9f943faf09bce85683":[5,0,0,119,0,263],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba1254aedd60c113b9d3f4d3b02ba7289c":[5,0,0,119,0,90],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba1285f2c2ab7729c52e6b772f8601dc22":[5,0,0,119,0,245],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba12dbcad18e794a75a81ebafc0990dc09":[5,0,0,119,0,41],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba134c6c669c0016d4d55fc61ab950e544":[5,0,0,119,0,323],
-"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba13e76e5e9f3cc3465ed12507777c68b8":[5,0,0,119,0,113]
+"structRE_1_1DEFAULT__OBJECTS.html#a0a59918db87a1cd914d24c502c85febba1254aedd60c113b9d3f4d3b02ba7289c":[5,0,0,119,0,90]
 };

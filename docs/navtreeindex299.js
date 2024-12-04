@@ -1,5 +1,9 @@
 var NAVTREEINDEX299 =
 {
+"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32af7748e8757a3e90989655b9400903fe1":[5,0,0,159,0,0,0],
+"structRE_1_1BGSLensFlare_1_1RecordFlags.html":[5,0,0,161,0],
+"structRE_1_1BGSLensFlare_1_1RecordFlags.html#a1c4cee51900bb770a85b2c2f83d1e074":[5,0,0,161,0,0],
+"structRE_1_1BGSLightingTemplate_1_1RecordFlags.html":[5,0,0,162,0],
 "structRE_1_1BGSLightingTemplate_1_1RecordFlags.html#ac8bbeccebf46f664495a410a53986c49":[5,0,0,162,0,0],
 "structRE_1_1BGSLightingTemplate_1_1RecordFlags.html#ac8bbeccebf46f664495a410a53986c49a5da8e3855f9b681881e6e798be7cc771":[5,0,0,162,0,0,1],
 "structRE_1_1BGSLightingTemplate_1_1RecordFlags.html#ac8bbeccebf46f664495a410a53986c49a61fe2bcec28bc654fa9381bb59ff66b1":[5,0,0,162,0,0,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX299 =
 "structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86":[5,0,0,216,6,0],
 "structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86a065cf50634f079734fe1be56fd366da2":[5,0,0,216,6,0,0],
 "structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86a550d57dad372c22721aa0b0051ed4fae":[5,0,0,216,6,0,1],
-"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#af68931c4cb9bb49c057dab43f5302958":[5,0,0,216,6,2],
-"structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html":[5,0,0,216,7],
-"structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html#a07424b333e3e86cd738e680487be5f79":[5,0,0,216,7,0],
-"structRE_1_1BGSReferenceEffect_1_1Data.html":[5,0,0,217,0],
-"structRE_1_1BGSReferenceEffect_1_1Data.html#a01d07edde90b2db51ae1c4cfc345fe8c":[5,0,0,217,0,3]
+"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#af68931c4cb9bb49c057dab43f5302958":[5,0,0,216,6,2]
 };

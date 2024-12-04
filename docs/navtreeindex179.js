@@ -1,5 +1,9 @@
 var NAVTREEINDEX179 =
 {
+"classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#a957f5b962ff9cf2c577dda080b4f2329":[5,0,0,19,15,20],
+"classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#a9a538d0692e249c2916591221d35ce84":[5,0,0,19,15,16],
+"classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#a9ef7f1d87a80bf38b227a6100c86f494":[5,0,0,19,15,4],
+"classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#ab87d94df2246b2db6c024f02755be8e7":[5,0,0,19,15,7],
 "classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#abc614aa7f4b2f14815bc932e0efaa650":[5,0,0,19,15,22],
 "classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#abc99dc9e53d3f18ffb46dc1c96fb9955":[5,0,0,19,15,0],
 "classRE_1_1SkyrimScript_1_1ObjectBindPolicy.html#ac887d2ea0f2961d5567d9bdb8b43a996":[5,0,0,19,15,13],
@@ -245,9 +249,5 @@ var NAVTREEINDEX179 =
 "classRE_1_1SpellItem.html#a8c8d27ed03afbe0efb2c1ce76030086d":[5,0,0,1604,11],
 "classRE_1_1SpellItem.html#a8ea8bf121129260b6abcdcf2573e7ebc":[5,0,0,1604,8],
 "classRE_1_1SpellItem.html#a949dc8793e37ac4474a4aa1440f0d7b0":[5,0,0,1604,19],
-"classRE_1_1SpellItem.html#a9dd81e3224de3aed09f621833137fa32":[5,0,0,1604,3],
-"classRE_1_1SpellItem.html#aa2ea4c97c4f3bcc0c6778b0288dead09":[5,0,0,1604,36],
-"classRE_1_1SpellItem.html#aa4c171ff9d781f8287e64508b1a01d30":[5,0,0,1604,9],
-"classRE_1_1SpellItem.html#ab01eb4d2552283ff464ede0542d55942":[5,0,0,1604,26],
-"classRE_1_1SpellItem.html#ab3b7ddb76d3e0f19e08a57ddabe3aad2":[5,0,0,1604,33]
+"classRE_1_1SpellItem.html#a9dd81e3224de3aed09f621833137fa32":[5,0,0,1604,3]
 };

@@ -28,6 +28,10 @@ var classRE_1_1NiPoint3 =
     [ "UnitCross", "classRE_1_1NiPoint3.html#aa0398e6e6148c610a08d19741c455b27", null ],
     [ "Unitize", "classRE_1_1NiPoint3.html#a9ef4d4ef8d791927a9416444a2437a3f", null ],
     [ "Zero", "classRE_1_1NiPoint3.html#a8c372e57004daa3646afa1d3573f6758", null ],
+    [ "operator*", "classRE_1_1NiPoint3.html#a30efb046cccb3e529a745573483857a6", null ],
+    [ "operator+", "classRE_1_1NiPoint3.html#a30b3a01aad4c518b1c6b8786939608c8", null ],
+    [ "operator-", "classRE_1_1NiPoint3.html#a7fdf7cd15836db3a7afdafe556b8be5c", null ],
+    [ "operator/", "classRE_1_1NiPoint3.html#a8534ffbdfe1323075a71f0a3fd8af65e", null ],
     [ "x", "classRE_1_1NiPoint3.html#aa69c751b7b70f971bd96714d6a1e0d02", null ],
     [ "y", "classRE_1_1NiPoint3.html#afe659c07a5e3e8f7fc7436b2e4c4dc7e", null ],
     [ "z", "classRE_1_1NiPoint3.html#a78276b390d1cbb5d1e0d0675018bb381", null ]

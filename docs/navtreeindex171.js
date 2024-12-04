@@ -1,5 +1,9 @@
 var NAVTREEINDEX171 =
 {
+"classRE_1_1NiSkinPartition_1_1Partition.html#affd1b8788732b6637947c1d7769b89b1":[5,0,0,1483,0,2],
+"classRE_1_1NiSourceTexture.html":[5,0,0,1485],
+"classRE_1_1NiSourceTexture.html#a0206259fbade9f32615372725f895621":[5,0,0,1485,6],
+"classRE_1_1NiSourceTexture.html#a1124e9f65d1a8fea7527733c3a235114":[5,0,0,1485,3],
 "classRE_1_1NiSourceTexture.html#a155315ca0583e74664270ac5e7af6d3e":[5,0,0,1485,11],
 "classRE_1_1NiSourceTexture.html#a1e9e811c3b5ad4132d900e386fd4182e":[5,0,0,1485,13],
 "classRE_1_1NiSourceTexture.html#a3451c766f39619f8e14ea38df2263772":[5,0,0,1485,14],
@@ -245,9 +249,5 @@ var NAVTREEINDEX171 =
 "classRE_1_1NiTPointerMap.html":[5,0,0,1511],
 "classRE_1_1NiTPointerMap.html#a0d926398742c577621f31bc614bd285b":[5,0,0,1511,0],
 "classRE_1_1NiTPointerMap.html#a1990069ae694b1d850ab91fc83313cfb":[5,0,0,1511,3],
-"classRE_1_1NiTPointerMap.html#a803176d4bea85c17fb1eedb5da9e47bc":[5,0,0,1511,7],
-"classRE_1_1NiTPointerMap.html#a8039fa4aec20ed0f6613c51893280976":[5,0,0,1511,1],
-"classRE_1_1NiTPointerMap.html#a98df60c5bab12fc2f9f7185fbf658117":[5,0,0,1511,6],
-"classRE_1_1NiTPointerMap.html#aa1c450ff5f397c8255f4944fabbe07c3":[5,0,0,1511,4],
-"classRE_1_1NiTPointerMap.html#aa44b6581f96141f9dd4fe792920bde8a":[5,0,0,1511,2]
+"classRE_1_1NiTPointerMap.html#a803176d4bea85c17fb1eedb5da9e47bc":[5,0,0,1511,7]
 };

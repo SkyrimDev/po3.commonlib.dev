@@ -1,5 +1,9 @@
 var NAVTREEINDEX208 =
 {
+"hkbCharacterSetup_8h.html":[6,0,0,0,0,7,28],
+"hkbCharacterSetup_8h_source.html":[6,0,0,0,0,7,28],
+"hkbCharacterStringData_8h.html":[6,0,0,0,0,7,29],
+"hkbCharacterStringData_8h_source.html":[6,0,0,0,0,7,29],
 "hkbCharacter_8h.html":[6,0,0,0,0,7,25],
 "hkbCharacter_8h_source.html":[6,0,0,0,0,7,25],
 "hkbClipGenerator_8h.html":[6,0,0,0,0,7,30],
@@ -245,9 +249,5 @@ var NAVTREEINDEX208 =
 "index.html#autotoc_md1":[0],
 "index.html#autotoc_md2":[1],
 "index.html#autotoc_md3":[1,0],
-"index.html#autotoc_md4":[1,1],
-"index.html#autotoc_md5":[1,2],
-"index.html#autotoc_md6":[1,3],
-"index.html#autotoc_md7":[2],
-"index.html#autotoc_md9":[3]
+"index.html#autotoc_md4":[1,1]
 };
