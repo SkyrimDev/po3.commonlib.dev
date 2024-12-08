@@ -1,5 +1,12 @@
 var NAVTREEINDEX313 =
 {
+"structRE_1_1GFxResourceSource.html#ad1990b32ecd69d8dac31dc0536345e91":[5,0,0,966,4],
+"structRE_1_1GFxResourceSource_1_1ImportSource.html":[5,0,0,966,0],
+"structRE_1_1GFxResourceSource_1_1ImportSource.html#a258b2f620754eda9d2855a8befc6fb00":[5,0,0,966,0,0],
+"structRE_1_1GFxResourceSource_1_1ImportSource.html#a2a5c6326bf6e3a6e1d81c13b768ea6cb":[5,0,0,966,0,1],
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html":[5,0,0,997,0],
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a0b4270fec52b6d94d6bd8f76199c598e":[5,0,0,997,0,5],
+"structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a5577f9f928751427bf00b51a082e1018":[5,0,0,997,0,4],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a6a6e62e37e325b44f8236111af6facb5":[5,0,0,997,0,2],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#a7f50ac6273d52e3af1d94d6fe186e361":[5,0,0,997,0,6],
 "structRE_1_1GFxResourceWeakLib_1_1ResourceNode.html#aa7e5785898abe783acb02e4ad1a1d5e1":[5,0,0,997,0,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX313 =
 "structRE_1_1GRenderer_1_1DistanceFieldParams.html#a3eee2435cf7d3269c7ea7169c845678f":[5,0,0,1059,5,3],
 "structRE_1_1GRenderer_1_1DistanceFieldParams.html#ab36a96996234c165b00ecafb38469b86":[5,0,0,1059,5,5],
 "structRE_1_1GRenderer_1_1DistanceFieldParams.html#ab4b9902bd32b60f363245df079f12576":[5,0,0,1059,5,4],
-"structRE_1_1GRenderer_1_1FillTexture.html":[5,0,0,1059,6],
-"structRE_1_1GRenderer_1_1FillTexture.html#a15260fd13bf370c27ea1910ca15440a2":[5,0,0,1059,6,2],
-"structRE_1_1GRenderer_1_1FillTexture.html#a35905f8494c09df0de45399190de6279":[5,0,0,1059,6,1],
-"structRE_1_1GRenderer_1_1FillTexture.html#a414cd43550380a77d975c163e65bbab2":[5,0,0,1059,6,3],
-"structRE_1_1GRenderer_1_1FillTexture.html#ab65becbb521c64aba01cf60c7bf5db9d":[5,0,0,1059,6,0],
-"structRE_1_1GRenderer_1_1RenderCaps.html":[5,0,0,1059,7],
-"structRE_1_1GRenderer_1_1RenderCaps.html#a033faf0b98daee7729bc32ec25985540":[5,0,0,1059,7,2],
-"structRE_1_1GRenderer_1_1RenderCaps.html#a81e35444861b0a9391b3c68b524d1f37":[5,0,0,1059,7,0]
+"structRE_1_1GRenderer_1_1FillTexture.html":[5,0,0,1059,6]
 };

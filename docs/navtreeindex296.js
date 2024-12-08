@@ -1,5 +1,12 @@
 var NAVTREEINDEX296 =
 {
+"structREX_1_1W32_1_1XINPUT__CAPABILITIES.html#a3f0a28669eca3ab45d6fdeec3972c8a4":[5,0,2,0,216,4],
+"structREX_1_1W32_1_1XINPUT__CAPABILITIES.html#a6fcfbf82594a70cd6b3ad90eddd7b7dd":[5,0,2,0,216,3],
+"structREX_1_1W32_1_1XINPUT__CAPABILITIES.html#a7c7a5eedd1f4277a2601855e02f05ccb":[5,0,2,0,216,1],
+"structREX_1_1W32_1_1XINPUT__CAPABILITIES.html#adc21fbb70534b0ff38710e7d6f973abd":[5,0,2,0,216,2],
+"structREX_1_1W32_1_1XINPUT__GAMEPAD.html":[5,0,2,0,212],
+"structREX_1_1W32_1_1XINPUT__GAMEPAD.html#a0b755105679279a95b96260c95ddcf16":[5,0,2,0,212,0],
+"structREX_1_1W32_1_1XINPUT__GAMEPAD.html#a1067ac1c83b1d79f50bba58366f44922":[5,0,2,0,212,3],
 "structREX_1_1W32_1_1XINPUT__GAMEPAD.html#a22ecbc740cc89e966d9d5185dd5dba4c":[5,0,2,0,212,2],
 "structREX_1_1W32_1_1XINPUT__GAMEPAD.html#a6cd2bdd3e0c0a99efa34774f4604a4a0":[5,0,2,0,212,4],
 "structREX_1_1W32_1_1XINPUT__GAMEPAD.html#a6ef437c9629854890fce711137d8af2a":[5,0,2,0,212,6],
@@ -242,12 +249,5 @@ var NAVTREEINDEX296 =
 "structRE_1_1ActorValueStorage_1_1LocalMap.html#ab00f7341a05c22cc1be1707b1426b7da":[5,0,0,31,0,3],
 "structRE_1_1Actor_1_1ChangeFlags.html":[5,0,0,32,0],
 "structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619":[5,0,0,32,0,0],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a2b4f18f5c248b5b6f6af995a9c983ef6":[5,0,0,32,0,0,0],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a494f9c0ecee63c7b0d5da5bfc7fce032":[5,0,0,32,0,0,2],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a5126553c0f04e895ad3fd9bff75cddec":[5,0,0,32,0,0,3],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a96fb16ece202b3d440ef2ba80a001772":[5,0,0,32,0,0,8],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619aa89701b8c365c783e522261bc01c1273":[5,0,0,32,0,0,1],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619ab1c3270963fceadb8581cd414c47b35a":[5,0,0,32,0,0,5],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619abf234210a5b1da2864cf41c8714f5878":[5,0,0,32,0,0,9],
-"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619ad61f0bef4ed0a3660ec3bdb6e875f1b1":[5,0,0,32,0,0,4]
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a2b4f18f5c248b5b6f6af995a9c983ef6":[5,0,0,32,0,0,0]
 };

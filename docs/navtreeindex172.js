@@ -1,5 +1,12 @@
 var NAVTREEINDEX172 =
 {
+"classRE_1_1NiTPointerAllocator_1_1AllocNode.html#ad3f4f541abde599b9184f20e05ea62cc":[5,0,0,1508,0,0],
+"classRE_1_1NiTPointerList.html":[5,0,0,1509],
+"classRE_1_1NiTPointerListBase.html":[5,0,0,1510],
+"classRE_1_1NiTPointerMap.html":[5,0,0,1511],
+"classRE_1_1NiTPointerMap.html#a0d926398742c577621f31bc614bd285b":[5,0,0,1511,0],
+"classRE_1_1NiTPointerMap.html#a1990069ae694b1d850ab91fc83313cfb":[5,0,0,1511,3],
+"classRE_1_1NiTPointerMap.html#a803176d4bea85c17fb1eedb5da9e47bc":[5,0,0,1511,7],
 "classRE_1_1NiTPointerMap.html#a8039fa4aec20ed0f6613c51893280976":[5,0,0,1511,1],
 "classRE_1_1NiTPointerMap.html#a98df60c5bab12fc2f9f7185fbf658117":[5,0,0,1511,6],
 "classRE_1_1NiTPointerMap.html#aa1c450ff5f397c8255f4944fabbe07c3":[5,0,0,1511,4],
@@ -242,12 +249,5 @@ var NAVTREEINDEX172 =
 "classRE_1_1NonActorMagicCaster.html#af41481f3206521301edca1e987d5a412":[5,0,0,1520,5],
 "classRE_1_1NonActorMagicCaster.html#af6752aa62908bd291a316887b3d20bec":[5,0,0,1520,8],
 "classRE_1_1NonActorMagicCaster.html#afbb667084948cd7cb0596f346e098a61":[5,0,0,1520,7],
-"classRE_1_1NonActorMagicCaster.html#afd297e8594e97903f4a806162a250d24":[5,0,0,1520,3],
-"classRE_1_1NonActorMagicTarget.html":[5,0,0,1521],
-"classRE_1_1NonActorMagicTarget.html#a0fbb1f90382c245943c00f22857e57e6":[5,0,0,1521,6],
-"classRE_1_1NonActorMagicTarget.html#a1561a6e91e97743384f65b0ce44854c1":[5,0,0,1521,1],
-"classRE_1_1NonActorMagicTarget.html#a1c2818634314e07d9a0bf03c04b6ba3a":[5,0,0,1521,7],
-"classRE_1_1NonActorMagicTarget.html#a39f3ca5ba41f05254ca6984fd161ae26":[5,0,0,1521,3],
-"classRE_1_1NonActorMagicTarget.html#a4ca8acf9418d9d37f40bd508eb822012":[5,0,0,1521,9],
-"classRE_1_1NonActorMagicTarget.html#a55be1cd228ca1f36be99238801453858":[5,0,0,1521,10]
+"classRE_1_1NonActorMagicCaster.html#afd297e8594e97903f4a806162a250d24":[5,0,0,1520,3]
 };

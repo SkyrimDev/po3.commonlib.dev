@@ -1,5 +1,12 @@
 var NAVTREEINDEX297 =
 {
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a494f9c0ecee63c7b0d5da5bfc7fce032":[5,0,0,32,0,0,2],
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a5126553c0f04e895ad3fd9bff75cddec":[5,0,0,32,0,0,3],
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619a96fb16ece202b3d440ef2ba80a001772":[5,0,0,32,0,0,8],
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619aa89701b8c365c783e522261bc01c1273":[5,0,0,32,0,0,1],
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619ab1c3270963fceadb8581cd414c47b35a":[5,0,0,32,0,0,5],
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619abf234210a5b1da2864cf41c8714f5878":[5,0,0,32,0,0,9],
+"structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619ad61f0bef4ed0a3660ec3bdb6e875f1b1":[5,0,0,32,0,0,4],
 "structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619ae191e9dd6fa8dad92aa6f56c1c4621bb":[5,0,0,32,0,0,6],
 "structRE_1_1Actor_1_1ChangeFlags.html#a0a85e6df986f6b89f690ae4295511619aee86c66817d309a8dc30c8d0aa7d9b3d":[5,0,0,32,0,0,7],
 "structRE_1_1Actor_1_1RecordFlags.html":[5,0,0,32,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX297 =
 "structRE_1_1BGSDistantTreeBlock_1_1TreeGroup.html#afd17c89732dc04043f24c57d896927ec":[5,0,0,127,1,5],
 "structRE_1_1BGSDualCastDataDEF.html":[5,0,0,128],
 "structRE_1_1BGSDualCastDataDEF.html#a1cfadeac520257921ff5f64bf5de952f":[5,0,0,128,7],
-"structRE_1_1BGSDualCastDataDEF.html#a2ebdd6bed147514318427721e046ab95":[5,0,0,128,1],
-"structRE_1_1BGSDualCastDataDEF.html#a38fe3f640bca391f174dff71db8c1fb4":[5,0,0,128,4],
-"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01":[5,0,0,128,0],
-"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a08c23526b6d7f51f7ffb14b400d9e7c2":[5,0,0,128,0,1],
-"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a1e2e6159d3f83afefd8cc5f0fde9feda":[5,0,0,128,0,3],
-"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a35c3ace1970663a16e5c65baa5941b13":[5,0,0,128,0,0],
-"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a543b3988abc8571eaf347a3ba54b8df0":[5,0,0,128,0,2],
-"structRE_1_1BGSDualCastDataDEF.html#a964d264b909397bcc98cacc548cae8ec":[5,0,0,128,3]
+"structRE_1_1BGSDualCastDataDEF.html#a2ebdd6bed147514318427721e046ab95":[5,0,0,128,1]
 };

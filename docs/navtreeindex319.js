@@ -1,5 +1,12 @@
 var NAVTREEINDEX319 =
 {
+"structRE_1_1ObjectiveState_1_1Event.html":[5,0,0,1522,0],
+"structRE_1_1ObjectiveState_1_1Event.html#a4235271703e107fa2077e5fa8c02e384":[5,0,0,1522,0,2],
+"structRE_1_1ObjectiveState_1_1Event.html#a6d729fc73d736b54c67382ee47e306b0":[5,0,0,1522,0,1],
+"structRE_1_1ObjectiveState_1_1Event.html#ac322235a71c0ff74a229be2cc2855301":[5,0,0,1522,0,0],
+"structRE_1_1ObjectstoAcquire.html":[5,0,0,55],
+"structRE_1_1ObjectstoAcquire.html#a1634a1daa02b5bd9109d92be84dec151":[5,0,0,55,4],
+"structRE_1_1ObjectstoAcquire.html#a6fc587dd031d376a95cbcaacdb883aae":[5,0,0,55,0],
 "structRE_1_1ObjectstoAcquire.html#ac53da3408c03f5178bafd58b28a38550":[5,0,0,55,3],
 "structRE_1_1ObjectstoAcquire.html#adaa27bf28ea1e8fddec44d12409d96ed":[5,0,0,55,2],
 "structRE_1_1ObjectstoAcquire.html#af946a917a093bcaa596fa41e714acd40":[5,0,0,55,1],
@@ -242,12 +249,5 @@ var NAVTREEINDEX319 =
 "structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a140e1faae18812542aca3467a94d9dc2":[5,0,0,1540,1,0,1,0,10],
 "structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a32d39ab0cb466eb17feaf91ecbf985a9":[5,0,0,1540,1,0,1,0,9],
 "structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a35b30a7132f7f1ee584d2a4bcbc61f33":[5,0,0,1540,1,0,1,0,17],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a5c7bef6da3a67044b6a11a2fccd5d6e2":[5,0,0,1540,1,0,1,0,6],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a5fc609f32d750ddacac91a29d45ce200":[5,0,0,1540,1,0,1,0,2],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a6f085451526607ef8d5b2fb20803d810":[5,0,0,1540,1,0,1,0,4],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a71a3437262d04a3c0b5a6df3de77cb14":[5,0,0,1540,1,0,1,0,14],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a88c76fbd029eb5b3762aa736bc07d024":[5,0,0,1540,1,0,1,0,7],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a9829a23e10c81a2f4e22454ce07c6c8f":[5,0,0,1540,1,0,1,0,8],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4ab3e46508f4d9d49065e9736df11c3a33":[5,0,0,1540,1,0,1,0,1],
-"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4abab626c1523a6370d7e9ba1c32a445c7":[5,0,0,1540,1,0,1,0,0]
+"structRE_1_1PlayerCharacter_1_1PlayerSkills_1_1Data_1_1Skills.html#aa12b7948fea26f956f0705ba356f57b4a5c7bef6da3a67044b6a11a2fccd5d6e2":[5,0,0,1540,1,0,1,0,6]
 };

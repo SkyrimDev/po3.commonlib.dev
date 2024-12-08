@@ -1,5 +1,12 @@
 var NAVTREEINDEX287 =
 {
+"namespaceRE_1_1BSContainer.html#adb9053c4af76c714dd2de7dfe517fd4aa234b41cc8342dc898d9100f4ca35098d":[4,0,0,6,0,1],
+"namespaceRE_1_1BSContainer.html#adb9053c4af76c714dd2de7dfe517fd4aa97bebae73e3334ef0c946c5df81e440b":[4,0,0,6,0,0],
+"namespaceRE_1_1BSCurrent.html":[4,0,0,7],
+"namespaceRE_1_1BSGraphics.html":[4,0,0,8],
+"namespaceRE_1_1BSGraphics.html#a5d56d50dfd31e5c69b61b0758545d16c":[4,0,0,8,23],
+"namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4":[4,0,0,8,26],
+"namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4a03cb956599b7a2edbf1537556a6b4f01":[4,0,0,8,26,1],
 "namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4a3025e0b80c311666b4d62b72e0e139fb":[4,0,0,8,26,2],
 "namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4a6867faeaa475fda467e48267db2bb8a8":[4,0,0,8,26,4],
 "namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4ab059ef117d26d8294c036d39a5506569":[4,0,0,8,26,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX287 =
 "namespaceRE_1_1MagicSystem.html#af55def7e14aedf79256cc8b2f56f4f1fa947e5876292979d219c1a68e401d32ee":[4,0,0,24,3,2],
 "namespaceRE_1_1MagicSystem.html#af55def7e14aedf79256cc8b2f56f4f1fac5773fa6682ca4cde48ab9f265398de3":[4,0,0,24,3,5],
 "namespaceRE_1_1MagicSystem.html#af55def7e14aedf79256cc8b2f56f4f1fadc2ff518e152bf467d1a2ae9686ab650":[4,0,0,24,3,4],
-"namespaceRE_1_1MagicSystem.html#af55def7e14aedf79256cc8b2f56f4f1faede751f43ed71e1990290d6daa9a0bc9":[4,0,0,24,3,1],
-"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68":[4,0,0,24,6],
-"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68a35c3ace1970663a16e5c65baa5941b13":[4,0,0,24,6,0],
-"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68a89c68522561becb4063fdd4ac8f87fc5":[4,0,0,24,6,1],
-"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68ab1cec4b5157c0bc35a95b44a2c1a36f0":[4,0,0,24,6,2],
-"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68ac5773fa6682ca4cde48ab9f265398de3":[4,0,0,24,6,3],
-"namespaceRE_1_1MagicUtilities.html":[4,0,0,25],
-"namespaceRE_1_1MagicUtilities.html#a22518d86f07443f7ac85df0f6ccce4cf":[4,0,0,25,3]
+"namespaceRE_1_1MagicSystem.html#af55def7e14aedf79256cc8b2f56f4f1faede751f43ed71e1990290d6daa9a0bc9":[4,0,0,24,3,1]
 };

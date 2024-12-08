@@ -1,5 +1,12 @@
 var NAVTREEINDEX325 =
 {
+"structRE_1_1TESObjectWEAP_1_1CriticalData.html#a1d88fae9b1f287046011d0285bb8fd1da6f075a0a1cb1d34bb437d391356d0079":[5,0,0,1764,0,0,1],
+"structRE_1_1TESObjectWEAP_1_1CriticalData.html#a1d88fae9b1f287046011d0285bb8fd1daf4f0a8dbb3cbbdf4d5f370794560fded":[5,0,0,1764,0,0,0],
+"structRE_1_1TESObjectWEAP_1_1CriticalData.html#a2f0ecf884e597f990a25e35dd6101c51":[5,0,0,1764,0,4],
+"structRE_1_1TESObjectWEAP_1_1CriticalData.html#a60450e2fbd8436b9b1b9dbd5156ec8c9":[5,0,0,1764,0,7],
+"structRE_1_1TESObjectWEAP_1_1CriticalData.html#a6bc12f74757064e6a884354cb7140c9c":[5,0,0,1764,0,2],
+"structRE_1_1TESObjectWEAP_1_1CriticalData.html#aa7f87334bca79257bc624b51a0725f25":[5,0,0,1764,0,5],
+"structRE_1_1TESObjectWEAP_1_1CriticalData.html#acea6d530f29c2ba3f2eb2f2737348eb8":[5,0,0,1764,0,6],
 "structRE_1_1TESObjectWEAP_1_1Data.html":[5,0,0,1764,1],
 "structRE_1_1TESObjectWEAP_1_1Data.html#a08eee6da8395cdc3f639f9f6c0851792":[5,0,0,1764,1,13],
 "structRE_1_1TESObjectWEAP_1_1Data.html#a0c252daaec6eb643723befe638652f29":[5,0,0,1764,1,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX325 =
 "structRE_1_1TESResolveNPCTemplatesEvent.html#a8b489baf3b027e574f5ed765df4e0c07":[5,0,0,1805,1],
 "structRE_1_1TESShout_1_1RecordFlags.html":[5,0,0,1806,0],
 "structRE_1_1TESShout_1_1RecordFlags.html#a42f81e094509210c563e27e47c6b251c":[5,0,0,1806,0,0],
-"structRE_1_1TESShout_1_1RecordFlags.html#a42f81e094509210c563e27e47c6b251ca31f288540fdc5a34ec918137dd12c01d":[5,0,0,1806,0,0,0],
-"structRE_1_1TESShout_1_1RecordFlags.html#a42f81e094509210c563e27e47c6b251ca4d154eb4b2e5559081d3b2b23402cb53":[5,0,0,1806,0,0,1],
-"structRE_1_1TESShout_1_1RecordFlags.html#a42f81e094509210c563e27e47c6b251ca8cb51f01d7d4e6ffb1f7bfe9be2a46d6":[5,0,0,1806,0,0,2],
-"structRE_1_1TESShout_1_1Variation.html":[5,0,0,1806,1],
-"structRE_1_1TESShout_1_1Variation.html#a691f3f722176c9b8dca97b7185c72ce0":[5,0,0,1806,1,0],
-"structRE_1_1TESShout_1_1Variation.html#a8ac7313e2500c3a44fb669b134826dfc":[5,0,0,1806,1,1],
-"structRE_1_1TESShout_1_1Variation.html#a8b645bace863c64e244e8bdfd13acd74":[5,0,0,1806,1,3],
-"structRE_1_1TESShout_1_1Variation.html#aeefc3f71b71cb8888b96eda7a2592994":[5,0,0,1806,1,2]
+"structRE_1_1TESShout_1_1RecordFlags.html#a42f81e094509210c563e27e47c6b251ca31f288540fdc5a34ec918137dd12c01d":[5,0,0,1806,0,0,0]
 };

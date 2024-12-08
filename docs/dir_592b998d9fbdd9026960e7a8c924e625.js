@@ -8,7 +8,8 @@ var dir_592b998d9fbdd9026960e7a8c924e625 =
       [ "Event", "structRE_1_1LevelIncrease_1_1Event.html", "structRE_1_1LevelIncrease_1_1Event" ]
     ] ],
     [ "LevelUpMenu.h", "LevelUpMenu_8h.html", [
-      [ "LevelUpMenu", "classRE_1_1LevelUpMenu.html", "classRE_1_1LevelUpMenu" ]
+      [ "LevelUpMenu", "classRE_1_1LevelUpMenu.html", "classRE_1_1LevelUpMenu" ],
+      [ "ConfirmLevelUpAttributeCallback", "classRE_1_1LevelUpMenu_1_1ConfirmLevelUpAttributeCallback.html", "classRE_1_1LevelUpMenu_1_1ConfirmLevelUpAttributeCallback" ]
     ] ],
     [ "LightEffect.h", "LightEffect_8h.html", [
       [ "LightEffect", "classRE_1_1LightEffect.html", "classRE_1_1LightEffect" ]

@@ -1,5 +1,12 @@
 var NAVTREEINDEX327 =
 {
+"structRE_1_1UniqueNPCData.html#a57072e44633aaa2322f9449356dd9e17":[5,0,0,173,1],
+"structRE_1_1UniqueNPCData.html#acf49eec36eba51e297b650a9dd172892":[5,0,0,173,2],
+"structRE_1_1UnloadedRefData.html":[5,0,0,171],
+"structRE_1_1UnloadedRefData.html#a3398a4d3d9e2853e7be4d6df09aecadb":[5,0,0,171,1],
+"structRE_1_1UnloadedRefData.html#a54af2616073a426a62adc4e60e77da7b":[5,0,0,171,3],
+"structRE_1_1UnloadedRefData.html#a7c5f5cf460dfc17e4eb3c5245478168e":[5,0,0,171,2],
+"structRE_1_1UnreachableLocation.html":[5,0,0,621],
 "structRE_1_1UnreachableLocation.html#acb40bbed219d869f04e0494ea8b50e7d":[5,0,0,621,1],
 "structRE_1_1UnreachableLocation.html#ae82212ad3a1d1821f595e36e7d5db6b3":[5,0,0,621,0],
 "structRE_1_1UnreachableLocation.html#aecfe9503ee57ebfe1d3ca38dcb68e5e3":[5,0,0,621,2],
@@ -242,12 +249,5 @@ var NAVTREEINDEX327 =
 "structRE_1_1hkbRigidBodySetup.html#a6f91fe169ee992109fef693c6cf4365a":[5,0,0,1121,3],
 "structRE_1_1hkbRigidBodySetup.html#ad51b6204f52e698786a87702f8e9cdb0":[5,0,0,1121,0],
 "structRE_1_1hkbRigidBodySetup.html#ad51b6204f52e698786a87702f8e9cdb0a31e8689e4043726d9a175c783872c06c":[5,0,0,1121,0,2],
-"structRE_1_1hkbRigidBodySetup.html#ad51b6204f52e698786a87702f8e9cdb0a826888a09763de7e2a9f60eb85d88b24":[5,0,0,1121,0,3],
-"structRE_1_1hkbRigidBodySetup.html#ad51b6204f52e698786a87702f8e9cdb0ab10913c938482a8aa4ba85b7a1116cb4":[5,0,0,1121,0,0],
-"structRE_1_1hkbRigidBodySetup.html#ad51b6204f52e698786a87702f8e9cdb0ae5fe57cb585bdc8ca3c9a8c3cd296e96":[5,0,0,1121,0,1],
-"structRE_1_1hkbRigidBodySetup.html#add89264c5ae3bd2f10f6a5f96904445b":[5,0,0,1121,1],
-"structRE_1_1hkbRigidBodySetup.html#aec9825d4cf27c8361a10a42d224fb9d1":[5,0,0,1121,2],
-"structRE_1_1hkbShapeSetup.html":[5,0,0,1122],
-"structRE_1_1hkbShapeSetup.html#a6c3fcf9420eafe65d97f0e1b6fe4d68f":[5,0,0,1122,4],
-"structRE_1_1hkbShapeSetup.html#a704e20adfeca55d885384e6fd0af94d5":[5,0,0,1122,2]
+"structRE_1_1hkbRigidBodySetup.html#ad51b6204f52e698786a87702f8e9cdb0a826888a09763de7e2a9f60eb85d88b24":[5,0,0,1121,0,3]
 };

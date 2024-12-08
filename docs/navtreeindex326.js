@@ -1,5 +1,12 @@
 var NAVTREEINDEX326 =
 {
+"structRE_1_1TESShout_1_1RecordFlags.html#a42f81e094509210c563e27e47c6b251ca4d154eb4b2e5559081d3b2b23402cb53":[5,0,0,1806,0,0,1],
+"structRE_1_1TESShout_1_1RecordFlags.html#a42f81e094509210c563e27e47c6b251ca8cb51f01d7d4e6ffb1f7bfe9be2a46d6":[5,0,0,1806,0,0,2],
+"structRE_1_1TESShout_1_1Variation.html":[5,0,0,1806,1],
+"structRE_1_1TESShout_1_1Variation.html#a691f3f722176c9b8dca97b7185c72ce0":[5,0,0,1806,1,0],
+"structRE_1_1TESShout_1_1Variation.html#a8ac7313e2500c3a44fb669b134826dfc":[5,0,0,1806,1,1],
+"structRE_1_1TESShout_1_1Variation.html#a8b645bace863c64e244e8bdfd13acd74":[5,0,0,1806,1,3],
+"structRE_1_1TESShout_1_1Variation.html#aeefc3f71b71cb8888b96eda7a2592994":[5,0,0,1806,1,2],
 "structRE_1_1TESShout_1_1VariationIDs.html":[5,0,0,1806,2],
 "structRE_1_1TESShout_1_1VariationIDs.html#a9f69780d6ab32c825752f4407d0df784":[5,0,0,1806,2,0],
 "structRE_1_1TESSleepStopEvent.html":[5,0,0,1807],
@@ -242,12 +249,5 @@ var NAVTREEINDEX326 =
 "structRE_1_1UI_1_1UIMenuEntry.html#a697888851326a6b0bce9d7b6f0558253":[5,0,0,1851,0,0],
 "structRE_1_1UniqueNPCData.html":[5,0,0,173],
 "structRE_1_1UniqueNPCData.html#a2c984f622d355e3bcb4e962c93762662":[5,0,0,173,3],
-"structRE_1_1UniqueNPCData.html#a408c3a90ccf0bb30ed46744443d47101":[5,0,0,173,0],
-"structRE_1_1UniqueNPCData.html#a57072e44633aaa2322f9449356dd9e17":[5,0,0,173,1],
-"structRE_1_1UniqueNPCData.html#acf49eec36eba51e297b650a9dd172892":[5,0,0,173,2],
-"structRE_1_1UnloadedRefData.html":[5,0,0,171],
-"structRE_1_1UnloadedRefData.html#a3398a4d3d9e2853e7be4d6df09aecadb":[5,0,0,171,1],
-"structRE_1_1UnloadedRefData.html#a54af2616073a426a62adc4e60e77da7b":[5,0,0,171,3],
-"structRE_1_1UnloadedRefData.html#a7c5f5cf460dfc17e4eb3c5245478168e":[5,0,0,171,2],
-"structRE_1_1UnreachableLocation.html":[5,0,0,621]
+"structRE_1_1UniqueNPCData.html#a408c3a90ccf0bb30ed46744443d47101":[5,0,0,173,0]
 };

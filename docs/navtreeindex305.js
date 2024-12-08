@@ -1,5 +1,12 @@
 var NAVTREEINDEX305 =
 {
+"structRE_1_1BSSoundHandle.html#a4a7d1bfddc91488ff403068d9effb5b0":[5,0,0,485,19],
+"structRE_1_1BSSoundHandle.html#a5ed6fc149090723e968cd27d25f6e138":[5,0,0,485,11],
+"structRE_1_1BSSoundHandle.html#a62151fb84f50dea35c0d23425027ef72":[5,0,0,485,17],
+"structRE_1_1BSSoundHandle.html#a78481bbf723fe3bbd21e1f3ed0bafbb2":[5,0,0,485,4],
+"structRE_1_1BSSoundHandle.html#a86b1c526c5920acb2b4f7a1c04772b01":[5,0,0,485,8],
+"structRE_1_1BSSoundHandle.html#a91d8eb264a5c4d514c5ef8e5b32e0e1f":[5,0,0,485,21],
+"structRE_1_1BSSoundHandle.html#a951a22513de939c4b7280de033ac57e4":[5,0,0,485,20],
 "structRE_1_1BSSoundHandle.html#aad0511cca20406dc7d28a8f9115877bc":[5,0,0,485,15],
 "structRE_1_1BSSoundHandle.html#ab5b19302606013a422da40fda8d170c2":[5,0,0,485,0],
 "structRE_1_1BSSoundHandle.html#ab5b19302606013a422da40fda8d170c2a39133fbe05b9135570285dc1ce4bf3d7":[5,0,0,485,0,3],
@@ -242,12 +249,5 @@ var NAVTREEINDEX305 =
 "structRE_1_1BooksRead_1_1Event.html":[5,0,0,308,0],
 "structRE_1_1BooksRead_1_1Event.html#a00188c81ae528d61f7ccc0e596c09c42":[5,0,0,308,0,1],
 "structRE_1_1BooksRead_1_1Event.html#a7fac7f928ab3c9b8b72e50bb34adb644":[5,0,0,308,0,3],
-"structRE_1_1BooksRead_1_1Event.html#abc9eda84c21bbcfe1de301c3c8faf396":[5,0,0,308,0,2],
-"structRE_1_1BooksRead_1_1Event.html#acbb7d7758c8e09ab5bfaf4dd29eab218":[5,0,0,308,0,0],
-"structRE_1_1BottomBar.html":[5,0,0,309],
-"structRE_1_1BottomBar.html#a5a3390200a208c82fd020ab6fc0f5626":[5,0,0,309,0],
-"structRE_1_1BucketTable.html":[5,0,0,493],
-"structRE_1_1BucketTable.html#a114f358512b2e1286b470d6d89a08991":[5,0,0,493,0],
-"structRE_1_1BucketTable.html#a114f358512b2e1286b470d6d89a08991a439f57ced3871fa5be00c4328859f035":[5,0,0,493,0,0],
-"structRE_1_1BucketTable.html#a114f358512b2e1286b470d6d89a08991ada5c0d6b11db91d4cd17b7dec3295292":[5,0,0,493,0,1]
+"structRE_1_1BooksRead_1_1Event.html#abc9eda84c21bbcfe1de301c3c8faf396":[5,0,0,308,0,2]
 };

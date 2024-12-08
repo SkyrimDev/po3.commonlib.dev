@@ -1205,6 +1205,7 @@ var hierarchy =
         [ "RE::CraftingSubMenus::SmithingMenu::SmithingConfirmCallback", "classRE_1_1CraftingSubMenus_1_1SmithingMenu_1_1SmithingConfirmCallback.html", null ],
         [ "RE::FastTravelConfirmCallback", "classRE_1_1FastTravelConfirmCallback.html", null ],
         [ "RE::LegendarySkillResetConfirmCallback", "classRE_1_1LegendarySkillResetConfirmCallback.html", null ],
+        [ "RE::LevelUpMenu::ConfirmLevelUpAttributeCallback", "classRE_1_1LevelUpMenu_1_1ConfirmLevelUpAttributeCallback.html", null ],
         [ "RE::OldMessageBoxCallback", "classRE_1_1OldMessageBoxCallback.html", null ]
       ] ],
       [ "RE::MenuEventHandler", "classRE_1_1MenuEventHandler.html", [

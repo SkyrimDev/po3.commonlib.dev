@@ -1,5 +1,12 @@
 var NAVTREEINDEX298 =
 {
+"structRE_1_1BGSDualCastDataDEF.html#a38fe3f640bca391f174dff71db8c1fb4":[5,0,0,128,4],
+"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01":[5,0,0,128,0],
+"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a08c23526b6d7f51f7ffb14b400d9e7c2":[5,0,0,128,0,1],
+"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a1e2e6159d3f83afefd8cc5f0fde9feda":[5,0,0,128,0,3],
+"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a35c3ace1970663a16e5c65baa5941b13":[5,0,0,128,0,0],
+"structRE_1_1BGSDualCastDataDEF.html#a39e6a6e8be093bea7b62304fa8a53b01a543b3988abc8571eaf347a3ba54b8df0":[5,0,0,128,0,2],
+"structRE_1_1BGSDualCastDataDEF.html#a964d264b909397bcc98cacc548cae8ec":[5,0,0,128,3],
 "structRE_1_1BGSDualCastDataDEF.html#a9a3e2923aa33576fcd9784bdb7d08800":[5,0,0,128,6],
 "structRE_1_1BGSDualCastDataDEF.html#ab2d4176938ed0ed2414c7e3422d75cb4":[5,0,0,128,2],
 "structRE_1_1BGSDualCastDataDEF.html#ad56c4d7520382196024ab15563b0d2d2":[5,0,0,128,5],
@@ -242,12 +249,5 @@ var NAVTREEINDEX298 =
 "structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#a351d215c91509184f6b99531eab03f90":[5,0,0,157,0,2],
 "structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#a449b157105b639c4bcf6ceb527e41e8a":[5,0,0,157,0,1],
 "structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#a7f6a819a794e89aa9c4126a1f73d8716":[5,0,0,157,0,8],
-"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#a9638617949afd847eea3d0e674ec5a25":[5,0,0,157,0,0],
-"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#aa8595733e6c54f818c7ba52d64a4f004":[5,0,0,157,0,4],
-"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#ab8dc5aca396d291796cde2fda48c2c00":[5,0,0,157,0,3],
-"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#ad03229a9c85bd7d7e27b01ed01ea36f1":[5,0,0,157,0,5],
-"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#afb849da2199668435520c731413157e3":[5,0,0,157,0,7],
-"structRE_1_1BGSKeyword_1_1RecordFlags.html":[5,0,0,159,0],
-"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32":[5,0,0,159,0,0],
-"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32acdea8be5176bfa829ea756a5b7d9daa5":[5,0,0,159,0,0,1]
+"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#a9638617949afd847eea3d0e674ec5a25":[5,0,0,157,0,0]
 };

@@ -1,5 +1,12 @@
 var NAVTREEINDEX311 =
 {
+"structRE_1_1EffectShaderData.html#a7e033cadf028298dee41a76e0c9f85c2":[5,0,0,1673,31],
+"structRE_1_1EffectShaderData.html#a7f85b1afef3fba97d09e46629f88f2d8":[5,0,0,1673,20],
+"structRE_1_1EffectShaderData.html#a801b7df99462a92c94b87712324c473d":[5,0,0,1673,48],
+"structRE_1_1EffectShaderData.html#a824d3aff27e7c71283e8117a0e2c56b4":[5,0,0,1673,10],
+"structRE_1_1EffectShaderData.html#a8749db76fc4fd7237a6976f3b7bfcabf":[5,0,0,1673,78],
+"structRE_1_1EffectShaderData.html#a8771818a874d0e651d589e41ae6b65de":[5,0,0,1673,22],
+"structRE_1_1EffectShaderData.html#a88b5bc6f9d7bcfc1a5141cf55e88bf4b":[5,0,0,1673,76],
 "structRE_1_1EffectShaderData.html#a8b1e1aabf1f945e1b8fd9715628e7373":[5,0,0,1673,49],
 "structRE_1_1EffectShaderData.html#a8c168746e08c53485d8579405a58019a":[5,0,0,1673,77],
 "structRE_1_1EffectShaderData.html#a8dacf5d1a113860de4418077a00d8d81":[5,0,0,1673,44],
@@ -242,12 +249,5 @@ var NAVTREEINDEX311 =
 "structRE_1_1FavoritesMenu_1_1Entry.html":[5,0,0,879,0],
 "structRE_1_1FavoritesMenu_1_1Entry.html#a24b800942576db6804cf5d3837bf2926":[5,0,0,879,0,0],
 "structRE_1_1FavoritesMenu_1_1Entry.html#a3f3a1abf473fbd34c8cec9bc92eb6c65":[5,0,0,879,0,1],
-"structRE_1_1FlameProjectile_1_1RecordFlags.html":[5,0,0,883,0],
-"structRE_1_1FlameProjectile_1_1RecordFlags.html#a8fa0bcd587862f6cc13783c0617525eb":[5,0,0,883,0,0],
-"structRE_1_1FriendshipFactionsStruct.html":[5,0,0,1537],
-"structRE_1_1FriendshipFactionsStruct.html#a18b82d48918f055ee2314535f343166c":[5,0,0,1537,0],
-"structRE_1_1FxDelegate_1_1CallbackDefn.html":[5,0,0,890,0],
-"structRE_1_1FxDelegate_1_1CallbackDefn.html#a5b4ca5f2b05eee6dcc573f1efc990b4b":[5,0,0,890,0,1],
-"structRE_1_1FxDelegate_1_1CallbackDefn.html#af4c613b717215250c16210e984e59576":[5,0,0,890,0,0],
-"structRE_1_1FxDelegate_1_1CallbackHashFunctor.html":[5,0,0,890,1]
+"structRE_1_1FlameProjectile_1_1RecordFlags.html":[5,0,0,883,0]
 };

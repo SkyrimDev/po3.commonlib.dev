@@ -1,5 +1,12 @@
 var NAVTREEINDEX288 =
 {
+"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68":[4,0,0,24,6],
+"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68a35c3ace1970663a16e5c65baa5941b13":[4,0,0,24,6,0],
+"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68a89c68522561becb4063fdd4ac8f87fc5":[4,0,0,24,6,1],
+"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68ab1cec4b5157c0bc35a95b44a2c1a36f0":[4,0,0,24,6,2],
+"namespaceRE_1_1MagicSystem.html#af6692654f281487ce855de84b71e3f68ac5773fa6682ca4cde48ab9f265398de3":[4,0,0,24,6,3],
+"namespaceRE_1_1MagicUtilities.html":[4,0,0,25],
+"namespaceRE_1_1MagicUtilities.html#a22518d86f07443f7ac85df0f6ccce4cf":[4,0,0,25,3],
 "namespaceRE_1_1MagicUtilities.html#a493d92671658b42dda7b60deafca3d43":[4,0,0,25,4],
 "namespaceRE_1_1MagicUtilities.html#ad4abe438c5a422311d4c4c782cd9db0a":[4,0,0,25,2],
 "namespaceRE_1_1MagicUtilities.html#adf25d3d7131d44fb9aa0ad62a7236dc6":[4,0,0,25,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX288 =
 "namespaceRE_1_1Offset_1_1PlayerControls.html":[4,0,0,30,69],
 "namespaceRE_1_1Offset_1_1PlayerControls.html#a33cef35532c53a754bb40a724d111116":[4,0,0,30,69,1],
 "namespaceRE_1_1Offset_1_1PlayerControls.html#ab04880015bf71b2f0e49dd613cb1e98f":[4,0,0,30,69,0],
-"namespaceRE_1_1Offset_1_1RaceSexMenu.html":[4,0,0,30,70],
-"namespaceRE_1_1Offset_1_1RaceSexMenu.html#ae74de7b394929aae8f26e75dfcc3ae1d":[4,0,0,30,70,0],
-"namespaceRE_1_1Offset_1_1ReferenceEffectController.html":[4,0,0,30,71],
-"namespaceRE_1_1Offset_1_1ReferenceEffectController.html#acfed5c88b80d211381e271c3d4090b6d":[4,0,0,30,71,0],
-"namespaceRE_1_1Offset_1_1SCRIPT__FUNCTION.html":[4,0,0,30,73],
-"namespaceRE_1_1Offset_1_1SCRIPT__FUNCTION.html#a01d029ed9a5d31d1ddce3a15b9999cbc":[4,0,0,30,73,0],
-"namespaceRE_1_1Offset_1_1SCRIPT__FUNCTION.html#a69eac83c0ec07fdcb0ce65304d4462cc":[4,0,0,30,73,1],
-"namespaceRE_1_1Offset_1_1Script.html":[4,0,0,30,72]
+"namespaceRE_1_1Offset_1_1RaceSexMenu.html":[4,0,0,30,70]
 };

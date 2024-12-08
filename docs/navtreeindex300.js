@@ -1,5 +1,12 @@
 var NAVTREEINDEX300 =
 {
+"structRE_1_1BGSRefAlias_1_1GenericFillData_1_1Padding.html#a798459f901412e28de5d74820abf07dc":[5,0,0,216,5,0,1],
+"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html":[5,0,0,216,6],
+"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#a838a61a58072238174ea795a30eea9e4":[5,0,0,216,6,1],
+"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86":[5,0,0,216,6,0],
+"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86a065cf50634f079734fe1be56fd366da2":[5,0,0,216,6,0,0],
+"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86a550d57dad372c22721aa0b0051ed4fae":[5,0,0,216,6,0,1],
+"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#af68931c4cb9bb49c057dab43f5302958":[5,0,0,216,6,2],
 "structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html":[5,0,0,216,7],
 "structRE_1_1BGSRefAlias_1_1UniqueActorFillData.html#a07424b333e3e86cd738e680487be5f79":[5,0,0,216,7,0],
 "structRE_1_1BGSReferenceEffect_1_1Data.html":[5,0,0,217,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX300 =
 "structRE_1_1BIPOBJECT.html#ae4d3ec7a8b649bb5ad4a3f986fbf82f2":[5,0,0,303,12],
 "structRE_1_1BIPOBJECT.html#ae509529c6481d7e0cf51164f0f2d49b3":[5,0,0,303,2],
 "structRE_1_1BIPOBJECT.html#aec5cf3097e3072cc4bf9c587b95e8723":[5,0,0,303,3],
-"structRE_1_1BSAnimNoteListener_1_1BSAnimReceiverType.html":[5,0,0,319,0],
-"structRE_1_1BSAnimNoteListener_1_1BSAnimReceiverType.html#a93f8a0bf7f0dccea623fca842c1451cb":[5,0,0,319,0,1],
-"structRE_1_1BSAnimNoteListener_1_1BSAnimReceiverType.html#ae93da5b888e47843d3fa7a65389a2cdd":[5,0,0,319,0,0],
-"structRE_1_1BSAnimNoteListener_1_1BSAnimReceiverType.html#af354bf57a1edc8aedc1ce89b6c8b3b56":[5,0,0,319,0,2],
-"structRE_1_1BSAnimationGraphEvent.html":[5,0,0,312],
-"structRE_1_1BSAnimationGraphEvent.html#a3c159de8bf7a81a5f785593365bffd8a":[5,0,0,312,2],
-"structRE_1_1BSAnimationGraphEvent.html#a6383f18d28eebc6a37e858e2a18bebbe":[5,0,0,312,1],
-"structRE_1_1BSAnimationGraphEvent.html#ab5b6806a5057c1af7bd041cd5328189c":[5,0,0,312,0]
+"structRE_1_1BSAnimNoteListener_1_1BSAnimReceiverType.html":[5,0,0,319,0]
 };

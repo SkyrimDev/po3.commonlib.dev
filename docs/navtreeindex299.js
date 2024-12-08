@@ -1,5 +1,12 @@
 var NAVTREEINDEX299 =
 {
+"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#aa8595733e6c54f818c7ba52d64a4f004":[5,0,0,157,0,4],
+"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#ab8dc5aca396d291796cde2fda48c2c00":[5,0,0,157,0,3],
+"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#ad03229a9c85bd7d7e27b01ed01ea36f1":[5,0,0,157,0,5],
+"structRE_1_1BGSImpactManager_1_1ImpactSoundData.html#afb849da2199668435520c731413157e3":[5,0,0,157,0,7],
+"structRE_1_1BGSKeyword_1_1RecordFlags.html":[5,0,0,159,0],
+"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32":[5,0,0,159,0,0],
+"structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32acdea8be5176bfa829ea756a5b7d9daa5":[5,0,0,159,0,0,1],
 "structRE_1_1BGSKeyword_1_1RecordFlags.html#ad68a8573eaf40cc1f5c92eac43787b32af7748e8757a3e90989655b9400903fe1":[5,0,0,159,0,0,0],
 "structRE_1_1BGSLensFlare_1_1RecordFlags.html":[5,0,0,161,0],
 "structRE_1_1BGSLensFlare_1_1RecordFlags.html#a1c4cee51900bb770a85b2c2f83d1e074":[5,0,0,161,0,0],
@@ -242,12 +249,5 @@ var NAVTREEINDEX299 =
 "structRE_1_1BGSRefAlias_1_1FromExternalFillData.html#abf7ce1838795bc753336ec8123bd314b":[5,0,0,216,4,2],
 "structRE_1_1BGSRefAlias_1_1GenericFillData_1_1Padding.html":[5,0,0,216,5,0],
 "structRE_1_1BGSRefAlias_1_1GenericFillData_1_1Padding.html#a357d4ba0f7473a22621993a0b5814e27":[5,0,0,216,5,0,0],
-"structRE_1_1BGSRefAlias_1_1GenericFillData_1_1Padding.html#a78ebc3ddd66bce7aaa8143ccfead2c18":[5,0,0,216,5,0,2],
-"structRE_1_1BGSRefAlias_1_1GenericFillData_1_1Padding.html#a798459f901412e28de5d74820abf07dc":[5,0,0,216,5,0,1],
-"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html":[5,0,0,216,6],
-"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#a838a61a58072238174ea795a30eea9e4":[5,0,0,216,6,1],
-"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86":[5,0,0,216,6,0],
-"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86a065cf50634f079734fe1be56fd366da2":[5,0,0,216,6,0,0],
-"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#aaf38d12084af259ec7be86b16d1acf86a550d57dad372c22721aa0b0051ed4fae":[5,0,0,216,6,0,1],
-"structRE_1_1BGSRefAlias_1_1NearAliasFillData.html#af68931c4cb9bb49c057dab43f5302958":[5,0,0,216,6,2]
+"structRE_1_1BGSRefAlias_1_1GenericFillData_1_1Padding.html#a78ebc3ddd66bce7aaa8143ccfead2c18":[5,0,0,216,5,0,2]
 };
