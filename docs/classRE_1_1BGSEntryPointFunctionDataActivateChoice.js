@@ -6,7 +6,7 @@ var classRE_1_1BGSEntryPointFunctionDataActivateChoice =
       [ "kReplaceDefault", "classRE_1_1BGSEntryPointFunctionDataActivateChoice.html#ac4d767d841298b8f037eb270cb59f62caa6bdb55aec96e1b4305b316e41275df3", null ]
     ] ],
     [ "~BGSEntryPointFunctionDataActivateChoice", "classRE_1_1BGSEntryPointFunctionDataActivateChoice.html#a7c9019d8cb79aa7c5bb9616aab34db37", null ],
-    [ "GetPerk", "classRE_1_1BGSEntryPointFunctionDataActivateChoice.html#a380f17394067ae217e06578dce87ac71", null ],
+    [ "GetPerk", "classRE_1_1BGSEntryPointFunctionDataActivateChoice.html#a1c3bc922294bd2973b8c3891c77b7968", null ],
     [ "GetType", "classRE_1_1BGSEntryPointFunctionDataActivateChoice.html#a108ad0af96e8f4db0b1e4df9f1242182", null ],
     [ "LoadFunctionData", "classRE_1_1BGSEntryPointFunctionDataActivateChoice.html#ae2250f1204c12bdb3973b5a1a8f4d01f", null ],
     [ "ReplacesDefault", "classRE_1_1BGSEntryPointFunctionDataActivateChoice.html#a3bb2bcc849d3cf4591a93b232364de99", null ],

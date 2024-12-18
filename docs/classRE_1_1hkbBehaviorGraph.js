@@ -9,7 +9,7 @@ var classRE_1_1hkbBehaviorGraph =
     [ "CalcContentStatistics", "classRE_1_1hkbBehaviorGraph.html#aecd54171f3dc5713d84361575301e36c", null ],
     [ "Deactivate", "classRE_1_1hkbBehaviorGraph.html#a8d262fecee3abed7dfe51c7cb1339afe", null ],
     [ "Generate", "classRE_1_1hkbBehaviorGraph.html#a6f7e47d44daf5499aa735bed6d3b7e2e", null ],
-    [ "GetClassType", "classRE_1_1hkbBehaviorGraph.html#abbfd1a5f40541d9529506f6013888a65", null ],
+    [ "GetClassType", "classRE_1_1hkbBehaviorGraph.html#a8a72154b049e20680ae206c3f2cef34a", null ],
     [ "Unk_06", "classRE_1_1hkbBehaviorGraph.html#a5e8715dde77c18b84a7353af4243129c", null ],
     [ "Unk_09", "classRE_1_1hkbBehaviorGraph.html#aa616b0989c842c33cea75f02f81f04e1", null ],
     [ "Unk_0C", "classRE_1_1hkbBehaviorGraph.html#aae80d1db6077431cb06f853b4b66105c", null ],

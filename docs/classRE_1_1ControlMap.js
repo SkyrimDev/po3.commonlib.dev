@@ -9,7 +9,7 @@ var classRE_1_1ControlMap =
     [ "AreControlsEnabled", "classRE_1_1ControlMap.html#a2a6b2c38eb152d48df0209001c1c33e6", null ],
     [ "GetGamePadType", "classRE_1_1ControlMap.html#a05ff8173523e437b8b4593a42b756c01", null ],
     [ "GetMappedKey", "classRE_1_1ControlMap.html#a56777b697c394a6d3d5904134c9b6dcd", null ],
-    [ "GetSingleton", "classRE_1_1ControlMap.html#a9574b390f469bb88810a9d19caf1476d", null ],
+    [ "GetSingleton", "classRE_1_1ControlMap.html#afbbe9130084abe3320d88cc02cffc097", null ],
     [ "GetUserEventName", "classRE_1_1ControlMap.html#a51ce85c2df2526f9c444fe223febbf62", null ],
     [ "IsActivateControlsEnabled", "classRE_1_1ControlMap.html#a6a8c8ef34ed897a876618d92daa7e936", null ],
     [ "IsConsoleControlsEnabled", "classRE_1_1ControlMap.html#a443bb6f74708cd190e9256385b0c27f3", null ],

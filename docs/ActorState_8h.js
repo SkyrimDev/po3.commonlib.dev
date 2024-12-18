@@ -1,8 +1,8 @@
 var ActorState_8h =
 [
-    [ "ActorState", "classRE_1_1ActorState.html", "classRE_1_1ActorState" ],
-    [ "ActorState1", "structRE_1_1ActorState_1_1ActorState1.html", "structRE_1_1ActorState_1_1ActorState1" ],
-    [ "ActorState2", "structRE_1_1ActorState_1_1ActorState2.html", "structRE_1_1ActorState_1_1ActorState2" ],
+    [ "RE::ActorState", "classRE_1_1ActorState.html", "classRE_1_1ActorState" ],
+    [ "RE::ActorState::ActorState1", "structRE_1_1ActorState_1_1ActorState1.html", "structRE_1_1ActorState_1_1ActorState1" ],
+    [ "RE::ActorState::ActorState2", "structRE_1_1ActorState_1_1ActorState2.html", "structRE_1_1ActorState_1_1ActorState2" ],
     [ "ACTOR_LIFE_STATE", "ActorState_8h.html#a7cd5b617cffa663d07fe1ca334d4ce57", [
       [ "kAlive", "ActorState_8h.html#a7cd5b617cffa663d07fe1ca334d4ce57a1afae68d912420c95faecff14f083c26", null ],
       [ "kDying", "ActorState_8h.html#a7cd5b617cffa663d07fe1ca334d4ce57a22d8350fd45931701649ed1832da57b3", null ],

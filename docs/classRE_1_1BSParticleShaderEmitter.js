@@ -11,7 +11,7 @@ var classRE_1_1BSParticleShaderEmitter =
     ] ],
     [ "~BSParticleShaderEmitter", "classRE_1_1BSParticleShaderEmitter.html#ae4018b79514758ed690ad9239423ec11", null ],
     [ "Generate", "classRE_1_1BSParticleShaderEmitter.html#ad31c24e4714727704a611f2c83cf0054", null ],
-    [ "GetBoundsObject", "classRE_1_1BSParticleShaderEmitter.html#a246588f8d7d4d06e529961d54a880f5e", null ],
+    [ "GetBoundsObject", "classRE_1_1BSParticleShaderEmitter.html#adac8f2b5925b60962edf955a67a71dd3", null ],
     [ "alpha", "classRE_1_1BSParticleShaderEmitter.html#a63d9266ffe2a446f03dabeca0b95268f", null ],
     [ "emitterType", "classRE_1_1BSParticleShaderEmitter.html#a0f9e26c3de7bcac113bbcc6d2122bde9", null ],
     [ "generateReminder", "classRE_1_1BSParticleShaderEmitter.html#a1be97daaa5cf8ff3e9b8ce2def0cb83c", null ],

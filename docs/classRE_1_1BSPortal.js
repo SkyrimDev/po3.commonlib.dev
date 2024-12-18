@@ -1,8 +1,8 @@
 var classRE_1_1BSPortal =
 [
     [ "~BSPortal", "classRE_1_1BSPortal.html#ac025c7f50a66bb54d641cf4eb4c615d4", null ],
-    [ "CreateClone", "classRE_1_1BSPortal.html#a246498fd582f03256d9249115ea02d79", null ],
-    [ "GetRTTI", "classRE_1_1BSPortal.html#a03687db36cdbed9cae204ae8a633e23e", null ],
+    [ "CreateClone", "classRE_1_1BSPortal.html#a6b0c8c1e3e25fa91761be5f029098b33", null ],
+    [ "GetRTTI", "classRE_1_1BSPortal.html#a4001553cd3d940bf5f5e09fa7cc26494", null ],
     [ "entranceRoom", "classRE_1_1BSPortal.html#a947031a1856abf8ed8fc864a06b8fd57", null ],
     [ "exitRoom", "classRE_1_1BSPortal.html#a7c339d483d43f7169c5f5eab4fe8cd00", null ],
     [ "Ni_RTTI", "classRE_1_1BSPortal.html#a5da36bda4f13780ee71564805871419c", null ],

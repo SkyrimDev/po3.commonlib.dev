@@ -1,6 +1,6 @@
 var classRE_1_1BSTimer =
 [
-    [ "GetSingleton", "classRE_1_1BSTimer.html#a2661accde06bbf156b098f4f03605d33", null ],
+    [ "GetSingleton", "classRE_1_1BSTimer.html#a3d30a71d75ccbfef1619f165212d01ec", null ],
     [ "QGlobalTimeMultiplier", "classRE_1_1BSTimer.html#a21877b0e9aa63404d1b416a05beb1720", null ],
     [ "QGlobalTimeMultiplierTarget", "classRE_1_1BSTimer.html#a8f63122e71083e53c2db73fc1b236007", null ],
     [ "SetGlobalTimeMultiplier", "classRE_1_1BSTimer.html#a0c8457eb2ca0c2d2a49c8cfe40bf00a7", null ],

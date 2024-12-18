@@ -4,7 +4,7 @@ var classRE_1_1BGSSaveLoadManager =
     [ "Thread", "classRE_1_1BGSSaveLoadManager_1_1Thread.html", "classRE_1_1BGSSaveLoadManager_1_1Thread" ],
     [ "~BGSSaveLoadManager", "classRE_1_1BGSSaveLoadManager.html#ad8f84d49c023e3177315ea457a25755f", null ],
     [ "GenerateCharacterID", "classRE_1_1BGSSaveLoadManager.html#a7e9c5df330bb0cf03ec6a857d3d203cb", null ],
-    [ "GetSingleton", "classRE_1_1BGSSaveLoadManager.html#a07540c44c0f1ececaa6ef3cdab31d472", null ],
+    [ "GetSingleton", "classRE_1_1BGSSaveLoadManager.html#ae51ca72de1c8980988273d69f88d49dd", null ],
     [ "Load", "classRE_1_1BGSSaveLoadManager.html#ac57ca8c1aa0b590c3b4790dc6d47a1bb", null ],
     [ "Load", "classRE_1_1BGSSaveLoadManager.html#a9b9e728caf456f6d6748bce61f84a341", null ],
     [ "Load_Impl", "classRE_1_1BGSSaveLoadManager.html#a7ea6583f3476bba929cc9465275a2e0a", null ],

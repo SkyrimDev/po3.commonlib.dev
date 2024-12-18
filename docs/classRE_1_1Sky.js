@@ -23,7 +23,7 @@ var classRE_1_1Sky =
     ] ],
     [ "~Sky", "classRE_1_1Sky.html#ad6b9f36b1a88a84aa9b993218d89d414", null ],
     [ "ForceWeather", "classRE_1_1Sky.html#a6bed9be0c9f6bc76bdbdf4ed5ca941cd", null ],
-    [ "GetSingleton", "classRE_1_1Sky.html#a40d76ff382e78c880b032677a5ced18d", null ],
+    [ "GetSingleton", "classRE_1_1Sky.html#aaa99d4f3731e7abc931b8b10bf6d15cc", null ],
     [ "GetSunriseBegin", "classRE_1_1Sky.html#afed2a2c97c1abf402f7a3806fad9dd27", null ],
     [ "GetSunriseEnd", "classRE_1_1Sky.html#a7529887cc8b089fce2ee454bf6f660c2", null ],
     [ "GetSunsetBegin", "classRE_1_1Sky.html#abafa0dca458695e73cc9e408e49e6372", null ],

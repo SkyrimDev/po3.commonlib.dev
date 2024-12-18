@@ -4,7 +4,7 @@ var classRE_1_1VATS =
       [ "kNone", "classRE_1_1VATS.html#af935cea4087918d25745c633c376e5f8a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kKillCam", "classRE_1_1VATS.html#af935cea4087918d25745c633c376e5f8acbbe8aac5e8e779ac782423ab02a3f23", null ]
     ] ],
-    [ "GetSingleton", "classRE_1_1VATS.html#acab0c6823645fca62684e7f7e8df76f0", null ],
+    [ "GetSingleton", "classRE_1_1VATS.html#ab9a85b2080f0888bedc925e63c92f6e8", null ],
     [ "SetMagicTimeSlowdown", "classRE_1_1VATS.html#a9a6ca43547c76370c2d545eba5f5a0a9", null ],
     [ "attacker", "classRE_1_1VATS.html#a1ae7d76c74136b493fbe998f0def6d98", null ],
     [ "cameraShot", "classRE_1_1VATS.html#a57eccaf9ca30d69e2e24980763d1308e", null ],

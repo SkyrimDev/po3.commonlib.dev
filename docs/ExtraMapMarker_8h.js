@@ -1,7 +1,7 @@
 var ExtraMapMarker_8h =
 [
-    [ "MapMarkerData", "classRE_1_1MapMarkerData.html", "classRE_1_1MapMarkerData" ],
-    [ "ExtraMapMarker", "classRE_1_1ExtraMapMarker.html", "classRE_1_1ExtraMapMarker" ],
+    [ "RE::MapMarkerData", "classRE_1_1MapMarkerData.html", "classRE_1_1MapMarkerData" ],
+    [ "RE::ExtraMapMarker", "classRE_1_1ExtraMapMarker.html", "classRE_1_1ExtraMapMarker" ],
     [ "MARKER_TYPE", "ExtraMapMarker_8h.html#a7108f97bf1795e68f1fe837ea35f8025", [
       [ "kNone", "ExtraMapMarker_8h.html#a7108f97bf1795e68f1fe837ea35f8025a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kCity", "ExtraMapMarker_8h.html#a7108f97bf1795e68f1fe837ea35f8025a3ee56762edf7181156652a45bb7d3cc8", null ],

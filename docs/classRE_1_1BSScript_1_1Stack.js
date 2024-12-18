@@ -24,7 +24,7 @@ var classRE_1_1BSScript_1_1Stack =
     ] ],
     [ "~Stack", "classRE_1_1BSScript_1_1Stack.html#afb885fc4af19b64d65929183c2eb6e96", null ],
     [ "GetPageForFrame", "classRE_1_1BSScript_1_1Stack.html#aa82b8ea95594027c441a2f71aec9ed19", null ],
-    [ "GetStackFrameVariable", "classRE_1_1BSScript_1_1Stack.html#a80caadc3bfea95d1d34eb07051587cd1", null ],
+    [ "GetStackFrameVariable", "classRE_1_1BSScript_1_1Stack.html#a6188c3dc515404a393110273c05ac2ed", null ],
     [ "callback", "classRE_1_1BSScript_1_1Stack.html#a5e8c18af586ddb735304d2a3c0ad3757", null ],
     [ "frames", "classRE_1_1BSScript_1_1Stack.html#a6883e6383bc50d58629b1e530c7c046f", null ],
     [ "freezeState", "classRE_1_1BSScript_1_1Stack.html#ad78c101a285c02363b7f69cdf66d1b3a", null ],

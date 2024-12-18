@@ -1,8 +1,8 @@
 var classRE_1_1BSOcclusionPlane =
 [
     [ "~BSOcclusionPlane", "classRE_1_1BSOcclusionPlane.html#aea3ff283d2aa484b7ac5343ff960d2e8", null ],
-    [ "CreateClone", "classRE_1_1BSOcclusionPlane.html#af5f334cf957f0d90db7c699149e6a806", null ],
-    [ "GetRTTI", "classRE_1_1BSOcclusionPlane.html#abedd3c675b5acb212575029d78e95624", null ],
+    [ "CreateClone", "classRE_1_1BSOcclusionPlane.html#a4b624a8f7e11f6d44241c4a355a6f14f", null ],
+    [ "GetRTTI", "classRE_1_1BSOcclusionPlane.html#ae434690b3b3e6cdaa2742a5c366c079b", null ],
     [ "IsOcclusionBox", "classRE_1_1BSOcclusionPlane.html#a2629d9a0170d021af4a4a1280369d413", null ],
     [ "IsOcclusionPlane", "classRE_1_1BSOcclusionPlane.html#a9319693ab51d762799c84f75f8e3f297", null ],
     [ "frustum", "classRE_1_1BSOcclusionPlane.html#a26c32a6827b05bc94069f4abdad5e08c", null ],

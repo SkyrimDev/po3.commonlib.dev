@@ -14,7 +14,7 @@ var classRE_1_1TESObjectACTI =
     [ "ClearData", "classRE_1_1TESObjectACTI.html#af6caaf98818af0235b723e3afe0d96a3", null ],
     [ "GetActivateText", "classRE_1_1TESObjectACTI.html#a2654e64852bc40beb0bc16be53ce706d", null ],
     [ "GetIgnoredBySandbox", "classRE_1_1TESObjectACTI.html#a680b565154e787d266e69fbe5a2023d9", null ],
-    [ "GetWaterType", "classRE_1_1TESObjectACTI.html#a84aa62bfead240ec6909e66fa9e23795", null ],
+    [ "GetWaterType", "classRE_1_1TESObjectACTI.html#aa9e73f78a48c55726b5b702418017a51", null ],
     [ "InitializeData", "classRE_1_1TESObjectACTI.html#a6f2f7615e667587fc604669ce2a1a6e4", null ],
     [ "InitItemImpl", "classRE_1_1TESObjectACTI.html#ab88170ae91655ac83d142fddcfdee566", null ],
     [ "IsWater", "classRE_1_1TESObjectACTI.html#a7e91b87e51cc70673a6c24cb67485f34", null ],

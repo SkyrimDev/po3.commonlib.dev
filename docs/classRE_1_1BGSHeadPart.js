@@ -23,7 +23,7 @@ var classRE_1_1BGSHeadPart =
     ] ],
     [ "~BGSHeadPart", "classRE_1_1BGSHeadPart.html#a24597ad91a2904e440373f6df4bb3430", null ],
     [ "ClearData", "classRE_1_1BGSHeadPart.html#aca2808e892f87c6847a9e2a24a2e1bb8", null ],
-    [ "GetFormEditorID", "classRE_1_1BGSHeadPart.html#aade74e7b159999d22f8e3f03e51b4578", null ],
+    [ "GetFormEditorID", "classRE_1_1BGSHeadPart.html#afc65cafef2e735212327595c1568c6d0", null ],
     [ "InitializeData", "classRE_1_1BGSHeadPart.html#a5e6fea240790fe22accce43816066695", null ],
     [ "InitItemImpl", "classRE_1_1BGSHeadPart.html#a9b7d92310a813701cfe95751dfa4037c", null ],
     [ "IsExtraPart", "classRE_1_1BGSHeadPart.html#aa023d431ef94b1a09494f75c3fb385b4", null ],

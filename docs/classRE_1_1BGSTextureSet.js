@@ -9,7 +9,7 @@ var classRE_1_1BGSTextureSet =
     ] ],
     [ "~BGSTextureSet", "classRE_1_1BGSTextureSet.html#a01b512ba71a7c0d25feed688fd7f625d", null ],
     [ "ClearData", "classRE_1_1BGSTextureSet.html#acc6a39e472d09889e7420bb5377c603d", null ],
-    [ "Clone3D", "classRE_1_1BGSTextureSet.html#a6b836fe1e28a7405ff082b8c21e2d5fe", null ],
+    [ "Clone3D", "classRE_1_1BGSTextureSet.html#abfad4b58bb5da78a0c788e0cd41dfec4", null ],
     [ "InitializeData", "classRE_1_1BGSTextureSet.html#a483ed3f4336a56c1fa9695466b378c08", null ],
     [ "Load", "classRE_1_1BGSTextureSet.html#a2d55975c4ba50c99c927af7f1d0f189a", null ],
     [ "UnClone3D", "classRE_1_1BGSTextureSet.html#ac854d9642b8e4d50efd85e2c968c3ad2", null ],

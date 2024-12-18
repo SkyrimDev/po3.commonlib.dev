@@ -11,7 +11,7 @@ var classRE_1_1BGSSoundOutput =
     [ "~BGSSoundOutput", "classRE_1_1BGSSoundOutput.html#ab1eb0263513817156094b21d59f932a1", null ],
     [ "ClearData", "classRE_1_1BGSSoundOutput.html#a3da8cb00b7d40992e370ee5ba5c824d9", null ],
     [ "DoGetAttenuatesWithDistance", "classRE_1_1BGSSoundOutput.html#aff1f6a7cd2ef961126838beaec25460b", null ],
-    [ "DoGetAttenuation", "classRE_1_1BGSSoundOutput.html#a6d41e5d9a26bb174db653747b80735fc", null ],
+    [ "DoGetAttenuation", "classRE_1_1BGSSoundOutput.html#a79e7bfa2283b0727b851f4e27006b5e7", null ],
     [ "DoGetAudibility", "classRE_1_1BGSSoundOutput.html#aedeeed4941538ad6157b8f6d1908954b", null ],
     [ "DoGetHasSpeakerBias", "classRE_1_1BGSSoundOutput.html#a8320d6ab3ca1e7c01ff6bc438d9e290a", null ],
     [ "DoGetReverbSendLevel", "classRE_1_1BGSSoundOutput.html#a243c33a80f56ad76ce843ab5763cee82", null ],

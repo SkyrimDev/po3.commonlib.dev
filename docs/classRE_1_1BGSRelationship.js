@@ -18,7 +18,7 @@ var classRE_1_1BGSRelationship =
       [ "kArchnemesis", "classRE_1_1BGSRelationship.html#aefdd6f64f030535bff9fbc3b26e1ce64a8700bbc9c53247909bd04889e3992ead", null ]
     ] ],
     [ "~BGSRelationship", "classRE_1_1BGSRelationship.html#a1f8b3bf7a695e0586acb20e572b49ccb", null ],
-    [ "GetRelationship", "classRE_1_1BGSRelationship.html#a8ee93178a118c6b590ed798350685df2", null ],
+    [ "GetRelationship", "classRE_1_1BGSRelationship.html#a4493f7b1ac8d45e4797f55f7729987d5", null ],
     [ "InitializeData", "classRE_1_1BGSRelationship.html#a8dd7c7d13a0e0327345ec189cfe801de", null ],
     [ "InitItemImpl", "classRE_1_1BGSRelationship.html#a41066032bc327227036ae1fd16cfb1be", null ],
     [ "InitLoadGame", "classRE_1_1BGSRelationship.html#a9256365b528f29b8d64c8ef840ab8aa0", null ],

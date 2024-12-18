@@ -2,13 +2,7 @@ var dir_3f8561175abc8995e4d2cbb16165d45e =
 [
     [ "Impl", "dir_3edf848fd1e181c3eced14ea5bef890b.html", "dir_3edf848fd1e181c3eced14ea5bef890b" ],
     [ "API.h", "API_8h.html", "API_8h" ],
-    [ "Events.h", "Events_8h.html", [
-      [ "ModCallbackEvent", "structSKSE_1_1ModCallbackEvent.html", "structSKSE_1_1ModCallbackEvent" ],
-      [ "CameraEvent", "structSKSE_1_1CameraEvent.html", "structSKSE_1_1CameraEvent" ],
-      [ "CrosshairRefEvent", "structSKSE_1_1CrosshairRefEvent.html", "structSKSE_1_1CrosshairRefEvent" ],
-      [ "ActionEvent", "structSKSE_1_1ActionEvent.html", "structSKSE_1_1ActionEvent" ],
-      [ "NiNodeUpdateEvent", "structSKSE_1_1NiNodeUpdateEvent.html", "structSKSE_1_1NiNodeUpdateEvent" ]
-    ] ],
+    [ "Events.h", "Events_8h.html", "Events_8h" ],
     [ "IAT.h", "IAT_8h.html", "IAT_8h" ],
     [ "InputMap.h", "InputMap_8h.html", "InputMap_8h" ],
     [ "Interfaces.h", "Interfaces_8h.html", "Interfaces_8h" ],

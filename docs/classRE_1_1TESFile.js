@@ -29,7 +29,7 @@ var classRE_1_1TESFile =
       [ "kSmallFile", "classRE_1_1TESFile.html#a18cf608f2f6d00afdf579b622cb34cdaa358ce9cf007acb72ecdfbd173cf411d1", null ]
     ] ],
     [ "CloseTES", "classRE_1_1TESFile.html#a79544ce9bdffe06815dea4ab10ec835e", null ],
-    [ "Duplicate", "classRE_1_1TESFile.html#afc579037ecf54bae7dfa0bca6f63d6d0", null ],
+    [ "Duplicate", "classRE_1_1TESFile.html#a463432dfd380cab03fe4bebe14bff965", null ],
     [ "GetCombinedIndex", "classRE_1_1TESFile.html#a0bfefb536cc4c1c6fbc14a8d0e6536d1", null ],
     [ "GetCompileIndex", "classRE_1_1TESFile.html#a9d7461777749a6489a50eb68a244d733", null ],
     [ "GetCurrentChunkID", "classRE_1_1TESFile.html#a0a649a6c152f5bcfc4d4ea096fc13497", null ],

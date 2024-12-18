@@ -1,6 +1,5 @@
 var NAVTREEINDEX20 =
 {
-"GRect_8h_source.html":[6,0,0,0,0,6,135],
 "GRefCountBaseGC_8h.html":[6,0,0,0,0,6,137],
 "GRefCountBaseGC_8h_source.html":[6,0,0,0,0,6,137],
 "GRefCountBaseNTS_8h.html":[6,0,0,0,0,6,138],
@@ -123,12 +122,14 @@ var NAVTREEINDEX20 =
 "IAIWorldLocationHandle_8h.html":[6,0,0,0,0,8,0],
 "IAIWorldLocationHandle_8h_source.html":[6,0,0,0,0,8,0],
 "IAT_8h.html":[6,0,0,0,3,3],
-"IAT_8h.html#a0bdbd8be4e192d50b75b0ecdc261fb95":[6,0,0,0,3,3,2],
-"IAT_8h.html#a3a23373e4783d97c87889ca57667bc0b":[6,0,0,0,3,3,4],
-"IAT_8h.html#a3c39d971a91eab769360616136f0baef":[6,0,0,0,3,3,3],
+"IAT_8h.html#a3a23373e4783d97c87889ca57667bc0b":[6,0,0,0,3,3,6],
+"IAT_8h.html#a57be3f61ed218d7b2cf4554e04a50493":[6,0,0,0,3,3,3],
 "IAT_8h.html#a705e44e87d69117a56bf70b3a9f26e6b":[6,0,0,0,3,3,1],
-"IAT_8h.html#a741ef92dada991e772cf6e494566a0d0":[6,0,0,0,3,3,5],
+"IAT_8h.html#a741ef92dada991e772cf6e494566a0d0":[6,0,0,0,3,3,7],
 "IAT_8h.html#a7c7a82a43df598b2e4802651359b3689":[6,0,0,0,3,3,0],
+"IAT_8h.html#a87f44305e1147dc33b5dbfcd76dc2a9b":[6,0,0,0,3,3,5],
+"IAT_8h.html#aba7d6212c1e207df467031af8459507a":[6,0,0,0,3,3,2],
+"IAT_8h.html#af3640ea204ad8b908a36100c6f474344":[6,0,0,0,3,3,4],
 "IAT_8h_source.html":[6,0,0,0,3,3],
 "IAnimationClipLoaderSingleton_8h.html":[6,0,0,0,0,8,1],
 "IAnimationClipLoaderSingleton_8h_source.html":[6,0,0,0,0,8,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX20 =
 "ISavePatcherInterface_8h.html":[6,0,0,0,0,8,68],
 "ISavePatcherInterface_8h_source.html":[6,0,0,0,0,8,68],
 "IStackCallbackFunctor_8h.html":[6,0,0,0,0,8,69],
-"IStackCallbackFunctor_8h_source.html":[6,0,0,0,0,8,69],
-"IStackCallbackSaveInterface_8h.html":[6,0,0,0,0,8,70]
+"IStackCallbackFunctor_8h_source.html":[6,0,0,0,0,8,69]
 };

@@ -7,8 +7,8 @@ var classRE_1_1GFxTranslator_1_1TranslateInfo =
       [ "kResultSourceHTML", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a867973d84e413337d3e802e8fb9607d8af7e83634c9ad033e17b298a83376616e", null ]
     ] ],
     [ "TranslateInfo", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a2d3c025bbf0ecc0d6d0291bcb4e40bc5", null ],
-    [ "GetInstanceName", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a4bdcf74ae72645a1647de6d4fac5b55c", null ],
-    [ "GetKey", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a8e1a8cc0de908f1995bfb6e9a33e328e", null ],
+    [ "GetInstanceName", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a85991e6ab53670b482d91557092e6899", null ],
+    [ "GetKey", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a9a86f33dccdbfe0eb02f70719d89520d", null ],
     [ "IsKeyHTML", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a40b3cdf3a75e3ddc56821e5949cbde63", null ],
     [ "SetResult", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#ac94b1203b8a5b73366d7d93c321070b5", null ],
     [ "SetResultHTML", "classRE_1_1GFxTranslator_1_1TranslateInfo.html#a6cf2578eccb9e97dd2e020e2ee1f8fa5", null ],

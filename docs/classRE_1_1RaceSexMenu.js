@@ -11,7 +11,7 @@ var classRE_1_1RaceSexMenu =
     [ "ProcessMouseMove", "classRE_1_1RaceSexMenu.html#a2c2e48bf8a74b4b621188ca26d537b0a", null ],
     [ "ProcessThumbstick", "classRE_1_1RaceSexMenu.html#aa6d40c0cdf9f6ec3724c1f8353c475f4", null ],
     [ "camera", "classRE_1_1RaceSexMenu.html#a6370b8b4654f45a8ba303464397ff258", null ],
-    [ "MENU_NAME", "classRE_1_1RaceSexMenu.html#a7fab4f159f1d4288da04cf99e914bfed", null ],
+    [ "MENU_NAME", "classRE_1_1RaceSexMenu.html#a55218b3a88c0f9de5051d76a4ecf36e9", null ],
     [ "pad19F", "classRE_1_1RaceSexMenu.html#a182a23798f307695dff9630c613affd0", null ],
     [ "RTTI", "classRE_1_1RaceSexMenu.html#a81133cec75b6af9e511aac170608c962", null ],
     [ "sex", "classRE_1_1RaceSexMenu.html#a90be89ef8f5e73e9afb2eb02599e928f", null ],

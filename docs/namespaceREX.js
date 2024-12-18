@@ -28,9 +28,9 @@ var namespaceREX =
     [ "EnumSet", "classREX_1_1EnumSet.html", "classREX_1_1EnumSet" ],
     [ "ISetting", "classREX_1_1ISetting.html", "classREX_1_1ISetting" ],
     [ "ISettingStore", "classREX_1_1ISettingStore.html", "classREX_1_1ISettingStore" ],
+    [ "Singleton", "classREX_1_1Singleton.html", "classREX_1_1Singleton" ],
     [ "TSetting", "classREX_1_1TSetting.html", "classREX_1_1TSetting" ],
     [ "TSettingStore", "classREX_1_1TSettingStore.html", "classREX_1_1TSettingStore" ],
-    [ "Singleton", "classREX_1_1Singleton.html", "classREX_1_1Singleton" ],
-    [ "Enum", "namespaceREX.html#a94b5c6f40e317ee6f83c08df9950440d", null ],
-    [ "EnumSet", "namespaceREX.html#a6ab0c66799e44f86dc77185d901915e8", null ]
+    [ "Enum", "namespaceREX.html#aa1b918b17e79b2a9d2d70d1f4f3bc8a0", null ],
+    [ "EnumSet", "namespaceREX.html#aa963dd013313335b6dc2ae7634ac7711", null ]
 ];

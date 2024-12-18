@@ -1,13 +1,13 @@
 var HighProcessData_8h =
 [
-    [ "DetectionEvent", "structRE_1_1DetectionEvent.html", "structRE_1_1DetectionEvent" ],
-    [ "HighProcessData", "structRE_1_1HighProcessData.html", "structRE_1_1HighProcessData" ],
-    [ "HEAD_TRACK_TYPES", "structRE_1_1HighProcessData_1_1HEAD__TRACK__TYPES.html", "structRE_1_1HighProcessData_1_1HEAD__TRACK__TYPES" ],
-    [ "Data190", "structRE_1_1HighProcessData_1_1Data190.html", "structRE_1_1HighProcessData_1_1Data190" ],
-    [ "Data", "structRE_1_1HighProcessData_1_1Data190_1_1Data.html", "structRE_1_1HighProcessData_1_1Data190_1_1Data" ],
-    [ "UnkData", "structRE_1_1HighProcessData_1_1Data190_1_1Data_1_1UnkData.html", "structRE_1_1HighProcessData_1_1Data190_1_1Data_1_1UnkData" ],
-    [ "Data208", "structRE_1_1HighProcessData_1_1Data208.html", "structRE_1_1HighProcessData_1_1Data208" ],
-    [ "MuzzleFlash", "structRE_1_1HighProcessData_1_1MuzzleFlash.html", "structRE_1_1HighProcessData_1_1MuzzleFlash" ],
+    [ "RE::DetectionEvent", "structRE_1_1DetectionEvent.html", "structRE_1_1DetectionEvent" ],
+    [ "RE::HighProcessData", "structRE_1_1HighProcessData.html", "structRE_1_1HighProcessData" ],
+    [ "RE::HighProcessData::HEAD_TRACK_TYPES", "structRE_1_1HighProcessData_1_1HEAD__TRACK__TYPES.html", "structRE_1_1HighProcessData_1_1HEAD__TRACK__TYPES" ],
+    [ "RE::HighProcessData::Data190", "structRE_1_1HighProcessData_1_1Data190.html", "structRE_1_1HighProcessData_1_1Data190" ],
+    [ "RE::HighProcessData::Data190::Data", "structRE_1_1HighProcessData_1_1Data190_1_1Data.html", "structRE_1_1HighProcessData_1_1Data190_1_1Data" ],
+    [ "RE::HighProcessData::Data190::Data::UnkData", "structRE_1_1HighProcessData_1_1Data190_1_1Data_1_1UnkData.html", "structRE_1_1HighProcessData_1_1Data190_1_1Data_1_1UnkData" ],
+    [ "RE::HighProcessData::Data208", "structRE_1_1HighProcessData_1_1Data208.html", "structRE_1_1HighProcessData_1_1Data208" ],
+    [ "RE::HighProcessData::MuzzleFlash", "structRE_1_1HighProcessData_1_1MuzzleFlash.html", "structRE_1_1HighProcessData_1_1MuzzleFlash" ],
     [ "VOICE_STATE", "HighProcessData_8h.html#ac5d67c12c861db64e9fa8950d547c547", [
       [ "kNone", "HighProcessData_8h.html#ac5d67c12c861db64e9fa8950d547c547a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kRequest", "HighProcessData_8h.html#ac5d67c12c861db64e9fa8950d547c547a909d535364e64c5e9015a71127f2f9ab", null ],

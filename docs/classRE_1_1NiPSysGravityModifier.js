@@ -5,8 +5,8 @@ var classRE_1_1NiPSysGravityModifier =
       [ "kSpherical", "classRE_1_1NiPSysGravityModifier.html#aa4a7e70bb8e9906a9586823dc1401377ac8a41157554d47eaa7616ad510b75a7b", null ]
     ] ],
     [ "~NiPSysGravityModifier", "classRE_1_1NiPSysGravityModifier.html#a32fa15b401025d4839fc599938c3cea2", null ],
-    [ "CreateClone", "classRE_1_1NiPSysGravityModifier.html#a224fb8ebad7edef12fa96967a8515ffd", null ],
-    [ "GetRTTI", "classRE_1_1NiPSysGravityModifier.html#abe410f83ac6d265a907556d58d3ec8dc", null ],
+    [ "CreateClone", "classRE_1_1NiPSysGravityModifier.html#acc38074b5c20dd14eff8fa67a3b9c555", null ],
+    [ "GetRTTI", "classRE_1_1NiPSysGravityModifier.html#a25234d76909a198e7e55d5535bc56fd7", null ],
     [ "IsEqual", "classRE_1_1NiPSysGravityModifier.html#a00716258c4a4a318b9aaefad6d528676", null ],
     [ "LinkObject", "classRE_1_1NiPSysGravityModifier.html#a00fbcc55d73d2c0367bac2f890ce201d", null ],
     [ "LoadBinary", "classRE_1_1NiPSysGravityModifier.html#a4cb419ab8c12eda4028e50440ddb88d9", null ],

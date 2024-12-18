@@ -1,7 +1,6 @@
 var NAVTREEINDEX4 =
 {
 "BSTSmartPointer_8h.html#a7071727a2846a53eb12674997dde834e":[6,0,0,0,0,1,381,7],
-"BSTSmartPointer_8h.html#a79d6cae5d2a996188bbdd452d1883b83":[6,0,0,0,0,1,381,6],
 "BSTSmartPointer_8h.html#ade3b38b2c2071d58a7b6061aca3d0868":[6,0,0,0,0,1,381,8],
 "BSTSmartPointer_8h.html#ae3042f8697432040f4dad86023cde7fb":[6,0,0,0,0,1,381,12],
 "BSTSmartPointer_8h.html#aefc949c2502483cd1b54e671ebc1ed6d":[6,0,0,0,0,1,381,10],
@@ -10,9 +9,9 @@ var NAVTREEINDEX4 =
 "BSTTuple_8h.html#a02e1cf6eab25badf3aa3157d59251024":[6,0,0,0,0,1,382,2],
 "BSTTuple_8h.html#a3810e9460878856af6bc6cc211dafc64":[6,0,0,0,0,1,382,1],
 "BSTTuple_8h.html#a633fdbc7613e84cd7b4eeb58f9e14ae0":[6,0,0,0,0,1,382,5],
-"BSTTuple_8h.html#a8f86220629d27274345a0cc65d87a1df":[6,0,0,0,0,1,382,6],
 "BSTTuple_8h.html#a92a5f819ca68f207de69f4db2f5fe905":[6,0,0,0,0,1,382,3],
 "BSTTuple_8h.html#ae44955a9c16b13b4b55ba55c8c84e39c":[6,0,0,0,0,1,382,4],
+"BSTTuple_8h.html#aeeb0ae1518165cac35c3f8eadab4d186":[6,0,0,0,0,1,382,6],
 "BSTTuple_8h_source.html":[6,0,0,0,0,1,382],
 "BSTempEffectDebris_8h.html":[6,0,0,0,0,1,358],
 "BSTempEffectDebris_8h_source.html":[6,0,0,0,0,1,358],
@@ -249,5 +248,6 @@ var NAVTREEINDEX4 =
 "ColorUtil_8h.html#a386ee4adcecef8d52abcd1a9ae058b67":[6,0,0,0,0,2,11,35],
 "ColorUtil_8h.html#a584f16c7562e10389e58641bdfc9e6b3":[6,0,0,0,0,2,11,3],
 "ColorUtil_8h.html#a61779947504b6aadfd9c6b2886bdf8ff":[6,0,0,0,0,2,11,4],
-"ColorUtil_8h.html#a62b9bbf5fb4838b5cd6a11c2e434e6fe":[6,0,0,0,0,2,11,32]
+"ColorUtil_8h.html#a62b9bbf5fb4838b5cd6a11c2e434e6fe":[6,0,0,0,0,2,11,32],
+"ColorUtil_8h.html#a68b98d4744a933d3db11d203bac6e1a0":[6,0,0,0,0,2,11,13]
 };

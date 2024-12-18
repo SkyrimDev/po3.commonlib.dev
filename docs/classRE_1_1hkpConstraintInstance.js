@@ -15,8 +15,8 @@ var classRE_1_1hkpConstraintInstance =
       [ "kResetRemove", "classRE_1_1hkpConstraintInstance.html#aa1de1619e17d2ec6ede12a0b4d8baca2a4eb82d807b240ab58546e161e2aa4a3a", null ]
     ] ],
     [ "~hkpConstraintInstance", "classRE_1_1hkpConstraintInstance.html#a2d93c8253b7d895d54ba4af199e98e11", null ],
-    [ "GetRigidBodyA", "classRE_1_1hkpConstraintInstance.html#ab8800636ad01ced8d3b63d7ea59d1ad7", null ],
-    [ "GetRigidBodyB", "classRE_1_1hkpConstraintInstance.html#ae3a643a9d171b4dc4db9ebd280c3d643", null ],
+    [ "GetRigidBodyA", "classRE_1_1hkpConstraintInstance.html#afb97cc0f053cb15ec4f9fff39c0b2897", null ],
+    [ "GetRigidBodyB", "classRE_1_1hkpConstraintInstance.html#a0a84d46cca5ce05e90d423b1a50e9963", null ],
     [ "constraintModifiers", "classRE_1_1hkpConstraintInstance.html#ae33d0145f6f50523819fb53664d3ffa6", null ],
     [ "data", "classRE_1_1hkpConstraintInstance.html#a7b796c6140b369614c31bb01e6878fe1", null ],
     [ "destructionRemapInfo", "classRE_1_1hkpConstraintInstance.html#aea453a9fae7ae505d22b9a4c33bc23fa", null ],

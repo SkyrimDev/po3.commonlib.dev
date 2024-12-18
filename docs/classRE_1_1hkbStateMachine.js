@@ -18,7 +18,7 @@ var classRE_1_1hkbStateMachine =
     [ "CalcContentStatistics", "classRE_1_1hkbStateMachine.html#a392602ea798d47c7c5a5cd77f4e325c0", null ],
     [ "Deactivate", "classRE_1_1hkbStateMachine.html#ae33cec5467efddc42f1669d31bcb4e63", null ],
     [ "Generate", "classRE_1_1hkbStateMachine.html#a4013f50525a3839165123e83cbe229fb", null ],
-    [ "GetClassType", "classRE_1_1hkbStateMachine.html#a2b5268c15564f87829be2063792f326e", null ],
+    [ "GetClassType", "classRE_1_1hkbStateMachine.html#ad21a395512922518abc7fcf21fb54dea", null ],
     [ "Unk_03", "classRE_1_1hkbStateMachine.html#a85f6a9cc1a6676374da2a56dd04c691e", null ],
     [ "Unk_06", "classRE_1_1hkbStateMachine.html#a3622e7a69a0dbd4d42d481c98019254f", null ],
     [ "Unk_08", "classRE_1_1hkbStateMachine.html#a68ec98c1d2295a9910c51c7ce74c6248", null ],

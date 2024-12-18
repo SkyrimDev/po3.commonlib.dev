@@ -1,7 +1,7 @@
 var classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CategoryListEntry =
 [
     [ "~CategoryListEntry", "classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CategoryListEntry.html#a598ebf9205d905f12e85b49f695cad12", null ],
-    [ "GetName", "classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CategoryListEntry.html#a02ff5893a5600a4eb8bc803580e181a3", null ],
+    [ "GetName", "classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CategoryListEntry.html#a7817c339927dd4d0dd4606b41a71f187", null ],
     [ "SetData", "classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CategoryListEntry.html#a82660a5e75c348fe450a52f4396d2799", null ],
     [ "ShowInItemCard", "classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CategoryListEntry.html#a24cdff5a58a06018681021c34982cbdb", null ],
     [ "Unk_02", "classRE_1_1CraftingSubMenus_1_1EnchantConstructMenu_1_1CategoryListEntry.html#af8f7e9c5f31388e99747646424f42ae1", null ],

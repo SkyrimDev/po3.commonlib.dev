@@ -1,5 +1,10 @@
 var NAVTREEINDEX88 =
 {
+"SHELL32_8h.html#ac01cbebbb7296d29b96dedf27dd46483":[6,0,0,0,2,2,23,7],
+"SHELL32_8h.html#aeea3de6f4e511ac4cabd7610eaa3339b":[6,0,0,0,2,2,23,2],
+"SHELL32_8h.html#affb5aa977dcab55c00bd572da614f66b":[6,0,0,0,2,2,23,4],
+"SHELL32_8h_source.html":[6,0,0,0,2,2,23],
+"SKSE_2Logger_8h.html":[6,0,0,0,3,6],
 "SKSE_2Logger_8h.html#a0757a9e2651634b53996feaa8fe5281d":[6,0,0,0,3,6,0],
 "SKSE_2Logger_8h.html#a12e657926429028f64f58b91e0b62d50":[6,0,0,0,3,6,7],
 "SKSE_2Logger_8h.html#a1fa078c4fc855439159ce5a5801e003d":[6,0,0,0,3,6,4],
@@ -9,6 +14,7 @@ var NAVTREEINDEX88 =
 "SKSE_2Logger_8h.html#a6e729e24689db567c9ebedac1c3f05db":[6,0,0,0,3,6,5],
 "SKSE_2Logger_8h.html#ab1da7ce3986987940fca4e0bf6942450":[6,0,0,0,3,6,6],
 "SKSE_2Logger_8h.html#ab971e448a9aecdfe3ae12e6a6b1fe175":[6,0,0,0,3,6,1],
+"SKSE_2Logger_8h.html#ac52aacfd9ce3369d9d2cb2e2baa446b3":[6,0,0,0,3,6,3],
 "SKSE_2Logger_8h.html#aef90f6965575993e1db7511939285252":[6,0,0,0,3,6,2],
 "SKSE_2Logger_8h_source.html":[6,0,0,0,3,6],
 "SKSE_2Version_8h.html":[6,0,0,0,3,14],
@@ -155,8 +161,8 @@ var NAVTREEINDEX88 =
 "SoundLevels_8h.html#a1fde95f93a88df04eff60f948075970dad5b5f7a288e14dd7c92464e7c34ffb65":[6,0,0,0,0,18,47,0,4],
 "SoundLevels_8h_source.html":[6,0,0,0,0,18,47],
 "SourceActionMap_8h.html":[6,0,0,0,0,18,48],
-"SourceActionMap_8h.html#a14c6de370cdce0f9c58002dd0281e0e9":[6,0,0,0,0,18,48,1],
 "SourceActionMap_8h.html#a33fb1c78bec9fd570e58716d1ca3c488":[6,0,0,0,0,18,48,0],
+"SourceActionMap_8h.html#a8f66f24102580364dbe61dbf1f31202f":[6,0,0,0,0,18,48,1],
 "SourceActionMap_8h_source.html":[6,0,0,0,0,18,48],
 "SpawnHazardEffect_8h.html":[6,0,0,0,0,18,49],
 "SpawnHazardEffect_8h_source.html":[6,0,0,0,0,18,49],
@@ -243,11 +249,5 @@ var NAVTREEINDEX88 =
 "TESActiveEffectApplyRemoveEvent_8h.html":[6,0,0,0,0,19,7],
 "TESActiveEffectApplyRemoveEvent_8h_source.html":[6,0,0,0,0,19,7],
 "TESActorBaseData_8h.html":[6,0,0,0,0,19,9],
-"TESActorBaseData_8h_source.html":[6,0,0,0,0,19,9],
-"TESActorBase_8h.html":[6,0,0,0,0,19,8],
-"TESActorBase_8h_source.html":[6,0,0,0,0,19,8],
-"TESActorLocationChangeEvent_8h.html":[6,0,0,0,0,19,10],
-"TESActorLocationChangeEvent_8h_source.html":[6,0,0,0,0,19,10],
-"TESAmmo_8h.html":[6,0,0,0,0,19,12],
-"TESAmmo_8h_source.html":[6,0,0,0,0,19,12]
+"TESActorBaseData_8h_source.html":[6,0,0,0,0,19,9]
 };

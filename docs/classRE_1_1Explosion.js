@@ -6,10 +6,10 @@ var classRE_1_1Explosion =
       [ "kInWater", "classRE_1_1Explosion.html#a3fe81f0823b06d8ed35f091ae0b6ae8fa6e50319181d943161d98046f87068690", null ]
     ] ],
     [ "~Explosion", "classRE_1_1Explosion.html#af77bde32318d9d6c30db91957cd4be63", null ],
-    [ "AsExplosion", "classRE_1_1Explosion.html#a5225f4cbbba916a8dc9ca12d762d5675", null ],
+    [ "AsExplosion", "classRE_1_1Explosion.html#aa79a9342b957927263111add02156156", null ],
     [ "FindTargets", "classRE_1_1Explosion.html#aaa486a66f749344026619c623188b90e", null ],
-    [ "GetActorCause", "classRE_1_1Explosion.html#a299917329a50d4c31ec2c1d14f5c436e", null ],
-    [ "GetMagicCaster", "classRE_1_1Explosion.html#a329bcacfa95be8ea7165d2af84fb681c", null ],
+    [ "GetActorCause", "classRE_1_1Explosion.html#a128d9cea0bb5a675157f1495724dcf1c", null ],
+    [ "GetMagicCaster", "classRE_1_1Explosion.html#ae91ed1ea8ab547399627dfe9d4c9c341", null ],
     [ "InitHavok", "classRE_1_1Explosion.html#afa9eefdb741383fe07f599e3737ca9af", null ],
     [ "Initialize", "classRE_1_1Explosion.html#ad0f8007341144e0e3f0330029888ad6c", null ],
     [ "OnAddCellPerformQueueReference", "classRE_1_1Explosion.html#aa3caabee607f0209478ac97cfdb1f6d0", null ],

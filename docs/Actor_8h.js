@@ -1,13 +1,13 @@
 var Actor_8h =
 [
-    [ "Modifiers", "structRE_1_1Modifiers.html", "structRE_1_1Modifiers" ],
-    [ "ActorValueStorage", "structRE_1_1ActorValueStorage.html", "structRE_1_1ActorValueStorage" ],
-    [ "LocalMap", "structRE_1_1ActorValueStorage_1_1LocalMap.html", "structRE_1_1ActorValueStorage_1_1LocalMap" ],
-    [ "Actor", "classRE_1_1Actor.html", "classRE_1_1Actor" ],
-    [ "SlotTypes", "structRE_1_1Actor_1_1SlotTypes.html", null ],
-    [ "ChangeFlags", "structRE_1_1Actor_1_1ChangeFlags.html", "structRE_1_1Actor_1_1ChangeFlags" ],
-    [ "RecordFlags", "structRE_1_1Actor_1_1RecordFlags.html", "structRE_1_1Actor_1_1RecordFlags" ],
-    [ "ForEachSpellVisitor", "classRE_1_1Actor_1_1ForEachSpellVisitor.html", "classRE_1_1Actor_1_1ForEachSpellVisitor" ],
+    [ "RE::Modifiers", "structRE_1_1Modifiers.html", "structRE_1_1Modifiers" ],
+    [ "RE::ActorValueStorage", "structRE_1_1ActorValueStorage.html", "structRE_1_1ActorValueStorage" ],
+    [ "RE::ActorValueStorage::LocalMap< T >", "structRE_1_1ActorValueStorage_1_1LocalMap.html", "structRE_1_1ActorValueStorage_1_1LocalMap" ],
+    [ "RE::Actor", "classRE_1_1Actor.html", "classRE_1_1Actor" ],
+    [ "RE::Actor::SlotTypes", "structRE_1_1Actor_1_1SlotTypes.html", null ],
+    [ "RE::Actor::ChangeFlags", "structRE_1_1Actor_1_1ChangeFlags.html", "structRE_1_1Actor_1_1ChangeFlags" ],
+    [ "RE::Actor::RecordFlags", "structRE_1_1Actor_1_1RecordFlags.html", "structRE_1_1Actor_1_1RecordFlags" ],
+    [ "RE::Actor::ForEachSpellVisitor", "classRE_1_1Actor_1_1ForEachSpellVisitor.html", "classRE_1_1Actor_1_1ForEachSpellVisitor" ],
     [ "ACTOR_CRITICAL_STAGE", "Actor_8h.html#ae0700b94b48070db0c671bdb54984367", [
       [ "kNone", "Actor_8h.html#ae0700b94b48070db0c671bdb54984367a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kGooStart", "Actor_8h.html#ae0700b94b48070db0c671bdb54984367ab31537d7990a6fd1294aa1ec2e76fb3d", null ],

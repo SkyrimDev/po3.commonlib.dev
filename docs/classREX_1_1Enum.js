@@ -11,12 +11,12 @@ var classREX_1_1Enum =
     [ "get", "classREX_1_1Enum.html#a272596482875b86b935563b2fa201224", null ],
     [ "operator bool", "classREX_1_1Enum.html#a077f7c959ec0a214a2df6f5c92928bae", null ],
     [ "operator*", "classREX_1_1Enum.html#a686fb0b590283fe2d758ff9637683234", null ],
-    [ "operator=", "classREX_1_1Enum.html#a52517c6dffe1c0f78874ec1f3b3d75d8", null ],
-    [ "operator=", "classREX_1_1Enum.html#a3d1ddea8eb1ea16a017e233a9c0d44e5", null ],
-    [ "operator=", "classREX_1_1Enum.html#aaea81707fb8e67215e6bdae00c6dc8e5", null ],
-    [ "operator=", "classREX_1_1Enum.html#a06db7bbecc7f10556f3d983d159d4eef", null ],
+    [ "operator=", "classREX_1_1Enum.html#a454d81344d8ef1f2e2044875038645cb", null ],
+    [ "operator=", "classREX_1_1Enum.html#a1d84a70a3064e2c9b5b167711ebec54c", null ],
+    [ "operator=", "classREX_1_1Enum.html#aac7ee3b068aac7d271e19cb108a18712", null ],
+    [ "operator=", "classREX_1_1Enum.html#af930a126c3cbd192dde744a91d53c479", null ],
     [ "underlying", "classREX_1_1Enum.html#a9a7be21340cedfaf1a00c96022815465", null ],
-    [ "operator==", "classREX_1_1Enum.html#a22f564c84569f4e7e5757ebe4cef6cec", null ],
-    [ "operator==", "classREX_1_1Enum.html#a1fdb141d4a8be28036d3051b67ff2097", null ],
-    [ "operator==", "classREX_1_1Enum.html#a38ce0445151b951bbbcb5bae6a714cc5", null ]
+    [ "operator==", "classREX_1_1Enum.html#ab49f539689db428e4a28b9de86982e4e", null ],
+    [ "operator==", "classREX_1_1Enum.html#a29a6d0533c91ed334b49e6b577cc0f30", null ],
+    [ "operator==", "classREX_1_1Enum.html#a519fbf3aea983ea94d85e218787e407c", null ]
 ];

@@ -1,6 +1,6 @@
 var ExtraLevCreaModifier_8h =
 [
-    [ "ExtraLevCreaModifier", "classRE_1_1ExtraLevCreaModifier.html", "classRE_1_1ExtraLevCreaModifier" ],
+    [ "RE::ExtraLevCreaModifier", "classRE_1_1ExtraLevCreaModifier.html", "classRE_1_1ExtraLevCreaModifier" ],
     [ "LEV_CREA_MODIFIER", "ExtraLevCreaModifier_8h.html#a7984bb13aa776410cfc6e9cc4d64ffa6", [
       [ "kEasy", "ExtraLevCreaModifier_8h.html#a7984bb13aa776410cfc6e9cc4d64ffa6a37e3dd4bf0abbdb573a8ff28b19b594b", null ],
       [ "kMedium", "ExtraLevCreaModifier_8h.html#a7984bb13aa776410cfc6e9cc4d64ffa6a3ce9d817402b59f65fb01ea044bb1ee9", null ],

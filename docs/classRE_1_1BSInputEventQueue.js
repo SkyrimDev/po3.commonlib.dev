@@ -7,7 +7,7 @@ var classRE_1_1BSInputEventQueue =
     [ "AddMouseMoveEvent", "classRE_1_1BSInputEventQueue.html#ab77062daa45012b20d3ba342d07d8908", null ],
     [ "AddThumbstickEvent", "classRE_1_1BSInputEventQueue.html#accc86161ab21d4521b79591bc224ee31", null ],
     [ "ClearInputQueue", "classRE_1_1BSInputEventQueue.html#a2fa9b45ceabee991df8b813517e6a194", null ],
-    [ "GetSingleton", "classRE_1_1BSInputEventQueue.html#a6394a5657aa0636443791ac671f6ae15", null ],
+    [ "GetSingleton", "classRE_1_1BSInputEventQueue.html#a4f3febe06887bc42b96b75bc93de1c4b", null ],
     [ "PushOntoInputQueue", "classRE_1_1BSInputEventQueue.html#a993e317df46466cc5248a6c6dba238df", null ],
     [ "buttonEventCount", "classRE_1_1BSInputEventQueue.html#a1280be01c4ddc453fc5a208127069360", null ],
     [ "buttonEvents", "classRE_1_1BSInputEventQueue.html#acd764729e72ef223bdb5c15163cb613f", null ],

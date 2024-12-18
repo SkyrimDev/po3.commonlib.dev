@@ -4,7 +4,7 @@ var classRE_1_1TESSoulGem =
     [ "~TESSoulGem", "classRE_1_1TESSoulGem.html#aa97f792d8cb84cd68d091f6e045c7bc7", null ],
     [ "CanHoldNPCSoul", "classRE_1_1TESSoulGem.html#a27319aa65ac9a5d47ed05dda416f8f64", null ],
     [ "GetContainedSoul", "classRE_1_1TESSoulGem.html#ac2156ab2cf701b63996b0f80fd83c933", null ],
-    [ "GetDefaultKeyword", "classRE_1_1TESSoulGem.html#aac43aae64d9d9c1e87c8d8fa8d326b70", null ],
+    [ "GetDefaultKeyword", "classRE_1_1TESSoulGem.html#a0ed375a226808a73aab3a4c032149388", null ],
     [ "GetMaximumCapacity", "classRE_1_1TESSoulGem.html#aafe0ee391d9cb92786b59f340e8a486a", null ],
     [ "InitializeData", "classRE_1_1TESSoulGem.html#a9a83fe77a22c2a7480fa63e42793011e", null ],
     [ "InitImpl", "classRE_1_1TESSoulGem.html#a05eed0292672749970768396eaf7f850", null ],

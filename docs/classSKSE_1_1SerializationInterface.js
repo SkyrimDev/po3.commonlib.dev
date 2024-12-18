@@ -3,7 +3,7 @@ var classSKSE_1_1SerializationInterface =
     [ "EventCallback", "classSKSE_1_1SerializationInterface.html#a285b0d4148f837cec57079654dd9fdf0", null ],
     [ "FormDeleteCallback", "classSKSE_1_1SerializationInterface.html#a3ae6f22de0ef0ba855292d591a4362ba", null ],
     [ "GetNextRecordInfo", "classSKSE_1_1SerializationInterface.html#a85b4e994e651212f92ebc3a1d951682d", null ],
-    [ "GetProxy", "classSKSE_1_1SerializationInterface.html#a9fe61564b0073c9b09811bffcc447407", null ],
+    [ "GetProxy", "classSKSE_1_1SerializationInterface.html#a60bf61c5eb4be6058c463d7029b06310", null ],
     [ "OpenRecord", "classSKSE_1_1SerializationInterface.html#af4c38d5c1d0d269f10541879034da0b2", null ],
     [ "ReadRecordData", "classSKSE_1_1SerializationInterface.html#a200e68f12cd40a81f0e4176f3b80f821", null ],
     [ "ReadRecordData", "classSKSE_1_1SerializationInterface.html#a9c52259eeefbeeeab4e0e7b2db8e2836", null ],

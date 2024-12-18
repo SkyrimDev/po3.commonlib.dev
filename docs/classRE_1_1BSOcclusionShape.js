@@ -1,8 +1,8 @@
 var classRE_1_1BSOcclusionShape =
 [
     [ "~BSOcclusionShape", "classRE_1_1BSOcclusionShape.html#ac8a8f32d2b50817c1249dcf5ea725519", null ],
-    [ "CreateClone", "classRE_1_1BSOcclusionShape.html#a27a69b299789e453422d7a79838a64b6", null ],
-    [ "GetRTTI", "classRE_1_1BSOcclusionShape.html#a3cd0387c26cb27f8d805b9d579ee195d", null ],
+    [ "CreateClone", "classRE_1_1BSOcclusionShape.html#ad81e05136301ae79c475cce9a0591935", null ],
+    [ "GetRTTI", "classRE_1_1BSOcclusionShape.html#abf70c20542c56ab0331482bcfeb03bc4", null ],
     [ "IsOcclusionBox", "classRE_1_1BSOcclusionShape.html#ab21ebce5d2d67c97aa7bd153f86d8a0b", null ],
     [ "IsOcclusionPlane", "classRE_1_1BSOcclusionShape.html#a91df605abbbbb5509fffe8f060114099", null ],
     [ "Ni_RTTI", "classRE_1_1BSOcclusionShape.html#aefdd656f4ff248688c2b371378604e6f", null ],

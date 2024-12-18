@@ -1,8 +1,8 @@
 var classRE_1_1BSOcclusionBox =
 [
     [ "~BSOcclusionBox", "classRE_1_1BSOcclusionBox.html#a97736bfffe4ea356f782b3fd7aa79059", null ],
-    [ "CreateClone", "classRE_1_1BSOcclusionBox.html#aacd0986e377c9a5ebed2934e621e4165", null ],
-    [ "GetRTTI", "classRE_1_1BSOcclusionBox.html#af7577d88a90133ce5bea433c1ea9dfd2", null ],
+    [ "CreateClone", "classRE_1_1BSOcclusionBox.html#afcb9decb0d5f24a1516fc50e803fbb86", null ],
+    [ "GetRTTI", "classRE_1_1BSOcclusionBox.html#a3fe369ee8a38dbb8614bd88504041fae", null ],
     [ "IsOcclusionBox", "classRE_1_1BSOcclusionBox.html#ae749b3396314c51a14844863f8198826", null ],
     [ "IsOcclusionPlane", "classRE_1_1BSOcclusionBox.html#a358e69444bf7e1706bc86bd126affc18", null ],
     [ "frustumPlanes", "classRE_1_1BSOcclusionBox.html#a4e6a5d47ffbf6df1b057ad3534871a5e", null ],

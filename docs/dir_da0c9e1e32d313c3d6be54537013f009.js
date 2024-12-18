@@ -4,9 +4,7 @@ var dir_da0c9e1e32d313c3d6be54537013f009 =
     [ "BASE.h", "BASE_8h.html", "BASE_8h" ],
     [ "BCRYPT.h", "BCRYPT_8h.html", "BCRYPT_8h" ],
     [ "COM.h", "COM_8h.html", "COM_8h" ],
-    [ "COMPTR.h", "COMPTR_8h.html", [
-      [ "ComPtr", "structREX_1_1W32_1_1ComPtr.html", "structREX_1_1W32_1_1ComPtr" ]
-    ] ],
+    [ "COMPTR.h", "COMPTR_8h.html", "COMPTR_8h" ],
     [ "D3D.h", "D3D_8h.html", "D3D_8h" ],
     [ "D3D11.h", "D3D11_8h.html", "D3D11_8h" ],
     [ "D3D11_1.h", "D3D11__1_8h.html", "D3D11__1_8h" ],

@@ -41,7 +41,7 @@ var classRE_1_1TESFurniture =
     [ "Activate", "classRE_1_1TESFurniture.html#abd85698972142f0a8aa7c73a551b830d", null ],
     [ "CalculateDoFavor", "classRE_1_1TESFurniture.html#aa311543f9bd2b03a26c196e0be032830", null ],
     [ "ClearData", "classRE_1_1TESFurniture.html#a560306a673dd017bd45e0a190f6ac182", null ],
-    [ "Clone3D", "classRE_1_1TESFurniture.html#afb8a30c99b2a4787e4f16f1a73dde798", null ],
+    [ "Clone3D", "classRE_1_1TESFurniture.html#a8c4ecb986a2231cfe9663fc1c4d17574", null ],
     [ "GetActivateText", "classRE_1_1TESFurniture.html#ae533010fca19811cb02ba61efd41abda", null ],
     [ "InitializeData", "classRE_1_1TESFurniture.html#a798f7ca4706792234707293a238cb6b9", null ],
     [ "InitItemImpl", "classRE_1_1TESFurniture.html#a5ee94a90c369cbb4c4a11f0dc3b83f63", null ],

@@ -1,7 +1,7 @@
 var classRE_1_1hkpWorld =
 [
     [ "~hkpWorld", "classRE_1_1hkpWorld.html#aab55f458192629a783892d632963e662", null ],
-    [ "AddPhantom", "classRE_1_1hkpWorld.html#a9b9682500a4d8ed18cda44cfe2f6a3f3", null ],
+    [ "AddPhantom", "classRE_1_1hkpWorld.html#a475623b8d2369a416245a354ddef33ed", null ],
     [ "CalcContentStatistics", "classRE_1_1hkpWorld.html#ac4ad38e9566a4411898d1b6b2f0d1cd9", null ],
     [ "CastRay", "classRE_1_1hkpWorld.html#aec1f1e175a36d650a7a0abeed05cc278", null ],
     [ "RemovePhantom", "classRE_1_1hkpWorld.html#ad27204ec3bdacfa5f9da4cedc1a1bca0", null ],

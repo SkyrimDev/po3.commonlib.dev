@@ -14,7 +14,7 @@ var classRE_1_1TESObjectDOOR =
     [ "Activate", "classRE_1_1TESObjectDOOR.html#a9966e31e8618b343ea7620bb722900d2", null ],
     [ "CalculateDoFavor", "classRE_1_1TESObjectDOOR.html#a0d9d458050eea0f8b83eb4665a50f378", null ],
     [ "ClearData", "classRE_1_1TESObjectDOOR.html#a5de7aea55cbf5beb87b2c09849ffc25d", null ],
-    [ "Clone3D", "classRE_1_1TESObjectDOOR.html#a2356fd3e641182ab8cf7a369f183ce29", null ],
+    [ "Clone3D", "classRE_1_1TESObjectDOOR.html#a42576c9cd3289a9792c384575c6e4454", null ],
     [ "GetActivateText", "classRE_1_1TESObjectDOOR.html#ac61116b4b7a4b8db3e85d05829904f80", null ],
     [ "HandleOpen", "classRE_1_1TESObjectDOOR.html#aea9d83177f5e74996402ad73d04b7fb6", null ],
     [ "InitializeData", "classRE_1_1TESObjectDOOR.html#ad367ff291d8da7e22821c1b64089d50f", null ],

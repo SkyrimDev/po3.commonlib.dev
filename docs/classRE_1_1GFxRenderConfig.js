@@ -13,7 +13,7 @@ var classRE_1_1GFxRenderConfig =
       [ "kNoViewCull", "classRE_1_1GFxRenderConfig.html#a5ea5909df3aeb55286c97fb822ca25e7a92a2cb25d7c49cc0ad5d4281faa5166c", null ]
     ] ],
     [ "GetMaxCurvePixelError", "classRE_1_1GFxRenderConfig.html#a2f42854dfd03cd8846d07c290093e884", null ],
-    [ "GetRenderer", "classRE_1_1GFxRenderConfig.html#a5c61ee8e72eccfafe327ae48fd2ea47b", null ],
+    [ "GetRenderer", "classRE_1_1GFxRenderConfig.html#ac0aae051174fdc3b98cf371a1fbbd2a2", null ],
     [ "GetRendererCapBits", "classRE_1_1GFxRenderConfig.html#ad4cc70f21fa22fe5553112a8ec3ab466", null ],
     [ "GetRenderFlags", "classRE_1_1GFxRenderConfig.html#a75922dbb45f6d7d6da71255122223882", null ],
     [ "GetStrokerAAWidth", "classRE_1_1GFxRenderConfig.html#ad8312becd4c0487e49a19358b4ce0033", null ],

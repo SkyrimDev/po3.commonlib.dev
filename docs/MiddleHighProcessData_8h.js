@@ -1,11 +1,11 @@
 var MiddleHighProcessData_8h =
 [
-    [ "CommandedActorData", "structRE_1_1CommandedActorData.html", "structRE_1_1CommandedActorData" ],
-    [ "ObjectEquipParams", "structRE_1_1ObjectEquipParams.html", "structRE_1_1ObjectEquipParams" ],
-    [ "QueuedItem", "classRE_1_1QueuedItem.html", "classRE_1_1QueuedItem" ],
-    [ "DeferredHideLimb", "structRE_1_1DeferredHideLimb.html", "structRE_1_1DeferredHideLimb" ],
-    [ "AIPerkData", "structRE_1_1AIPerkData.html", "structRE_1_1AIPerkData" ],
-    [ "MiddleHighProcessData", "structRE_1_1MiddleHighProcessData.html", "structRE_1_1MiddleHighProcessData" ],
+    [ "RE::CommandedActorData", "structRE_1_1CommandedActorData.html", "structRE_1_1CommandedActorData" ],
+    [ "RE::ObjectEquipParams", "structRE_1_1ObjectEquipParams.html", "structRE_1_1ObjectEquipParams" ],
+    [ "RE::QueuedItem", "classRE_1_1QueuedItem.html", "classRE_1_1QueuedItem" ],
+    [ "RE::DeferredHideLimb", "structRE_1_1DeferredHideLimb.html", "structRE_1_1DeferredHideLimb" ],
+    [ "RE::AIPerkData", "structRE_1_1AIPerkData.html", "structRE_1_1AIPerkData" ],
+    [ "RE::MiddleHighProcessData", "structRE_1_1MiddleHighProcessData.html", "structRE_1_1MiddleHighProcessData" ],
     [ "RESET_3D_FLAGS", "MiddleHighProcessData_8h.html#a4505e83ff56da79a33b7434dc7d680bb", [
       [ "kNone", "MiddleHighProcessData_8h.html#a4505e83ff56da79a33b7434dc7d680bba35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kModel", "MiddleHighProcessData_8h.html#a4505e83ff56da79a33b7434dc7d680bba5948dc72b7e748a5ebc4a4b8ac38f581", null ],

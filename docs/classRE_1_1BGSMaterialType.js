@@ -8,7 +8,7 @@ var classRE_1_1BGSMaterialType =
     ] ],
     [ "~BGSMaterialType", "classRE_1_1BGSMaterialType.html#af86ed97e84334b3bad77a4ad9bc1288a", null ],
     [ "ClearData", "classRE_1_1BGSMaterialType.html#a115b7b135e8e2214c28c32816a03e283", null ],
-    [ "GetMaterialType", "classRE_1_1BGSMaterialType.html#ae41f7f89e4a0aff17534202f80435be2", null ],
+    [ "GetMaterialType", "classRE_1_1BGSMaterialType.html#a8e9a91264dceb2e48121b84dd11d7f88", null ],
     [ "InitItemImpl", "classRE_1_1BGSMaterialType.html#a551e1d0e972232bade18da8c9c0d369f", null ],
     [ "Load", "classRE_1_1BGSMaterialType.html#a5a556a10283483476a063e545b43c1ed", null ],
     [ "buoyancy", "classRE_1_1BGSMaterialType.html#a02a48a4065a5102b911a692bfe6970a1", null ],

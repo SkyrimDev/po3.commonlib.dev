@@ -33,10 +33,10 @@ var classRE_1_1NiGeometryData =
       [ "kAll", "classRE_1_1NiGeometryData.html#a49455159976c91faff84857ff04d4693a34bdbffdb1c0e1b603f58fc0d49548b6", null ]
     ] ],
     [ "~NiGeometryData", "classRE_1_1NiGeometryData.html#a7c6e2a89fe103a6af36c7cda85656c73", null ],
-    [ "AsTriShapeData", "classRE_1_1NiGeometryData.html#aab0c7689d5032f2120f76f5dfea17f25", null ],
-    [ "AsTriStripsData", "classRE_1_1NiGeometryData.html#a2c43620072029affbf93e0d1ddb01fd6", null ],
+    [ "AsTriShapeData", "classRE_1_1NiGeometryData.html#a15d29ec56d7e4efef92d01ce9774c5b9", null ],
+    [ "AsTriStripsData", "classRE_1_1NiGeometryData.html#acc7710a7ec08aa65396b3e56cca14612", null ],
     [ "GetActiveVertexCount", "classRE_1_1NiGeometryData.html#a61316f39a4fae2f80c1d6efd8a2163ae", null ],
-    [ "GetRTTI", "classRE_1_1NiGeometryData.html#a0e19337c0068223118365e9c7878ed97", null ],
+    [ "GetRTTI", "classRE_1_1NiGeometryData.html#a68e03ff3a8d2bad3b50bc15a122e04a7", null ],
     [ "IsEqual", "classRE_1_1NiGeometryData.html#ac1ef49622ff13a9fbaf93d453958c827", null ],
     [ "LinkObject", "classRE_1_1NiGeometryData.html#af99ae0a0ad60ebe8af049d92c2ec6735", null ],
     [ "LoadBinary", "classRE_1_1NiGeometryData.html#ad378dc34207c8f7100f209221b0deb47", null ],

@@ -7,7 +7,7 @@ var classRE_1_1BSResource_1_1LooseFileLocation =
     [ "DoGetInfo1", "classRE_1_1BSResource_1_1LooseFileLocation.html#a84602b652cf8b881acd2bd3a2a5b4b23", null ],
     [ "DoGetInfo2", "classRE_1_1BSResource_1_1LooseFileLocation.html#aa38748b3e1f49ccc7cf768ca691cb1be", null ],
     [ "DoGetMinimumAsyncPacketSize", "classRE_1_1BSResource_1_1LooseFileLocation.html#a64b751960d5ff107985fc9a31ac2fde7", null ],
-    [ "DoGetName", "classRE_1_1BSResource_1_1LooseFileLocation.html#a9def38b91b0edb88b3a20e0515e1b8d3", null ],
+    [ "DoGetName", "classRE_1_1BSResource_1_1LooseFileLocation.html#a9bb4411aec27baf5ec0eb16b2b2d6597", null ],
     [ "DoTraversePrefix", "classRE_1_1BSResource_1_1LooseFileLocation.html#a38e5594caef66629443af47de4278387", null ],
     [ "asyncSupported", "classRE_1_1BSResource_1_1LooseFileLocation.html#a1e2e3ddc41907f7ec316591bcbee8236", null ],
     [ "minimumAsyncPacketSize", "classRE_1_1BSResource_1_1LooseFileLocation.html#a5d0fb99bea9e9920bf990caf7a6f9129", null ],

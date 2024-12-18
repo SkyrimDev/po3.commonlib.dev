@@ -11,7 +11,7 @@ var classRE_1_1BGSEntryPointFunctionData =
       [ "kText", "classRE_1_1BGSEntryPointFunctionData.html#a6eedc1458f92537c7a5ae54c08d212c7a3c8cbd89acf49a4b20aded693e13ae86", null ]
     ] ],
     [ "~BGSEntryPointFunctionData", "classRE_1_1BGSEntryPointFunctionData.html#a2ae61f631259e4f3b6999c95c6a19f2f", null ],
-    [ "GetPerk", "classRE_1_1BGSEntryPointFunctionData.html#a4a0499ba583f63ca68def03885f8f16b", null ],
+    [ "GetPerk", "classRE_1_1BGSEntryPointFunctionData.html#a3fd7c3d92b30545047261de007354255", null ],
     [ "GetType", "classRE_1_1BGSEntryPointFunctionData.html#aa4f00cd80a7a16e6ee8c7e4cc394f717", null ],
     [ "LoadFunctionData", "classRE_1_1BGSEntryPointFunctionData.html#a6035a689393b70f6426feaf9a442c539", null ],
     [ "ResolveForms", "classRE_1_1BGSEntryPointFunctionData.html#a90d6916e8485c9b2c70724f33fa70dd8", null ],

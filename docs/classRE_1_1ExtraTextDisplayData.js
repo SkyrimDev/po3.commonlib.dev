@@ -8,7 +8,7 @@ var classRE_1_1ExtraTextDisplayData =
     [ "ExtraTextDisplayData", "classRE_1_1ExtraTextDisplayData.html#ac317e69660c0b3751ae0a74cff37c8e7", null ],
     [ "ExtraTextDisplayData", "classRE_1_1ExtraTextDisplayData.html#a820bf67fafcc34f3e552db04fa748770", null ],
     [ "~ExtraTextDisplayData", "classRE_1_1ExtraTextDisplayData.html#afa867ae0485d65d932d5a9f295265e93", null ],
-    [ "GetDisplayName", "classRE_1_1ExtraTextDisplayData.html#aa57f9547d557d2b7aa49577281f805a9", null ],
+    [ "GetDisplayName", "classRE_1_1ExtraTextDisplayData.html#ae238cab76b591f98b34706d300254c36", null ],
     [ "GetType", "classRE_1_1ExtraTextDisplayData.html#a34f02efe2197b60067a585a8b4c59218", null ],
     [ "IsPlayerSet", "classRE_1_1ExtraTextDisplayData.html#a71d2b58515a92aa71dd00bb91c1fde11", null ],
     [ "SetName", "classRE_1_1ExtraTextDisplayData.html#a168e3054362f2bea351b0fa0c089e655", null ],

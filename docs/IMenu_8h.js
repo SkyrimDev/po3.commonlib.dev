@@ -1,6 +1,6 @@
 var IMenu_8h =
 [
-    [ "IMenu", "classRE_1_1IMenu.html", "classRE_1_1IMenu" ],
+    [ "RE::IMenu", "classRE_1_1IMenu.html", "classRE_1_1IMenu" ],
     [ "UI_MENU_FLAGS", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733", [
       [ "kNone", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733a35c3ace1970663a16e5c65baa5941b13", null ],
       [ "kPausesGame", "IMenu_8h.html#a6888818b02313c2fb8d8c39749d12733ac59767d360df91348ce13e3d96e508ce", null ],
