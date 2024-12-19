@@ -1,5 +1,9 @@
 var NAVTREEINDEX88 =
 {
+"SHELL32_8h.html#a8d03a8473484823a028efa24947e8764":[6,0,0,0,2,2,23,17],
+"SHELL32_8h.html#a910131dd9bbe2c2c8c24ce7264ab1088":[6,0,0,0,2,2,23,1],
+"SHELL32_8h.html#aaa5f94f5f1469b0966be417332c2542d":[6,0,0,0,2,2,23,6],
+"SHELL32_8h.html#aac6492a2c00b182d7f53a39ba5929749":[6,0,0,0,2,2,23,10],
 "SHELL32_8h.html#ac01cbebbb7296d29b96dedf27dd46483":[6,0,0,0,2,2,23,7],
 "SHELL32_8h.html#aeea3de6f4e511ac4cabd7610eaa3339b":[6,0,0,0,2,2,23,2],
 "SHELL32_8h.html#affb5aa977dcab55c00bd572da614f66b":[6,0,0,0,2,2,23,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX88 =
 "TESActionData_8h.html":[6,0,0,0,0,19,5],
 "TESActionData_8h_source.html":[6,0,0,0,0,19,5],
 "TESActivateEvent_8h.html":[6,0,0,0,0,19,6],
-"TESActivateEvent_8h_source.html":[6,0,0,0,0,19,6],
-"TESActiveEffectApplyRemoveEvent_8h.html":[6,0,0,0,0,19,7],
-"TESActiveEffectApplyRemoveEvent_8h_source.html":[6,0,0,0,0,19,7],
-"TESActorBaseData_8h.html":[6,0,0,0,0,19,9],
-"TESActorBaseData_8h_source.html":[6,0,0,0,0,19,9]
+"TESActivateEvent_8h_source.html":[6,0,0,0,0,19,6]
 };

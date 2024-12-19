@@ -1,5 +1,9 @@
 var NAVTREEINDEX23 =
 {
+"MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa12124b33761acb999d1fe2e5e6e677ec":[6,0,0,0,0,12,22,0,63],
+"MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa1423121e6d01d7c3326982bb4e9a22c6":[6,0,0,0,0,12,22,0,60],
+"MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa1b30a6ec08dc09270214173faad354ca":[6,0,0,0,0,12,22,0,42],
+"MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa1b8b501fcf4e7c2bb0f07cac8354eab5":[6,0,0,0,0,12,22,0,25],
 "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa21d9a4f38e9f7fe78fa5cdca09a00a26":[6,0,0,0,0,12,22,0,73],
 "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa22e2d6b51a7543d73bcc3f18e796dff6":[6,0,0,0,0,12,22,0,55],
 "MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa241bbe244517ff98a1e9ab102b4a75f1":[6,0,0,0,0,12,22,0,46],
@@ -245,9 +249,5 @@ var NAVTREEINDEX23 =
 "NiColorKey_8h_source.html":[6,0,0,0,0,13,20],
 "NiColor_8h.html":[6,0,0,0,0,13,17],
 "NiColor_8h_source.html":[6,0,0,0,0,13,17],
-"NiControllerManager_8h.html":[6,0,0,0,0,13,21],
-"NiControllerManager_8h_source.html":[6,0,0,0,0,13,21],
-"NiControllerSequence_8h.html":[6,0,0,0,0,13,22],
-"NiControllerSequence_8h.html#a5f3f74bc0cc57592e17bad5b2cb5e4c7":[6,0,0,0,0,13,22,3],
-"NiControllerSequence_8h_source.html":[6,0,0,0,0,13,22]
+"NiControllerManager_8h.html":[6,0,0,0,0,13,21]
 };

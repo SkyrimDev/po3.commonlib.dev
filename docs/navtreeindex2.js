@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"BGSNote_8h_source.html":[6,0,0,0,0,1,97],
+"BGSNumericIDIndex_8h.html":[6,0,0,0,0,1,98],
 "BGSNumericIDIndex_8h_source.html":[6,0,0,0,0,1,98],
 "BGSOpenCloseForm_8h.html":[6,0,0,0,0,1,99],
 "BGSOpenCloseForm_8h_source.html":[6,0,0,0,0,1,99],
@@ -247,7 +249,5 @@ var NAVTREEINDEX2 =
 "BSInputEventQueue_8h_source.html":[6,0,0,0,0,1,251],
 "BSInstanceTriShape_8h.html":[6,0,0,0,0,1,252],
 "BSInstanceTriShape_8h_source.html":[6,0,0,0,0,1,252],
-"BSIntrusiveRefCounted_8h.html":[6,0,0,0,0,1,253],
-"BSIntrusiveRefCounted_8h_source.html":[6,0,0,0,0,1,253],
-"BSKeyboardDevice_8h.html":[6,0,0,0,0,1,259]
+"BSIntrusiveRefCounted_8h.html":[6,0,0,0,0,1,253]
 };

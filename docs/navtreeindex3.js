@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"BSIntrusiveRefCounted_8h_source.html":[6,0,0,0,0,1,253],
+"BSKeyboardDevice_8h.html":[6,0,0,0,0,1,259],
 "BSKeyboardDevice_8h_source.html":[6,0,0,0,0,1,259],
 "BSLensFlareRenderData_8h.html":[6,0,0,0,0,1,260],
 "BSLensFlareRenderData_8h_source.html":[6,0,0,0,0,1,260],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "BSTSmartPointer_8h.html#a32824fa199ff5a72a8dfd455877a6e11":[6,0,0,0,0,1,381,4],
 "BSTSmartPointer_8h.html#a35b52a22e7af4b83824bc54beccfbc34":[6,0,0,0,0,1,381,9],
 "BSTSmartPointer_8h.html#a3a4f7fabbdedd6feec1a8a1279eec2cb":[6,0,0,0,0,1,381,6],
-"BSTSmartPointer_8h.html#a419ed94016339eea8d9060e336320f3e":[6,0,0,0,0,1,381,11],
-"BSTSmartPointer_8h.html#a653ef4c1d689170e24a31333de7cf287":[6,0,0,0,0,1,381,3],
-"BSTSmartPointer_8h.html#a69b8bff6947a026c43358db93ee39997":[6,0,0,0,0,1,381,5]
+"BSTSmartPointer_8h.html#a419ed94016339eea8d9060e336320f3e":[6,0,0,0,0,1,381,11]
 };

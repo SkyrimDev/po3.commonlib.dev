@@ -6188,6 +6188,9 @@ var hierarchy =
     [ "RE::BSResource::StreamBase", "classRE_1_1BSResource_1_1StreamBase.html", [
       [ "RE::BSResource::AsyncStream", "classRE_1_1BSResource_1_1AsyncStream.html", null ],
       [ "RE::BSResource::Stream", "classRE_1_1BSResource_1_1Stream.html", [
+        [ "RE::BSResource::ArchiveStream", "classRE_1_1BSResource_1_1ArchiveStream.html", [
+          [ "RE::BSResource::CompressedArchiveStream", "classRE_1_1BSResource_1_1CompressedArchiveStream.html", null ]
+        ] ],
         [ "RE::BSResource::DevNull::NullStream", "structRE_1_1BSResource_1_1DevNull_1_1NullStream.html", null ],
         [ "RE::BSResource::LooseFileStream", "classRE_1_1BSResource_1_1LooseFileStream.html", null ]
       ] ]

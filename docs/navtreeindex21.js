@@ -1,5 +1,9 @@
 var NAVTREEINDEX21 =
 {
+"ISavePatcherInterface_8h.html":[6,0,0,0,0,8,68],
+"ISavePatcherInterface_8h_source.html":[6,0,0,0,0,8,68],
+"IStackCallbackFunctor_8h.html":[6,0,0,0,0,8,69],
+"IStackCallbackFunctor_8h_source.html":[6,0,0,0,0,8,69],
 "IStackCallbackSaveInterface_8h.html":[6,0,0,0,0,8,70],
 "IStackCallbackSaveInterface_8h_source.html":[6,0,0,0,0,8,70],
 "IStore_8h.html":[6,0,0,0,0,8,71],
@@ -245,9 +249,5 @@ var NAVTREEINDEX21 =
 "KERNEL32_8h.html#a7eebc97d15df310cf2ab74686ee82264":[6,0,0,0,2,2,20,135],
 "KERNEL32_8h.html#a7f42a3adb2b2cc8e8a407e844fde38f2":[6,0,0,0,2,2,20,69],
 "KERNEL32_8h.html#a8267f5fbde3129657058cf17b228a121":[6,0,0,0,2,2,20,99],
-"KERNEL32_8h.html#a8379de015034d96ac77ac3fac6589428":[6,0,0,0,2,2,20,96],
-"KERNEL32_8h.html#a84522f4f329b90d829d605a7ffb67b36":[6,0,0,0,2,2,20,156],
-"KERNEL32_8h.html#a84990e11da72102a64a4df0cc170daba":[6,0,0,0,2,2,20,139],
-"KERNEL32_8h.html#a85bb9a8f9c32bdcff3a6acfe0cd07392":[6,0,0,0,2,2,20,150],
-"KERNEL32_8h.html#a88340a4d976e377ec3352a80662a8af8":[6,0,0,0,2,2,20,131]
+"KERNEL32_8h.html#a8379de015034d96ac77ac3fac6589428":[6,0,0,0,2,2,20,96]
 };

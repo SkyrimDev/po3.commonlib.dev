@@ -1,5 +1,9 @@
 var NAVTREEINDEX89 =
 {
+"TESActiveEffectApplyRemoveEvent_8h.html":[6,0,0,0,0,19,7],
+"TESActiveEffectApplyRemoveEvent_8h_source.html":[6,0,0,0,0,19,7],
+"TESActorBaseData_8h.html":[6,0,0,0,0,19,9],
+"TESActorBaseData_8h_source.html":[6,0,0,0,0,19,9],
 "TESActorBase_8h.html":[6,0,0,0,0,19,8],
 "TESActorBase_8h_source.html":[6,0,0,0,0,19,8],
 "TESActorLocationChangeEvent_8h.html":[6,0,0,0,0,19,10],
@@ -245,9 +249,5 @@ var NAVTREEINDEX89 =
 "TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940b":[6,0,0,0,0,19,96,10],
 "TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940ba374bf9ba57a441a600d65b212cf9d13c":[6,0,0,0,0,19,96,10,1],
 "TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940ba5b2e06d1e72dcec72883ce2f30115b43":[6,0,0,0,0,19,96,10,0],
-"TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940baba22a7854ef5ac45fd6eaeaa59bcf126":[6,0,0,0,0,19,96,10,2],
-"TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940bae5717a0d0fd8a3ed4066292283c10199":[6,0,0,0,0,19,96,10,3],
-"TESPackage_8h.html#a4a33e820ee9abdc5ba54330826aefe88":[6,0,0,0,0,19,96,12],
-"TESPackage_8h.html#a4a33e820ee9abdc5ba54330826aefe88a105c99137ec395c783725a9216bb3f2a":[6,0,0,0,0,19,96,12,12],
-"TESPackage_8h.html#a4a33e820ee9abdc5ba54330826aefe88a1d0f51817f60192d16e667785c725158":[6,0,0,0,0,19,96,12,4]
+"TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940baba22a7854ef5ac45fd6eaeaa59bcf126":[6,0,0,0,0,19,96,10,2]
 };
