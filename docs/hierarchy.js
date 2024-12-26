@@ -3128,6 +3128,7 @@ var hierarchy =
     [ "RE::BSDismemberSkinInstance::Data", "structRE_1_1BSDismemberSkinInstance_1_1Data.html", null ],
     [ "RE::BSLight::Data", "structRE_1_1BSLight_1_1Data.html", null ],
     [ "RE::BSLightingShaderProperty::Data", "structRE_1_1BSLightingShaderProperty_1_1Data.html", null ],
+    [ "RE::BSResource::CompressedArchiveStream::Data", "structRE_1_1BSResource_1_1CompressedArchiveStream_1_1Data.html", null ],
     [ "RE::BSShadowLight::Data", "structRE_1_1BSShadowLight_1_1Data.html", null ],
     [ "RE::BSUIMessageData::Data", "unionRE_1_1BSUIMessageData_1_1Data.html", null ],
     [ "RE::DialogueMenu::Data", "structRE_1_1DialogueMenu_1_1Data.html", null ],

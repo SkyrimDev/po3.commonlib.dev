@@ -14,7 +14,7 @@ var classRE_1_1BSResource_1_1ArchiveStream =
     [ "currentOffset", "classRE_1_1BSResource_1_1ArchiveStream.html#a3fd8a8c21ec6ab968e270dbe15648a87", null ],
     [ "name", "classRE_1_1BSResource_1_1ArchiveStream.html#a883aad7ad5ea7e4e61625f05302c4960", null ],
     [ "RTTI", "classRE_1_1BSResource_1_1ArchiveStream.html#a6f9ebd1af9127ece4a9dbe483c2f9368", null ],
-    [ "source", "classRE_1_1BSResource_1_1ArchiveStream.html#aadbb24b609ff1eebf449fd511c340ded", null ],
+    [ "source", "classRE_1_1BSResource_1_1ArchiveStream.html#afc42bac630f9b9e9c25a3396a8c41b2b", null ],
     [ "startOffset", "classRE_1_1BSResource_1_1ArchiveStream.html#a340e28a57edc85a18a908c9453fa995d", null ],
     [ "VTABLE", "classRE_1_1BSResource_1_1ArchiveStream.html#a87aa40a9b7149fee5faa154a189aed24", null ]
 ];
