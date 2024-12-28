@@ -1543,6 +1543,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSScript::Stack::MemoryPageData, 3 >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSShadowLight::ShadowMapData >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
@@ -1770,6 +1771,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::BSScript::ReadableStringTable::StringEntry >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< std::uint16_t >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSScript::UnlinkedTypes::FunctionDebugInfo * >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::BSShadowLight::ShadowMapData >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BSTerrainEffect::BoneAdjustment >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::NiPointer< BSTreeNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< BSTreeNode * >", "classRE_1_1BSTArray.html", null ],
@@ -3128,7 +3130,6 @@ var hierarchy =
     [ "RE::BSDismemberSkinInstance::Data", "structRE_1_1BSDismemberSkinInstance_1_1Data.html", null ],
     [ "RE::BSLightingShaderProperty::Data", "structRE_1_1BSLightingShaderProperty_1_1Data.html", null ],
     [ "RE::BSResource::CompressedArchiveStream::Data", "structRE_1_1BSResource_1_1CompressedArchiveStream_1_1Data.html", null ],
-    [ "RE::BSShadowLight::Data", "structRE_1_1BSShadowLight_1_1Data.html", null ],
     [ "RE::BSUIMessageData::Data", "unionRE_1_1BSUIMessageData_1_1Data.html", null ],
     [ "RE::DialogueMenu::Data", "structRE_1_1DialogueMenu_1_1Data.html", null ],
     [ "RE::EnchantmentItem::Data", "classRE_1_1EnchantmentItem_1_1Data.html", null ],
@@ -3388,15 +3389,15 @@ var hierarchy =
     [ "REX::EnumSet< FilterFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< FilterType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
-    [ "REX::EnumSet< FLAG, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FLAG, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag1, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag2, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag2, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
-    [ "REX::EnumSet< FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< ForceType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Format, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
@@ -5293,6 +5294,7 @@ var hierarchy =
     [ "RE::NiQuaternion", "classRE_1_1NiQuaternion.html", null ],
     [ "RE::NiRect< T >", "classRE_1_1NiRect.html", null ],
     [ "RE::NiRect< float >", "classRE_1_1NiRect.html", null ],
+    [ "RE::NiRect< std::uint32_t >", "classRE_1_1NiRect.html", null ],
     [ "RE::NiRefObject", "classRE_1_1NiRefObject.html", [
       [ "RE::ActorKnowledge", "classRE_1_1ActorKnowledge.html", null ],
       [ "RE::Archive", "classRE_1_1Archive.html", null ],
@@ -5306,7 +5308,10 @@ var hierarchy =
         [ "RE::TESObjectREFR", "classRE_1_1TESObjectREFR.html", null ]
       ] ],
       [ "RE::BSLight", "classRE_1_1BSLight.html", [
-        [ "RE::BSShadowLight", "classRE_1_1BSShadowLight.html", null ]
+        [ "RE::BSShadowLight", "classRE_1_1BSShadowLight.html", [
+          [ "RE::BSShadowFrustumLight", "classRE_1_1BSShadowFrustumLight.html", null ],
+          [ "RE::BSShadowParabolicLight", "classRE_1_1BSShadowParabolicLight.html", null ]
+        ] ]
       ] ],
       [ "RE::BSParticleShaderEmitter", "classRE_1_1BSParticleShaderEmitter.html", [
         [ "RE::BSParticleShaderCubeEmitter", "classRE_1_1BSParticleShaderCubeEmitter.html", [
@@ -5601,8 +5606,8 @@ var hierarchy =
       ] ],
       [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, T >", "classRE_1_1NiTPointerListBase.html", [
         [ "RE::NiTPointerList< T >", "classRE_1_1NiTPointerList.html", [
-          [ "RE::BSLight::FadeNodeListT< RE::NiPointer< RE::BSTriShape > >", "classRE_1_1BSLight_1_1FadeNodeListT.html", null ],
-          [ "RE::BSLight::FadeNodeListT< T >", "classRE_1_1BSLight_1_1FadeNodeListT.html", null ]
+          [ "RE::BSLight::NodeListT< RE::NiPointer< RE::BSTriShape > >", "classRE_1_1BSLight_1_1NodeListT.html", null ],
+          [ "RE::BSLight::NodeListT< T >", "classRE_1_1BSLight_1_1NodeListT.html", null ]
         ] ]
       ] ],
       [ "RE::NiTPointerListBase< NiTPointerAllocator< std::uintptr_t >, RE::NiPointer< RE::BSTriShape > >", "classRE_1_1NiTPointerListBase.html", null ],
@@ -5628,7 +5633,6 @@ var hierarchy =
     [ "RE::NiTListItem< T >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTListItem< RE::BSOcclusionShape >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTListItem< RE::BSPortal >", "classRE_1_1NiTListItem.html", null ],
-    [ "RE::NiTListItem< RE::NiPointer< RE::BSFadeNode > >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTListItem< RE::NiPointer< RE::BSTriShape > >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTListItem< RE::NiPointer< RE::NiPSysModifier > >", "classRE_1_1NiTListItem.html", null ],
     [ "RE::NiTListItem< RE::TESForm * >", "classRE_1_1NiTListItem.html", null ],
@@ -6119,6 +6123,7 @@ var hierarchy =
     [ "RE::SEXES", "structRE_1_1SEXES.html", null ],
     [ "RE::TESBipedModelForm::Sexes", "structRE_1_1TESBipedModelForm_1_1Sexes.html", null ],
     [ "RE::BSImagespaceShader::ShaderMacro", "structRE_1_1BSImagespaceShader_1_1ShaderMacro.html", null ],
+    [ "RE::BSShadowLight::ShadowMapData", "structRE_1_1BSShadowLight_1_1ShadowMapData.html", null ],
     [ "RE::hkpShape::ShapeFuncs", "structRE_1_1hkpShape_1_1ShapeFuncs.html", null ],
     [ "RE::hkpShape::ShapeFuncs2", "structRE_1_1hkpShape_1_1ShapeFuncs2.html", null ],
     [ "RE::TESWorldSpace::ShortPoint", "structRE_1_1TESWorldSpace_1_1ShortPoint.html", null ],

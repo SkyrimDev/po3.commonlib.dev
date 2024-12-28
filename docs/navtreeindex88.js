@@ -1,5 +1,9 @@
 var NAVTREEINDEX88 =
 {
+"SHELL32_8h.html#a7b43c4e1f7a21f86965da8b202f49f7b":[6,0,0,0,2,2,23,8],
+"SHELL32_8h.html#a7df096b87bff04e782494d3bef15076f":[6,0,0,0,2,2,23,0],
+"SHELL32_8h.html#a7ff783240c0c7b2c0a1343d19cadaa1c":[6,0,0,0,2,2,23,16],
+"SHELL32_8h.html#a80eb6631564cb26374acfe1dc3e20c4a":[6,0,0,0,2,2,23,14],
 "SHELL32_8h.html#a8d03a8473484823a028efa24947e8764":[6,0,0,0,2,2,23,17],
 "SHELL32_8h.html#a910131dd9bbe2c2c8c24ce7264ab1088":[6,0,0,0,2,2,23,1],
 "SHELL32_8h.html#aaa5f94f5f1469b0966be417332c2542d":[6,0,0,0,2,2,23,6],
@@ -245,9 +249,5 @@ var NAVTREEINDEX88 =
 "TESAIForm_8h.html#aa073aa1a7e96e8754c882d3d27c9a14da786c504e2a003944ba896a962fa9f57f":[6,0,0,0,0,19,11,7,2],
 "TESAIForm_8h.html#aa073aa1a7e96e8754c882d3d27c9a14da9df901765068b9978896822054899905":[6,0,0,0,0,19,11,7,4],
 "TESAIForm_8h.html#aa073aa1a7e96e8754c882d3d27c9a14dac4a5fcee37236f26488cca0ed5a6bfd3":[6,0,0,0,0,19,11,7,7],
-"TESAIForm_8h_source.html":[6,0,0,0,0,19,11],
-"TESActionData_8h.html":[6,0,0,0,0,19,5],
-"TESActionData_8h_source.html":[6,0,0,0,0,19,5],
-"TESActivateEvent_8h.html":[6,0,0,0,0,19,6],
-"TESActivateEvent_8h_source.html":[6,0,0,0,0,19,6]
+"TESAIForm_8h_source.html":[6,0,0,0,0,19,11]
 };

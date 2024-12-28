@@ -1,5 +1,9 @@
 var NAVTREEINDEX89 =
 {
+"TESActionData_8h.html":[6,0,0,0,0,19,5],
+"TESActionData_8h_source.html":[6,0,0,0,0,19,5],
+"TESActivateEvent_8h.html":[6,0,0,0,0,19,6],
+"TESActivateEvent_8h_source.html":[6,0,0,0,0,19,6],
 "TESActiveEffectApplyRemoveEvent_8h.html":[6,0,0,0,0,19,7],
 "TESActiveEffectApplyRemoveEvent_8h_source.html":[6,0,0,0,0,19,7],
 "TESActorBaseData_8h.html":[6,0,0,0,0,19,9],
@@ -245,9 +249,5 @@ var NAVTREEINDEX89 =
 "TESPackageData_8h.html":[6,0,0,0,0,19,97],
 "TESPackageData_8h_source.html":[6,0,0,0,0,19,97],
 "TESPackage_8h.html":[6,0,0,0,0,19,96],
-"TESPackage_8h.html#a053bdcdfea7686f3d5ae8a8e95cc4e6f":[6,0,0,0,0,19,96,14],
-"TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940b":[6,0,0,0,0,19,96,10],
-"TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940ba374bf9ba57a441a600d65b212cf9d13c":[6,0,0,0,0,19,96,10,1],
-"TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940ba5b2e06d1e72dcec72883ce2f30115b43":[6,0,0,0,0,19,96,10,0],
-"TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940baba22a7854ef5ac45fd6eaeaa59bcf126":[6,0,0,0,0,19,96,10,2]
+"TESPackage_8h.html#a053bdcdfea7686f3d5ae8a8e95cc4e6f":[6,0,0,0,0,19,96,14]
 };

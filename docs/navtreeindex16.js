@@ -1,5 +1,9 @@
 var NAVTREEINDEX16 =
 {
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a20e25e8c4df48ba16788a060a0bb4d7d":[6,0,0,0,0,4,47,0,186],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a218ca82dee15f5452a4948d509f55628":[6,0,0,0,0,4,47,0,73],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a21d72e42faa912a27f0b0b4943e0c83e":[6,0,0,0,0,4,47,0,80],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a220485d7ac36c85f01eb7bf6eccd698e":[6,0,0,0,0,4,47,0,82],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a24a1a67b883eac330b800e4db667ce40":[6,0,0,0,0,4,47,0,71],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a25e996571d16c5d5866bc64a2baf3b37":[6,0,0,0,0,4,47,0,151],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a2657ae0bb3bd68c8fa4cb88b2c78d978":[6,0,0,0,0,4,47,0,26],
@@ -245,9 +249,5 @@ var NAVTREEINDEX16 =
 "ExtraInteraction_8h_source.html":[6,0,0,0,0,4,85],
 "ExtraItemDropper_8h.html":[6,0,0,0,0,4,86],
 "ExtraItemDropper_8h_source.html":[6,0,0,0,0,4,86],
-"ExtraLargeRefOwnerCells_8h.html":[6,0,0,0,0,4,87],
-"ExtraLargeRefOwnerCells_8h_source.html":[6,0,0,0,0,4,87],
-"ExtraLastFinishedSequence_8h.html":[6,0,0,0,0,4,88],
-"ExtraLastFinishedSequence_8h_source.html":[6,0,0,0,0,4,88],
-"ExtraLevCreaModifier_8h.html":[6,0,0,0,0,4,89]
+"ExtraLargeRefOwnerCells_8h.html":[6,0,0,0,0,4,87]
 };

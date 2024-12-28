@@ -1,6 +1,6 @@
 var classRE_1_1BSLight =
 [
-    [ "FadeNodeListT", "classRE_1_1BSLight_1_1FadeNodeListT.html", "classRE_1_1BSLight_1_1FadeNodeListT" ],
+    [ "NodeListT", "classRE_1_1BSLight_1_1NodeListT.html", "classRE_1_1BSLight_1_1NodeListT" ],
     [ "~BSLight", "classRE_1_1BSLight.html#adb466ab73d9f1e9fc22494d61d009489", null ],
     [ "IsShadowLight", "classRE_1_1BSLight.html#a7c8150da7f4c839d0a122ba4913f66de", null ],
     [ "SetLight", "classRE_1_1BSLight.html#a8ba5e51947d55441d7d6590c2b004fa6", null ],
@@ -9,9 +9,9 @@ var classRE_1_1BSLight =
     [ "ambientLight", "classRE_1_1BSLight.html#a23a0a564d72264a6ca13c17ab5d7a422", null ],
     [ "cullingProcess", "classRE_1_1BSLight.html#af4ea157f8fd0dda83adc99a308a348d0", null ],
     [ "dynamic", "classRE_1_1BSLight.html#a67874e279846c6377ea1b25e00916cc5", null ],
-    [ "fenceShape", "classRE_1_1BSLight.html#a678ef60e50a58ef3188b0c5ad6736fc6", null ],
     [ "frustrumCull", "classRE_1_1BSLight.html#a54f664cc5ddc17643d7d908530cba2e5", null ],
-    [ "geomListFence", "classRE_1_1BSLight.html#a7d571a300ea15bd034e415a7eaade3d9", null ],
+    [ "geomList", "classRE_1_1BSLight.html#a3f797f7e56ae1a6b37e3697a0e5ef1fa", null ],
+    [ "geomListFence", "classRE_1_1BSLight.html#a753ed8d219beaa0cd3f1069add4af8e0", null ],
     [ "lensFlareData", "classRE_1_1BSLight.html#a6380152b531a91b4b6bd23a1eb08f9cb", null ],
     [ "light", "classRE_1_1BSLight.html#a10783c4394cc2452823523cd0332237c", null ],
     [ "lodDimmer", "classRE_1_1BSLight.html#ace7f0a7f2af9a8fa0e43e289cea6ecdd", null ],

@@ -1,5 +1,9 @@
 var NAVTREEINDEX6 =
 {
+"ConsoleData_8h.html":[6,0,0,0,0,2,54],
+"ConsoleData_8h_source.html":[6,0,0,0,0,2,54],
+"ConsoleLog_8h.html":[6,0,0,0,0,2,55],
+"ConsoleLog_8h_source.html":[6,0,0,0,0,2,55],
 "ConsoleNativeUIMenu_8h.html":[6,0,0,0,0,2,56],
 "ConsoleNativeUIMenu_8h_source.html":[6,0,0,0,0,2,56],
 "Console_8h.html":[6,0,0,0,0,2,53],
@@ -245,9 +249,5 @@ var NAVTREEINDEX6 =
 "D3D11_8h.html#a40515c5ffc043680cfb152c0b3b20091":[6,0,0,0,2,2,6,434],
 "D3D11_8h.html#a40bdfac16763a0d8a401504f3ad0560d":[6,0,0,0,2,2,6,289],
 "D3D11_8h.html#a41283311b2149d11fdd5e2e6325c0b55":[6,0,0,0,2,2,6,280],
-"D3D11_8h.html#a41804f0352ea6bfab8914d5662ca97ed":[6,0,0,0,2,2,6,297],
-"D3D11_8h.html#a41eb2eb1011046f2f62ad3b881e92d7c":[6,0,0,0,2,2,6,160],
-"D3D11_8h.html#a43402eb41bd239e5fd5241a397128feb":[6,0,0,0,2,2,6,566],
-"D3D11_8h.html#a439122ce266a4eb7b25e258ce21c1a35":[6,0,0,0,2,2,6,333],
-"D3D11_8h.html#a43a9ed8396450d5e92a33280e2d5fb33":[6,0,0,0,2,2,6,381]
+"D3D11_8h.html#a41804f0352ea6bfab8914d5662ca97ed":[6,0,0,0,2,2,6,297]
 };

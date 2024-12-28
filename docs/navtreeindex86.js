@@ -1,5 +1,9 @@
 var NAVTREEINDEX86 =
 {
+"Offsets__VTABLE_8h.html#af91f727a44013967e65fc4274b5dc97e":[6,0,0,0,0,27,2332],
+"Offsets__VTABLE_8h.html#af92fb3f187ccd1397de96459bae8896b":[6,0,0,0,0,27,2585],
+"Offsets__VTABLE_8h.html#af93cf7059af63e32432f911d6231111b":[6,0,0,0,0,27,3532],
+"Offsets__VTABLE_8h.html#af940898f620345c56f91c51b55ac01d8":[6,0,0,0,0,27,2235],
 "Offsets__VTABLE_8h.html#af9448499ef7fdf24ee8ee3fc6466cdab":[6,0,0,0,0,27,4444],
 "Offsets__VTABLE_8h.html#af95049ada4e5ad44ef4cd8c3a2b90eaf":[6,0,0,0,0,27,253],
 "Offsets__VTABLE_8h.html#af955f239a27722c220f89be894a709b9":[6,0,0,0,0,27,3429],
@@ -245,9 +249,5 @@ var NAVTREEINDEX86 =
 "ParalysisEffect_8h_source.html":[6,0,0,0,0,15,4],
 "PathingCell_8h.html":[6,0,0,0,0,15,5],
 "PathingCell_8h_source.html":[6,0,0,0,0,15,5],
-"Pattern_8h.html":[6,0,0,0,1,3],
-"Pattern_8h.html#a4599259e8f4d9f1b1b12c2c491b05197":[6,0,0,0,1,3,12],
-"Pattern_8h.html#a5b662f95318834f811be5caec5f6c1e6":[6,0,0,0,1,3,6],
-"Pattern_8h.html#a69a706bb4268930f707958976e69afa1":[6,0,0,0,1,3,13],
-"Pattern_8h.html#a7b26a3d09f3daa5207138d8e59e3a06f":[6,0,0,0,1,3,10]
+"Pattern_8h.html":[6,0,0,0,1,3]
 };

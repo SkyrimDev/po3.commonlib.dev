@@ -1,5 +1,9 @@
 var NAVTREEINDEX17 =
 {
+"ExtraLargeRefOwnerCells_8h_source.html":[6,0,0,0,0,4,87],
+"ExtraLastFinishedSequence_8h.html":[6,0,0,0,0,4,88],
+"ExtraLastFinishedSequence_8h_source.html":[6,0,0,0,0,4,88],
+"ExtraLevCreaModifier_8h.html":[6,0,0,0,0,4,89],
 "ExtraLevCreaModifier_8h.html#a7984bb13aa776410cfc6e9cc4d64ffa6":[6,0,0,0,0,4,89,1],
 "ExtraLevCreaModifier_8h.html#a7984bb13aa776410cfc6e9cc4d64ffa6a1cd6b0fa497a1922c27ae493b2f60b06":[6,0,0,0,0,4,89,1,2],
 "ExtraLevCreaModifier_8h.html#a7984bb13aa776410cfc6e9cc4d64ffa6a35c3ace1970663a16e5c65baa5941b13":[6,0,0,0,0,4,89,1,4],
@@ -245,9 +249,5 @@ var NAVTREEINDEX17 =
 "ExtraWeaponAttackSound_8h.html":[6,0,0,0,0,4,173],
 "ExtraWeaponAttackSound_8h_source.html":[6,0,0,0,0,4,173],
 "ExtraWeaponIdleSound_8h.html":[6,0,0,0,0,4,174],
-"ExtraWeaponIdleSound_8h_source.html":[6,0,0,0,0,4,174],
-"ExtraWornLeft_8h.html":[6,0,0,0,0,4,176],
-"ExtraWornLeft_8h_source.html":[6,0,0,0,0,4,176],
-"ExtraWorn_8h.html":[6,0,0,0,0,4,175],
-"ExtraWorn_8h_source.html":[6,0,0,0,0,4,175]
+"ExtraWeaponIdleSound_8h_source.html":[6,0,0,0,0,4,174]
 };

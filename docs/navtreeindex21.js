@@ -1,5 +1,9 @@
 var NAVTREEINDEX21 =
 {
+"IProcedureTreeItem_8h.html":[6,0,0,0,0,8,66],
+"IProcedureTreeItem_8h_source.html":[6,0,0,0,0,8,66],
+"IProfilePolicy_8h.html":[6,0,0,0,0,8,67],
+"IProfilePolicy_8h_source.html":[6,0,0,0,0,8,67],
 "ISavePatcherInterface_8h.html":[6,0,0,0,0,8,68],
 "ISavePatcherInterface_8h_source.html":[6,0,0,0,0,8,68],
 "IStackCallbackFunctor_8h.html":[6,0,0,0,0,8,69],
@@ -245,9 +249,5 @@ var NAVTREEINDEX21 =
 "KERNEL32_8h.html#a7b31d473c98d28d19abe9e9d8bcdbab1":[6,0,0,0,2,2,20,28],
 "KERNEL32_8h.html#a7c26d7a07a9d539b3a27bd27f83c4c4f":[6,0,0,0,2,2,20,65],
 "KERNEL32_8h.html#a7d1f2aa78c0131e0a340b092e12d010a":[6,0,0,0,2,2,20,36],
-"KERNEL32_8h.html#a7dc96ddb0908c5b74ea53fa66d3bf0ca":[6,0,0,0,2,2,20,57],
-"KERNEL32_8h.html#a7eebc97d15df310cf2ab74686ee82264":[6,0,0,0,2,2,20,135],
-"KERNEL32_8h.html#a7f42a3adb2b2cc8e8a407e844fde38f2":[6,0,0,0,2,2,20,69],
-"KERNEL32_8h.html#a8267f5fbde3129657058cf17b228a121":[6,0,0,0,2,2,20,99],
-"KERNEL32_8h.html#a8379de015034d96ac77ac3fac6589428":[6,0,0,0,2,2,20,96]
+"KERNEL32_8h.html#a7dc96ddb0908c5b74ea53fa66d3bf0ca":[6,0,0,0,2,2,20,57]
 };
