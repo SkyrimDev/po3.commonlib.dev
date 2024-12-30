@@ -1,5 +1,7 @@
 var NAVTREEINDEX18 =
 {
+"ExtraWeaponIdleSound_8h.html":[6,0,0,0,0,4,174],
+"ExtraWeaponIdleSound_8h_source.html":[6,0,0,0,0,4,174],
 "ExtraWornLeft_8h.html":[6,0,0,0,0,4,176],
 "ExtraWornLeft_8h_source.html":[6,0,0,0,0,4,176],
 "ExtraWorn_8h.html":[6,0,0,0,0,4,175],
@@ -247,7 +249,5 @@ var NAVTREEINDEX18 =
 "GAllocator_8h.html":[6,0,0,0,0,6,1],
 "GAllocator_8h_source.html":[6,0,0,0,0,6,1],
 "GArrayBase_8h.html":[6,0,0,0,0,6,7],
-"GArrayBase_8h_source.html":[6,0,0,0,0,6,7],
-"GArrayConstPolicy_8h.html":[6,0,0,0,0,6,8],
-"GArrayConstPolicy_8h_source.html":[6,0,0,0,0,6,8]
+"GArrayBase_8h_source.html":[6,0,0,0,0,6,7]
 };

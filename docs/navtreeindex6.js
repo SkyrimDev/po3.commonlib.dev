@@ -1,5 +1,7 @@
 var NAVTREEINDEX6 =
 {
+"ConeProjectile_8h.html":[6,0,0,0,0,2,52],
+"ConeProjectile_8h_source.html":[6,0,0,0,0,2,52],
 "ConsoleData_8h.html":[6,0,0,0,0,2,54],
 "ConsoleData_8h_source.html":[6,0,0,0,0,2,54],
 "ConsoleLog_8h.html":[6,0,0,0,0,2,55],
@@ -247,7 +249,5 @@ var NAVTREEINDEX6 =
 "D3D11_8h.html#a3f76266adfa7a68688de714bd034cd99":[6,0,0,0,2,2,6,225],
 "D3D11_8h.html#a3fa79263e4e0ad152ec84a71b2c3767d":[6,0,0,0,2,2,6,370],
 "D3D11_8h.html#a40515c5ffc043680cfb152c0b3b20091":[6,0,0,0,2,2,6,434],
-"D3D11_8h.html#a40bdfac16763a0d8a401504f3ad0560d":[6,0,0,0,2,2,6,289],
-"D3D11_8h.html#a41283311b2149d11fdd5e2e6325c0b55":[6,0,0,0,2,2,6,280],
-"D3D11_8h.html#a41804f0352ea6bfab8914d5662ca97ed":[6,0,0,0,2,2,6,297]
+"D3D11_8h.html#a40bdfac16763a0d8a401504f3ad0560d":[6,0,0,0,2,2,6,289]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX17 =
 {
+"ExtraItemDropper_8h_source.html":[6,0,0,0,0,4,86],
+"ExtraLargeRefOwnerCells_8h.html":[6,0,0,0,0,4,87],
 "ExtraLargeRefOwnerCells_8h_source.html":[6,0,0,0,0,4,87],
 "ExtraLastFinishedSequence_8h.html":[6,0,0,0,0,4,88],
 "ExtraLastFinishedSequence_8h_source.html":[6,0,0,0,0,4,88],
@@ -247,7 +249,5 @@ var NAVTREEINDEX17 =
 "ExtraWaterLightRefs_8h.html":[6,0,0,0,0,4,172],
 "ExtraWaterLightRefs_8h_source.html":[6,0,0,0,0,4,172],
 "ExtraWeaponAttackSound_8h.html":[6,0,0,0,0,4,173],
-"ExtraWeaponAttackSound_8h_source.html":[6,0,0,0,0,4,173],
-"ExtraWeaponIdleSound_8h.html":[6,0,0,0,0,4,174],
-"ExtraWeaponIdleSound_8h_source.html":[6,0,0,0,0,4,174]
+"ExtraWeaponAttackSound_8h_source.html":[6,0,0,0,0,4,173]
 };

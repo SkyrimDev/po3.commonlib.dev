@@ -1,5 +1,7 @@
 var NAVTREEINDEX24 =
 {
+"NiColorInterpolator_8h_source.html":[6,0,0,0,0,13,19],
+"NiColorKey_8h.html":[6,0,0,0,0,13,20],
 "NiColorKey_8h_source.html":[6,0,0,0,0,13,20],
 "NiColor_8h.html":[6,0,0,0,0,13,17],
 "NiColor_8h_source.html":[6,0,0,0,0,13,17],
@@ -247,7 +249,5 @@ var NAVTREEINDEX24 =
 "Offsets_8h.html#a22b4f74c94bc5391fbc47d8726ede8aa":[6,0,0,0,0,24,135],
 "Offsets_8h.html#a2350fd4e59b421ac2f498f51e258c5ca":[6,0,0,0,0,24,149],
 "Offsets_8h.html#a24264646c487e00a27e3d9eb0389d4f0":[6,0,0,0,0,24,143],
-"Offsets_8h.html#a245ce5197c94f8070f83b5e2be19621a":[6,0,0,0,0,24,136],
-"Offsets_8h.html#a25228e59a91a72ec8b8b288504cca9e6":[6,0,0,0,0,24,57],
-"Offsets_8h.html#a274dbe1ee032557e2a9cde0411f758dc":[6,0,0,0,0,24,15]
+"Offsets_8h.html#a245ce5197c94f8070f83b5e2be19621a":[6,0,0,0,0,24,136]
 };

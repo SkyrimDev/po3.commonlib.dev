@@ -1,5 +1,7 @@
 var NAVTREEINDEX87 =
 {
+"PathingCell_8h_source.html":[6,0,0,0,0,15,5],
+"Pattern_8h.html":[6,0,0,0,1,3],
 "Pattern_8h.html#a4599259e8f4d9f1b1b12c2c491b05197":[6,0,0,0,1,3,12],
 "Pattern_8h.html#a5b662f95318834f811be5caec5f6c1e6":[6,0,0,0,1,3,6],
 "Pattern_8h.html#a69a706bb4268930f707958976e69afa1":[6,0,0,0,1,3,13],
@@ -247,7 +249,5 @@ var NAVTREEINDEX87 =
 "SHELL32_8h.html#a37b26280184506a5fd6b3a66e7286d11":[6,0,0,0,2,2,23,19],
 "SHELL32_8h.html#a5e61f964de7117c36264be079e63180a":[6,0,0,0,2,2,23,9],
 "SHELL32_8h.html#a655977cb8666458c25f192f102feb5d7":[6,0,0,0,2,2,23,5],
-"SHELL32_8h.html#a68d2d362e2fc68f52d89898a9b198a36":[6,0,0,0,2,2,23,15],
-"SHELL32_8h.html#a70fe07901a910af0f98795791ef37fd6":[6,0,0,0,2,2,23,18],
-"SHELL32_8h.html#a79a340d67246a91dd40a5990b2be94fd":[6,0,0,0,2,2,23,11]
+"SHELL32_8h.html#a68d2d362e2fc68f52d89898a9b198a36":[6,0,0,0,2,2,23,15]
 };

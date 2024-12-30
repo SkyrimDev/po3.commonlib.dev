@@ -260,6 +260,7 @@ var namespaceRE =
     [ "BGSDistantTreeBlock", "classRE_1_1BGSDistantTreeBlock.html", "classRE_1_1BGSDistantTreeBlock" ],
     [ "BGSDualCastData", "classRE_1_1BGSDualCastData.html", "classRE_1_1BGSDualCastData" ],
     [ "BGSDualCastDataDEF", "structRE_1_1BGSDualCastDataDEF.html", "structRE_1_1BGSDualCastDataDEF" ],
+    [ "BGSDynamicPersistenceManager", "classRE_1_1BGSDynamicPersistenceManager.html", "classRE_1_1BGSDynamicPersistenceManager" ],
     [ "BGSEncounterZone", "classRE_1_1BGSEncounterZone.html", "classRE_1_1BGSEncounterZone" ],
     [ "BGSEntryPoint", "structRE_1_1BGSEntryPoint.html", "structRE_1_1BGSEntryPoint" ],
     [ "BGSEntryPointFunctionData", "classRE_1_1BGSEntryPointFunctionData.html", "classRE_1_1BGSEntryPointFunctionData" ],

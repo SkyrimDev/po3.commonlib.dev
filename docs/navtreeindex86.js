@@ -1,5 +1,7 @@
 var NAVTREEINDEX86 =
 {
+"Offsets__VTABLE_8h.html#af90a7622a38e3594936da4c21c5b8592":[6,0,0,0,0,27,4244],
+"Offsets__VTABLE_8h.html#af90e8556c04d6f753ba9e0c2e3e27978":[6,0,0,0,0,27,1247],
 "Offsets__VTABLE_8h.html#af91f727a44013967e65fc4274b5dc97e":[6,0,0,0,0,27,2332],
 "Offsets__VTABLE_8h.html#af92fb3f187ccd1397de96459bae8896b":[6,0,0,0,0,27,2585],
 "Offsets__VTABLE_8h.html#af93cf7059af63e32432f911d6231111b":[6,0,0,0,0,27,3532],
@@ -247,7 +249,5 @@ var NAVTREEINDEX86 =
 "PackedInstructionStream_8h_source.html":[6,0,0,0,0,15,1],
 "ParalysisEffect_8h.html":[6,0,0,0,0,15,4],
 "ParalysisEffect_8h_source.html":[6,0,0,0,0,15,4],
-"PathingCell_8h.html":[6,0,0,0,0,15,5],
-"PathingCell_8h_source.html":[6,0,0,0,0,15,5],
-"Pattern_8h.html":[6,0,0,0,1,3]
+"PathingCell_8h.html":[6,0,0,0,0,15,5]
 };

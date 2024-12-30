@@ -44,6 +44,7 @@ var dir_6dd93d72cef20af32951c15928df247b =
     [ "BGSDirectionalAmbientLightingColors.h", "BGSDirectionalAmbientLightingColors_8h.html", "BGSDirectionalAmbientLightingColors_8h" ],
     [ "BGSDistantTreeBlock.h", "BGSDistantTreeBlock_8h.html", "BGSDistantTreeBlock_8h" ],
     [ "BGSDualCastData.h", "BGSDualCastData_8h.html", "BGSDualCastData_8h" ],
+    [ "BGSDynamicPersistenceManager.h", "BGSDynamicPersistenceManager_8h.html", "BGSDynamicPersistenceManager_8h" ],
     [ "BGSEncounterZone.h", "BGSEncounterZone_8h.html", "BGSEncounterZone_8h" ],
     [ "BGSEntryPoint.h", "BGSEntryPoint_8h.html", "BGSEntryPoint_8h" ],
     [ "BGSEntryPointFunctionData.h", "BGSEntryPointFunctionData_8h.html", "BGSEntryPointFunctionData_8h" ],

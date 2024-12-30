@@ -1,5 +1,7 @@
 var NAVTREEINDEX16 =
 {
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a1e0623a98b8d4fe2126a14612aa75065":[6,0,0,0,0,4,47,0,120],
+"ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a1f77409e30060c85791733a6dc7cdce6":[6,0,0,0,0,4,47,0,49],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a20e25e8c4df48ba16788a060a0bb4d7d":[6,0,0,0,0,4,47,0,186],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a218ca82dee15f5452a4948d509f55628":[6,0,0,0,0,4,47,0,73],
 "ExtraDataTypes_8h.html#add8039a0074a0db2297d671a6088c687a21d72e42faa912a27f0b0b4943e0c83e":[6,0,0,0,0,4,47,0,80],
@@ -247,7 +249,5 @@ var NAVTREEINDEX16 =
 "ExtraInfoGeneralTopic_8h_source.html":[6,0,0,0,0,4,84],
 "ExtraInteraction_8h.html":[6,0,0,0,0,4,85],
 "ExtraInteraction_8h_source.html":[6,0,0,0,0,4,85],
-"ExtraItemDropper_8h.html":[6,0,0,0,0,4,86],
-"ExtraItemDropper_8h_source.html":[6,0,0,0,0,4,86],
-"ExtraLargeRefOwnerCells_8h.html":[6,0,0,0,0,4,87]
+"ExtraItemDropper_8h.html":[6,0,0,0,0,4,86]
 };

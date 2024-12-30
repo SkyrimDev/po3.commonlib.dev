@@ -1,5 +1,7 @@
 var NAVTREEINDEX21 =
 {
+"IPostAnimationChannelUpdateFunctor_8h.html":[6,0,0,0,0,8,65],
+"IPostAnimationChannelUpdateFunctor_8h_source.html":[6,0,0,0,0,8,65],
 "IProcedureTreeItem_8h.html":[6,0,0,0,0,8,66],
 "IProcedureTreeItem_8h_source.html":[6,0,0,0,0,8,66],
 "IProfilePolicy_8h.html":[6,0,0,0,0,8,67],
@@ -247,7 +249,5 @@ var NAVTREEINDEX21 =
 "KERNEL32_8h.html#a78ffa25215f99081da5171a30cef9fbd":[6,0,0,0,2,2,20,164],
 "KERNEL32_8h.html#a7ae6835b66412c312c67b43a727f9ee7":[6,0,0,0,2,2,20,169],
 "KERNEL32_8h.html#a7b31d473c98d28d19abe9e9d8bcdbab1":[6,0,0,0,2,2,20,28],
-"KERNEL32_8h.html#a7c26d7a07a9d539b3a27bd27f83c4c4f":[6,0,0,0,2,2,20,65],
-"KERNEL32_8h.html#a7d1f2aa78c0131e0a340b092e12d010a":[6,0,0,0,2,2,20,36],
-"KERNEL32_8h.html#a7dc96ddb0908c5b74ea53fa66d3bf0ca":[6,0,0,0,2,2,20,57]
+"KERNEL32_8h.html#a7c26d7a07a9d539b3a27bd27f83c4c4f":[6,0,0,0,2,2,20,65]
 };

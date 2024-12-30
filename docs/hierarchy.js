@@ -1474,6 +1474,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< QueuedPromoteReferencesTask > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< BSFixedString< char > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
@@ -1703,6 +1704,7 @@ var hierarchy =
       [ "RE::BSTArray< RE::NiPointer< RE::BGSDecalNode > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::TreeGroup * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSDistantTreeBlock::InstanceData >", "classRE_1_1BSTArray.html", null ],
+      [ "RE::BSTArray< RE::NiPointer< QueuedPromoteReferencesTask > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSEquipSlot * >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< BSFixedString< char > >", "classRE_1_1BSTArray.html", null ],
       [ "RE::BSTArray< RE::BGSFootstep * >", "classRE_1_1BSTArray.html", null ],
@@ -2713,6 +2715,9 @@ var hierarchy =
     ] ],
     [ "RE::BSTSetTraits< Key >", "classRE_1_1BSTSetTraits.html", null ],
     [ "RE::BSTSingletonExplicit< T >", "structRE_1_1BSTSingletonExplicit.html", null ],
+    [ "RE::BSTSingletonExplicit< BGSDynamicPersistenceManager >", "structRE_1_1BSTSingletonExplicit.html", [
+      [ "RE::BGSDynamicPersistenceManager", "classRE_1_1BGSDynamicPersistenceManager.html", null ]
+    ] ],
     [ "RE::BSTSingletonExplicit< BSModelProcessor >", "structRE_1_1BSTSingletonExplicit.html", [
       [ "RE::BSModelDB::BSModelProcessor", "classRE_1_1BSModelDB_1_1BSModelProcessor.html", [
         [ "RE::TESModelDB::TESProcessor", "classRE_1_1TESModelDB_1_1TESProcessor.html", null ]
@@ -3389,15 +3394,15 @@ var hierarchy =
     [ "REX::EnumSet< FilterFlag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< FilterType, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
-    [ "REX::EnumSet< Flag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< FLAG, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flag, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag1, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag2, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag2, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
-    [ "REX::EnumSet< Flags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< Flags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< ForceType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Format, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
