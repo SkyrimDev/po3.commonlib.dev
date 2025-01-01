@@ -1,7 +1,7 @@
 var searchData=
 [
   ['validate_0',['Validate',['../classRE_1_1TESRegion.html#a3b17e8cda8fd65c01307b6c2b5837d4f',1,'RE::TESRegion']]],
-  ['value_1',['value',['../classRE_1_1ButtonEvent.html#a18c1809128e4d7ebc9baf01f3415d567',1,'RE::ButtonEvent::Value()'],['../unionRE_1_1BSScript_1_1Variable_1_1Value.html#afa9185ec33d6655b26d1fd9d74da959a',1,'RE::BSScript::Variable::Value::Value()'],['../classRE_1_1BSUntypedPointerHandle.html#a3c0be08ec1341cf43ad2ff95659b1dfa',1,'RE::BSUntypedPointerHandle::value()']]],
+  ['value_1',['value',['../classRE_1_1BSUntypedPointerHandle.html#a3c0be08ec1341cf43ad2ff95659b1dfa',1,'RE::BSUntypedPointerHandle::value()'],['../classRE_1_1ButtonEvent.html#a18c1809128e4d7ebc9baf01f3415d567',1,'RE::ButtonEvent::Value()'],['../unionRE_1_1BSScript_1_1Variable_1_1Value.html#afa9185ec33d6655b26d1fd9d74da959a',1,'RE::BSScript::Variable::Value::Value()']]],
   ['valueat_2',['ValueAt',['../classRE_1_1GArrayBase.html#ac5370c10e040aa41315f565fa29a460d',1,'RE::GArrayBase']]],
   ['valueunion_3',['ValueUnion',['../unionRE_1_1GFxValue_1_1ValueUnion.html#a82c029a0936d15bd401e5f6847ac9615',1,'RE::GFxValue::ValueUnion']]],
   ['variable_4',['variable',['../classRE_1_1BSScript_1_1Variable.html#ac690c4a738ea719deff24481c84eaa05',1,'RE::BSScript::Variable::Variable()'],['../classRE_1_1BSScript_1_1Variable.html#ad032edbe1a9f4139e4bec0dd1bc45702',1,'RE::BSScript::Variable::Variable(const TypeInfo &amp;a_type)'],['../classRE_1_1BSScript_1_1Variable.html#a1e62525b8fbc5c701070ae2d12fdcb83',1,'RE::BSScript::Variable::Variable(const Variable &amp;a_rhs)'],['../classRE_1_1BSScript_1_1Variable.html#a8c8754b5a76f6fd085571f72cacd3ae9',1,'RE::BSScript::Variable::Variable(Variable &amp;&amp;a_rhs)']]],

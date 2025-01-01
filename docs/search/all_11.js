@@ -20,7 +20,7 @@ var searchData=
   ['quad_17',['quad',['../classRE_1_1hkVector4.html#a6562ed8ef321bfe0664c69e95d642e08',1,'RE::hkVector4']]],
   ['quadraticattenuation_18',['quadraticAttenuation',['../classRE_1_1NiPointLight.html#aa00c0f0900e02d1a2b592c942575f92d',1,'RE::NiPointLight']]],
   ['quadtextures_19',['quadTextures',['../structRE_1_1TESObjectLAND_1_1LoadedLandData.html#ae657c67b64ef73bd501f6cfe71f630c5',1,'RE::TESObjectLAND::LoadedLandData']]],
-  ['quality_20',['quality',['../classRE_1_1TESQualityForm.html#ac1e367beb50db468c176e72d7cf50027',1,'RE::TESQualityForm::Quality'],['../classRE_1_1TESQualityForm.html#a0a38d9e6ef9b8ee157806bfe00c1d8c6',1,'RE::TESQualityForm::quality'],['../structREX_1_1W32_1_1DXGI__SAMPLE__DESC.html#a8568ae77b1b4abd157fc9d1005818571',1,'REX::W32::DXGI_SAMPLE_DESC::quality']]],
+  ['quality_20',['quality',['../classRE_1_1TESQualityForm.html#a0a38d9e6ef9b8ee157806bfe00c1d8c6',1,'RE::TESQualityForm::quality'],['../structREX_1_1W32_1_1DXGI__SAMPLE__DESC.html#a8568ae77b1b4abd157fc9d1005818571',1,'REX::W32::DXGI_SAMPLE_DESC::quality'],['../classRE_1_1TESQualityForm.html#ac1e367beb50db468c176e72d7cf50027',1,'RE::TESQualityForm::Quality']]],
   ['quantitydata_21',['quantityData',['../classRE_1_1InterfaceStrings.html#a688cfca051be2f8c4cc4660089493a3b',1,'RE::InterfaceStrings']]],
   ['quantitymenu_22',['quantityMenu',['../classRE_1_1InterfaceStrings.html#a9b202965e60c2ec0029ecedb7d793e4a',1,'RE::InterfaceStrings']]],
   ['query_23',['query',['../structREX_1_1W32_1_1D3D11__QUERY__DESC.html#a49e21ee338191b2eda1ca72ef459302b',1,'REX::W32::D3D11_QUERY_DESC::query'],['../structREX_1_1W32_1_1D3D11__QUERY__DESC1.html#afbc1a6e89cd9837f273fcd1bc0ced7c3',1,'REX::W32::D3D11_QUERY_DESC1::query']]],
