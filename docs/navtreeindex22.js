@@ -1,5 +1,14 @@
 var NAVTREEINDEX22 =
 {
+"KERNEL32_8h.html#a7342ba70fcbe604137e818c496946547":[6,0,0,0,2,2,20,19],
+"KERNEL32_8h.html#a737b8fd9e5b59158680336c805766285":[6,0,0,0,2,2,20,142],
+"KERNEL32_8h.html#a74ee2f0ec30e020f1bea456e6a82364f":[6,0,0,0,2,2,20,116],
+"KERNEL32_8h.html#a75fcd479ccdb9a17967d398202fcedb6":[6,0,0,0,2,2,20,195],
+"KERNEL32_8h.html#a76833bf572135eaf50a0cf7755930d9d":[6,0,0,0,2,2,20,66],
+"KERNEL32_8h.html#a78ffa25215f99081da5171a30cef9fbd":[6,0,0,0,2,2,20,164],
+"KERNEL32_8h.html#a7ae6835b66412c312c67b43a727f9ee7":[6,0,0,0,2,2,20,169],
+"KERNEL32_8h.html#a7b31d473c98d28d19abe9e9d8bcdbab1":[6,0,0,0,2,2,20,28],
+"KERNEL32_8h.html#a7c26d7a07a9d539b3a27bd27f83c4c4f":[6,0,0,0,2,2,20,65],
 "KERNEL32_8h.html#a7d1f2aa78c0131e0a340b092e12d010a":[6,0,0,0,2,2,20,36],
 "KERNEL32_8h.html#a7dc96ddb0908c5b74ea53fa66d3bf0ca":[6,0,0,0,2,2,20,57],
 "KERNEL32_8h.html#a7eebc97d15df310cf2ab74686ee82264":[6,0,0,0,2,2,20,135],
@@ -240,14 +249,5 @@ var NAVTREEINDEX22 =
 "MapMenuMarker_8h_source.html":[6,0,0,0,0,12,18],
 "MapMenu_8h.html":[6,0,0,0,0,12,17],
 "MapMenu_8h_source.html":[6,0,0,0,0,12,17],
-"MapMoveHandler_8h.html":[6,0,0,0,0,12,19],
-"MapMoveHandler_8h_source.html":[6,0,0,0,0,12,19],
-"MapZoomHandler_8h.html":[6,0,0,0,0,12,20],
-"MapZoomHandler_8h_source.html":[6,0,0,0,0,12,20],
-"MarkerUsedData_8h.html":[6,0,0,0,0,12,21],
-"MarkerUsedData_8h_source.html":[6,0,0,0,0,12,21],
-"MaterialIDs_8h.html":[6,0,0,0,0,12,22],
-"MaterialIDs_8h.html#a20a0704dc331921f7b3e637115d15def":[6,0,0,0,0,12,22,1],
-"MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6f":[6,0,0,0,0,12,22,0],
-"MaterialIDs_8h.html#ab5ee7f780369d8cba53eb694a4da6e6fa010d1b8edbe33216f4f169a413624ca7":[6,0,0,0,0,12,22,0,29]
+"MapMoveHandler_8h.html":[6,0,0,0,0,12,19]
 };

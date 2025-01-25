@@ -6,7 +6,7 @@ var searchData=
   ['zerofunctionarguments_2eh_3',['ZeroFunctionArguments.h',['../ZeroFunctionArguments_8h.html',1,'']]],
   ['zerooverheadheap_4',['ZeroOverheadHeap',['../classRE_1_1ZeroOverheadHeap.html',1,'RE']]],
   ['zerooverheadheap_2eh_5',['ZeroOverheadHeap.h',['../ZeroOverheadHeap_8h.html',1,'']]],
-  ['zlibsupport_6',['zlibsupport',['../structRE_1_1GFxLoader_1_1LoaderConfig.html#a1c3a321e28643b76b0815781b757e9c8',1,'RE::GFxLoader::LoaderConfig::zLibSupport'],['../classRE_1_1GFxLoadStates.html#a915129c57787cb8777eb7bd0c6462918',1,'RE::GFxLoadStates::zlibSupport']]],
+  ['zlibsupport_6',['zlibsupport',['../classRE_1_1GFxLoadStates.html#a915129c57787cb8777eb7bd0c6462918',1,'RE::GFxLoadStates::zlibSupport'],['../structRE_1_1GFxLoader_1_1LoaderConfig.html#a1c3a321e28643b76b0815781b757e9c8',1,'RE::GFxLoader::LoaderConfig::zLibSupport']]],
   ['zoffset_7',['zoffset',['../classRE_1_1Moon.html#ae2a149ac3181907f11ecc4e88feacbda',1,'RE::Moon::zOffset'],['../structRE_1_1BSTerrainEffect_1_1BoneAdjustment.html#a15b708f9abf80ccd0592e2fe8d690dc8',1,'RE::BSTerrainEffect::BoneAdjustment::zOffset']]],
   ['zone_8',['zone',['../classRE_1_1ExtraEncounterZone.html#aa36867a21f796663e7dd9b7cb2fbd616',1,'RE::ExtraEncounterZone']]],
   ['zonelevel_9',['zoneLevel',['../structRE_1_1ENCOUNTER__ZONE__GAME__DATA.html#acf292485054551277a58ad0f3ce1547b',1,'RE::ENCOUNTER_ZONE_GAME_DATA']]],

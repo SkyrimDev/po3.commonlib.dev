@@ -3401,8 +3401,8 @@ var hierarchy =
     [ "REX::EnumSet< Flag2, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flag2, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint16_t >", "classREX_1_1EnumSet.html", null ],
-    [ "REX::EnumSet< FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
+    [ "REX::EnumSet< FLAGS, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Flags, std::uint8_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< ForceType, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
     [ "REX::EnumSet< Format, std::uint32_t >", "classREX_1_1EnumSet.html", null ],
@@ -5211,7 +5211,6 @@ var hierarchy =
     [ "RE::NiPointer< CombatProjectileAimController >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiAdditionalGeometryData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiAVObjectPalette >", "classRE_1_1NiPointer.html", null ],
-    [ "RE::NiPointer< NiDirectionalLight >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiNode >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiStringPalette >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< NiTextKeyExtraData >", "classRE_1_1NiPointer.html", null ],
@@ -5266,6 +5265,7 @@ var hierarchy =
     [ "RE::NiPointer< RE::NiColorInterpolator >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiControllerManager >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiControllerSequence >", "classRE_1_1NiPointer.html", null ],
+    [ "RE::NiPointer< RE::NiDirectionalLight >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiFloatData >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiFloatInterpolator >", "classRE_1_1NiPointer.html", null ],
     [ "RE::NiPointer< RE::NiGeometryData >", "classRE_1_1NiPointer.html", null ],
@@ -5452,6 +5452,7 @@ var hierarchy =
               ] ]
             ] ],
             [ "RE::NiLight", "classRE_1_1NiLight.html", [
+              [ "RE::NiDirectionalLight", "classRE_1_1NiDirectionalLight.html", null ],
               [ "RE::NiPointLight", "classRE_1_1NiPointLight.html", null ]
             ] ],
             [ "RE::NiNode", "classRE_1_1NiNode.html", [
@@ -5469,6 +5470,7 @@ var hierarchy =
                 [ "RE::SceneGraph", "classRE_1_1SceneGraph.html", null ]
               ] ],
               [ "RE::NiBillboardNode", "classRE_1_1NiBillboardNode.html", null ],
+              [ "RE::NiSwitchNode", "classRE_1_1NiSwitchNode.html", null ],
               [ "RE::ShadowSceneNode", "classRE_1_1ShadowSceneNode.html", null ]
             ] ]
           ] ],
@@ -5563,6 +5565,7 @@ var hierarchy =
       [ "RE::NiTPrimitiveArray< std::int32_t >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< bool >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< BSGraphics::TextureFilterMode >", "classRE_1_1NiTPrimitiveArray.html", null ],
+      [ "RE::NiTPrimitiveArray< std::uint32_t >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< RE::TESObjectCELL * >", "classRE_1_1NiTPrimitiveArray.html", null ],
       [ "RE::NiTPrimitiveArray< RE::BGSAddonNode * >", "classRE_1_1NiTPrimitiveArray.html", null ]
     ] ],
@@ -5580,6 +5583,7 @@ var hierarchy =
     [ "RE::NiTArray< RE::NiPointer< RE::NiTexture >, NiTNewInterface< RE::NiPointer< RE::NiTexture > > >", "classRE_1_1NiTArray.html", null ],
     [ "RE::NiTArray< RE::TESObjectCELL *, NiTMallocInterface< RE::TESObjectCELL * > >", "classRE_1_1NiTArray.html", null ],
     [ "RE::NiTArray< std::int32_t, NiTMallocInterface< std::int32_t > >", "classRE_1_1NiTArray.html", null ],
+    [ "RE::NiTArray< std::uint32_t, NiTMallocInterface< std::uint32_t > >", "classRE_1_1NiTArray.html", null ],
     [ "RE::NiTArray< T, NiTMallocInterface< T > >", "classRE_1_1NiTArray.html", [
       [ "RE::NiTPrimitiveArray< T >", "classRE_1_1NiTPrimitiveArray.html", null ]
     ] ],

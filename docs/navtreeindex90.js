@@ -1,5 +1,11 @@
 var NAVTREEINDEX90 =
 {
+"TESObject_8h.html":[6,0,0,0,0,19,78],
+"TESObject_8h_source.html":[6,0,0,0,0,19,78],
+"TESOpenCloseEvent_8h.html":[6,0,0,0,0,19,95],
+"TESOpenCloseEvent_8h_source.html":[6,0,0,0,0,19,95],
+"TESPackageData_8h.html":[6,0,0,0,0,19,97],
+"TESPackageData_8h_source.html":[6,0,0,0,0,19,97],
 "TESPackage_8h.html":[6,0,0,0,0,19,96],
 "TESPackage_8h.html#a053bdcdfea7686f3d5ae8a8e95cc4e6f":[6,0,0,0,0,19,96,14],
 "TESPackage_8h.html#a25c49d6bc88aceb81e3365cd378d940b":[6,0,0,0,0,19,96,10],
@@ -243,11 +249,5 @@ var NAVTREEINDEX90 =
 "UISaveLoadManager_8h_source.html":[6,0,0,0,0,20,5],
 "UI_8h.html":[6,0,0,0,0,20,0],
 "UI_8h.html#abb1a28562d29c0639a07ceeba1e648aa":[6,0,0,0,0,20,0,6],
-"UI_8h.html#ac6f4e7264bc0401d6cbad20789ae6f14":[6,0,0,0,0,20,0,7],
-"UI_8h_source.html":[6,0,0,0,0,20,0],
-"USER32_8h.html":[6,0,0,0,2,2,24],
-"USER32_8h.html#a3daafee951c1da1cdfd62ddd7619d4a8":[6,0,0,0,2,2,24,0],
-"USER32_8h.html#a436478dd7cb2fe0c5092b4c88d10b881":[6,0,0,0,2,2,24,10],
-"USER32_8h.html#a48d7c49b857d62a369b1eb5b053aa48e":[6,0,0,0,2,2,24,11],
-"USER32_8h.html#a65c613f9ea3044721c9706a3badd54c4":[6,0,0,0,2,2,24,3]
+"UI_8h.html#ac6f4e7264bc0401d6cbad20789ae6f14":[6,0,0,0,0,20,0,7]
 };
