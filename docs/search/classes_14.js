@@ -199,13 +199,14 @@ var searchData=
   ['turnundeadeffect_196',['TurnUndeadEffect',['../classRE_1_1TurnUndeadEffect.html',1,'RE']]],
   ['tutorialmenu_197',['TutorialMenu',['../classRE_1_1TutorialMenu.html',1,'RE']]],
   ['tweenmenu_198',['TweenMenu',['../classRE_1_1TweenMenu.html',1,'RE']]],
-  ['typedata_199',['TypeData',['../structRE_1_1Movement_1_1TypeData.html',1,'RE::Movement']]],
-  ['typeinfo_200',['TypeInfo',['../classRE_1_1BSScript_1_1TypeInfo.html',1,'RE::BSScript']]],
-  ['types_5fare_5fcompat_201',['types_are_compat',['../structRE_1_1detail_1_1types__are__compat.html',1,'RE::detail::types_are_compat&lt; class, class &gt;'],['../structRE_1_1Ni__Impl_1_1types__are__compat.html',1,'RE::Ni_Impl::types_are_compat&lt; To, From &gt;']]],
-  ['types_5fare_5fcompat_3c_20to_20_26_2c_20from_20_3e_202',['types_are_compat&lt; To &amp;, From &gt;',['../structRE_1_1Ni__Impl_1_1types__are__compat_3_01To_01_6_00_01From_01_4.html',1,'RE::Ni_Impl']]],
-  ['types_5fare_5fcompat_3c_20to_20_2a_2c_20from_20_3e_203',['types_are_compat&lt; To *, From &gt;',['../structRE_1_1Ni__Impl_1_1types__are__compat_3_01To_01_5_00_01From_01_4.html',1,'RE::Ni_Impl']]],
-  ['types_5fare_5fcompat_3c_20to_2c_20const_20from_20_2a_20_3e_204',['types_are_compat&lt; To, const From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01const_01From_01_5_01_4.html',1,'RE::detail']]],
-  ['types_5fare_5fcompat_3c_20to_2c_20const_20volatile_20from_20_2a_20_3e_205',['types_are_compat&lt; To, const volatile From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01const_01volatile_01From_01_5_01_4.html',1,'RE::detail']]],
-  ['types_5fare_5fcompat_3c_20to_2c_20from_20_2a_20_3e_206',['types_are_compat&lt; To, From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01From_01_5_01_4.html',1,'RE::detail']]],
-  ['types_5fare_5fcompat_3c_20to_2c_20volatile_20from_20_2a_20_3e_207',['types_are_compat&lt; To, volatile From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01volatile_01From_01_5_01_4.html',1,'RE::detail']]]
+  ['tweenmenucamerastate_199',['TweenMenuCameraState',['../classRE_1_1TweenMenuCameraState.html',1,'RE']]],
+  ['typedata_200',['TypeData',['../structRE_1_1Movement_1_1TypeData.html',1,'RE::Movement']]],
+  ['typeinfo_201',['TypeInfo',['../classRE_1_1BSScript_1_1TypeInfo.html',1,'RE::BSScript']]],
+  ['types_5fare_5fcompat_202',['types_are_compat',['../structRE_1_1detail_1_1types__are__compat.html',1,'RE::detail::types_are_compat&lt; class, class &gt;'],['../structRE_1_1Ni__Impl_1_1types__are__compat.html',1,'RE::Ni_Impl::types_are_compat&lt; To, From &gt;']]],
+  ['types_5fare_5fcompat_3c_20to_20_26_2c_20from_20_3e_203',['types_are_compat&lt; To &amp;, From &gt;',['../structRE_1_1Ni__Impl_1_1types__are__compat_3_01To_01_6_00_01From_01_4.html',1,'RE::Ni_Impl']]],
+  ['types_5fare_5fcompat_3c_20to_20_2a_2c_20from_20_3e_204',['types_are_compat&lt; To *, From &gt;',['../structRE_1_1Ni__Impl_1_1types__are__compat_3_01To_01_5_00_01From_01_4.html',1,'RE::Ni_Impl']]],
+  ['types_5fare_5fcompat_3c_20to_2c_20const_20from_20_2a_20_3e_205',['types_are_compat&lt; To, const From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01const_01From_01_5_01_4.html',1,'RE::detail']]],
+  ['types_5fare_5fcompat_3c_20to_2c_20const_20volatile_20from_20_2a_20_3e_206',['types_are_compat&lt; To, const volatile From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01const_01volatile_01From_01_5_01_4.html',1,'RE::detail']]],
+  ['types_5fare_5fcompat_3c_20to_2c_20from_20_2a_20_3e_207',['types_are_compat&lt; To, From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01From_01_5_01_4.html',1,'RE::detail']]],
+  ['types_5fare_5fcompat_3c_20to_2c_20volatile_20from_20_2a_20_3e_208',['types_are_compat&lt; To, volatile From * &gt;',['../structRE_1_1detail_1_1types__are__compat_3_01To_00_01volatile_01From_01_5_01_4.html',1,'RE::detail']]]
 ];

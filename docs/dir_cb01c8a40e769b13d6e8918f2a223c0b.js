@@ -159,6 +159,7 @@ var dir_cb01c8a40e769b13d6e8918f2a223c0b =
     [ "TurnUndeadEffect.h", "TurnUndeadEffect_8h.html", "TurnUndeadEffect_8h" ],
     [ "TutorialMenu.h", "TutorialMenu_8h.html", "TutorialMenu_8h" ],
     [ "TweenMenu.h", "TweenMenu_8h.html", "TweenMenu_8h" ],
+    [ "TweenMenuCameraState.h", "TweenMenuCameraState_8h.html", "TweenMenuCameraState_8h" ],
     [ "TypeInfo.h", "TypeInfo_8h.html", "TypeInfo_8h" ],
     [ "TypeTraits.h", "TypeTraits_8h.html", "TypeTraits_8h" ]
 ];

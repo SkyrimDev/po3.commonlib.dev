@@ -1313,7 +1313,8 @@ var hierarchy =
         [ "RE::ThirdPersonState", "classRE_1_1ThirdPersonState.html", [
           [ "RE::BleedoutCameraState", "classRE_1_1BleedoutCameraState.html", null ],
           [ "RE::HorseCameraState", "classRE_1_1HorseCameraState.html", null ]
-        ] ]
+        ] ],
+        [ "RE::TweenMenuCameraState", "classRE_1_1TweenMenuCameraState.html", null ]
       ] ],
       [ "RE::WeaponAnimationGraphManagerHolder", "classRE_1_1WeaponAnimationGraphManagerHolder.html", null ],
       [ "RE::bgs::saveload::Request", "classRE_1_1bgs_1_1saveload_1_1Request.html", null ]

@@ -1979,6 +1979,7 @@ var namespaceRE =
     [ "TurnUndeadEffect", "classRE_1_1TurnUndeadEffect.html", "classRE_1_1TurnUndeadEffect" ],
     [ "TutorialMenu", "classRE_1_1TutorialMenu.html", "classRE_1_1TutorialMenu" ],
     [ "TweenMenu", "classRE_1_1TweenMenu.html", "classRE_1_1TweenMenu" ],
+    [ "TweenMenuCameraState", "classRE_1_1TweenMenuCameraState.html", "classRE_1_1TweenMenuCameraState" ],
     [ "UI", "classRE_1_1UI.html", "classRE_1_1UI" ],
     [ "UI3DSceneManager", "classRE_1_1UI3DSceneManager.html", "classRE_1_1UI3DSceneManager" ],
     [ "UIBlurManager", "classRE_1_1UIBlurManager.html", "classRE_1_1UIBlurManager" ],

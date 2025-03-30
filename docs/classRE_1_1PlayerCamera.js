@@ -12,6 +12,7 @@ var classRE_1_1PlayerCamera =
     [ "PushCameraState", "classRE_1_1PlayerCamera.html#a9b3e16a6061c615375ddf0cb4953f10d", null ],
     [ "SetCameraRoot", "classRE_1_1PlayerCamera.html#abae47f69dd93a81dafd41629759217f8", null ],
     [ "ToggleFreeCameraMode", "classRE_1_1PlayerCamera.html#a01350ed2f3ebb3312d1e1d258b258f90", null ],
+    [ "Update", "classRE_1_1PlayerCamera.html#ad0af7f23b1e8d273c434c0f5d6a9a51c", null ],
     [ "UpdateThirdPerson", "classRE_1_1PlayerCamera.html#a749868a733a18161afca9cb8184dc21f", null ],
     [ "allowAutoVanityMode", "classRE_1_1PlayerCamera.html#a61efa3d28fecaaefa1491745d3c6d140", null ],
     [ "bowZoomedIn", "classRE_1_1PlayerCamera.html#a919f4f4bb0cec460123bef110ef0806e", null ],

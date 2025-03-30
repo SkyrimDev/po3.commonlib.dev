@@ -3745,7 +3745,7 @@ var searchData=
   ['ktrigger_3742',['kTrigger',['../namespaceRE.html#abe208acf7e9ccb4fe54807f3b5519f16add9fd237b6dd723dbb652d1fa13d64ac',1,'RE']]],
   ['ktriggervolume_3743',['kTriggerVolume',['../classRE_1_1BGSCollisionLayer.html#a4cd8d11e69e644de1f70efa9dd9848baaffc9d76545c5e5a346b8a361bbfc6b74',1,'RE::BGSCollisionLayer']]],
   ['ktrilinear_3744',['kTrilinear',['../namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4a3025e0b80c311666b4d62b72e0e139fb',1,'RE::BSGraphics']]],
-  ['ktrisampledheightfield_3745',['ktrisampledheightfield',['../classRE_1_1hkpShapeCollection.html#a54954fe71286289b519d26b10c89c431a9c57d461cff774c375eb9380796cd172',1,'RE::hkpShapeCollection::kTrisampledHeightfield'],['../classRE_1_1hkpBvTreeShape.html#a2918a8a7fd9d848b08b9f6290810f6c2ab3623312442d3360215c978b9e275767',1,'RE::hkpBvTreeShape::kTriSampledHeightField']]],
+  ['ktrisampledheightfield_3745',['ktrisampledheightfield',['../classRE_1_1hkpBvTreeShape.html#a2918a8a7fd9d848b08b9f6290810f6c2ab3623312442d3360215c978b9e275767',1,'RE::hkpBvTreeShape::kTriSampledHeightField'],['../classRE_1_1hkpShapeCollection.html#a54954fe71286289b519d26b10c89c431a9c57d461cff774c375eb9380796cd172',1,'RE::hkpShapeCollection::kTrisampledHeightfield']]],
   ['ktrishape_3746',['kTriShape',['../classRE_1_1BSGeometry.html#a0001e29fd430bebbb3102730c4eab5b2a175a4d28deeb448cd0c93975025c15eb',1,'RE::BSGeometry']]],
   ['ktruecolor32_3747',['kTrueColor32',['../classRE_1_1NiTexture_1_1FormatPrefs.html#acf97a2d905017ea8a9f84dec5a298bbfad44b40cd7d3366c2409b70b41436f511',1,'RE::NiTexture::FormatPrefs']]],
   ['ktrystep_3748',['kTryStep',['../namespaceRE.html#a53850c43d5b5e86fe39939990716a00ba06d496f35072a065556c531b550f1400',1,'RE']]],

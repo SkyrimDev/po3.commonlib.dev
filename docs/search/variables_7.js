@@ -4,7 +4,7 @@ var searchData=
   ['gain_1',['gain',['../classRE_1_1hkpCharacterContext.html#a0ff28c7100517feda755de7b615fcc9d',1,'RE::hkpCharacterContext::gain'],['../classRE_1_1TESWaterForm.html#a7fc050f2dd867666475acd798cf0ad4c',1,'RE::TESWaterForm::gain'],['../structREX_1_1W32_1_1DIEFFECT.html#a333f244684086905e48a050393d34a05',1,'REX::W32::DIEFFECT::gain']]],
   ['gameactive_2',['gameActive',['../classRE_1_1Main.html#a98d4c0eab0e9d2849577e601c27ee64e',1,'RE::Main']]],
   ['gamebryotexture_3',['gamebryoTexture',['../classRE_1_1BSScaleformExternalTexture.html#ad4b0a2af25ff2aa49a94d543086be6a8',1,'RE::BSScaleformExternalTexture']]],
-  ['gamedata_4',['gamedata',['../classRE_1_1BGSEncounterZone.html#a32ee21e2c19118d29dca4bd7474a10dc',1,'RE::BGSEncounterZone::gameData'],['../classRE_1_1IngredientItem.html#a8c199a4f11b2f481f48a69215189bbb6',1,'RE::IngredientItem::gamedata']]],
+  ['gamedata_4',['gamedata',['../classRE_1_1IngredientItem.html#a8c199a4f11b2f481f48a69215189bbb6',1,'RE::IngredientItem::gamedata'],['../classRE_1_1BGSEncounterZone.html#a32ee21e2c19118d29dca4bd7474a10dc',1,'RE::BGSEncounterZone::gameData']]],
   ['gameday_5',['gameDay',['../classRE_1_1Calendar.html#a2f25eb426e651eac035159702da9d11b',1,'RE::Calendar']]],
   ['gamedayspassed_6',['gameDaysPassed',['../classRE_1_1Calendar.html#a7217ae8ff7e250665db794f218cab6c5',1,'RE::Calendar']]],
   ['gamehour_7',['gameHour',['../classRE_1_1Calendar.html#aea02967754844a9782739fb3985b2d0d',1,'RE::Calendar']]],
