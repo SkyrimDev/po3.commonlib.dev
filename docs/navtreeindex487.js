@@ -1,5 +1,7 @@
 var NAVTREEINDEX487 =
 {
+"unionRE_1_1GFxResourceSource_1_1ResourceUnion.html#a849a7c5499219e1633bd53f9b2f51988":[5,0,0,995,1,0],
+"unionRE_1_1GFxResourceSource_1_1ResourceUnion.html#a849a7c5499219e1633bd53f9b2f51988":[4,0,0,1014,1,0],
 "unionRE_1_1GFxResourceSource_1_1ResourceUnion.html#afe3577e908870a99adea623d63c4fc77":[5,0,0,995,1,1],
 "unionRE_1_1GFxResourceSource_1_1ResourceUnion.html#afe3577e908870a99adea623d63c4fc77":[4,0,0,1014,1,1],
 "unionRE_1_1GFxValue_1_1ValueUnion.html":[4,0,0,1038,2],

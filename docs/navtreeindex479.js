@@ -1,5 +1,7 @@
 var NAVTREEINDEX479 =
 {
+"structRE_1_1TEXTURE__HAVOK__DATA.html#a6a7c99c5fb456af74c03858683f5160b":[4,0,0,1855,1],
+"structRE_1_1TEXTURE__HAVOK__DATA.html#a6a7c99c5fb456af74c03858683f5160b":[5,0,0,1836,1],
 "structRE_1_1TEXTURE__HAVOK__DATA.html#aa2e2c3f44e42effba962e937b2ef3946":[4,0,0,1855,0],
 "structRE_1_1TEXTURE__HAVOK__DATA.html#aa2e2c3f44e42effba962e937b2ef3946":[5,0,0,1836,0],
 "structRE_1_1TLSData.html":[5,0,0,1840],
@@ -247,7 +249,5 @@ var NAVTREEINDEX479 =
 "structRE_1_1WORLD__MAP__OFFSET__DATA.html#af7d62e4edd903eeafab4de3a84943e5d":[5,0,0,1876,1],
 "structRE_1_1WORLD__MAP__OFFSET__DATA.html#af7d62e4edd903eeafab4de3a84943e5d":[4,0,0,1895,1],
 "structRE_1_1WORLD__MAP__OFFSET__DATA.html#af9fd27bb2c3ac9f435961642c8429516":[5,0,0,1876,3],
-"structRE_1_1WORLD__MAP__OFFSET__DATA.html#af9fd27bb2c3ac9f435961642c8429516":[4,0,0,1895,3],
-"structRE_1_1WaterShaderData.html":[5,0,0,1867],
-"structRE_1_1WaterShaderData.html":[4,0,0,1886]
+"structRE_1_1WORLD__MAP__OFFSET__DATA.html#af9fd27bb2c3ac9f435961642c8429516":[4,0,0,1895,3]
 };

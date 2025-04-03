@@ -1,5 +1,7 @@
 var NAVTREEINDEX463 =
 {
+"structRE_1_1OBJ__ARMA.html#af260677fdfdd21bc0c3925af6081fec3":[4,0,0,1551,2],
+"structRE_1_1OBJ__ARMA.html#af260677fdfdd21bc0c3925af6081fec3":[5,0,0,1532,2],
 "structRE_1_1OBJ__BOOK.html":[5,0,0,1533],
 "structRE_1_1OBJ__BOOK.html":[4,0,0,1552],
 "structRE_1_1OBJ__BOOK.html#a67a04d1c9382765fa55240860da192d7":[4,0,0,1552,4],
@@ -247,7 +249,5 @@ var NAVTREEINDEX463 =
 "structRE_1_1PACKAGE__DATA.html#af8e3f0c89291ea1221969c35c8fa3b25aeae865c5eadaa87b628f95d54264e523":[4,0,0,1565,1,5],
 "structRE_1_1PACKAGE__DATA.html#af8e3f0c89291ea1221969c35c8fa3b25aeae865c5eadaa87b628f95d54264e523":[5,0,0,1546,1,5],
 "structRE_1_1PACK__SCHED__DATA.html":[4,0,0,1564],
-"structRE_1_1PACK__SCHED__DATA.html":[5,0,0,1545],
-"structRE_1_1PACK__SCHED__DATA.html#a13d6ebcc935eeadb4be3a19c9d96cdfa":[5,0,0,1545,3],
-"structRE_1_1PACK__SCHED__DATA.html#a13d6ebcc935eeadb4be3a19c9d96cdfa":[4,0,0,1564,3]
+"structRE_1_1PACK__SCHED__DATA.html":[5,0,0,1545]
 };

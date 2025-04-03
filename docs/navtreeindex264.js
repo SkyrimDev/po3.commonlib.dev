@@ -1,5 +1,7 @@
 var NAVTREEINDEX264 =
 {
+"classRE_1_1ShadowSceneNode.html#a07e75440ed36a2f840935e43be81631e":[5,0,0,1647,51],
+"classRE_1_1ShadowSceneNode.html#a09c226e7edf228d2ecda13add8ab2ec5":[5,0,0,1647,11],
 "classRE_1_1ShadowSceneNode.html#a09c226e7edf228d2ecda13add8ab2ec5":[4,0,0,1666,11],
 "classRE_1_1ShadowSceneNode.html#a0aed4ee83daaabb73ac59dfa6a43d8d0":[5,0,0,1647,9],
 "classRE_1_1ShadowSceneNode.html#a0aed4ee83daaabb73ac59dfa6a43d8d0":[4,0,0,1666,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX264 =
 "classRE_1_1Sky.html#a20fa0b827803b821cda100beceac946e":[5,0,0,1654,29],
 "classRE_1_1Sky.html#a211c2aeeae96f491f6b7fbcbd44f6173":[4,0,0,1673,63],
 "classRE_1_1Sky.html#a211c2aeeae96f491f6b7fbcbd44f6173":[5,0,0,1654,63],
-"classRE_1_1Sky.html#a2399b8592f3dd6acdee95f8549497936":[5,0,0,1654,28],
-"classRE_1_1Sky.html#a2399b8592f3dd6acdee95f8549497936":[4,0,0,1673,28],
-"classRE_1_1Sky.html#a23d5c37cdab556c36d9a043f784b7848":[4,0,0,1673,14]
+"classRE_1_1Sky.html#a2399b8592f3dd6acdee95f8549497936":[5,0,0,1654,28]
 };

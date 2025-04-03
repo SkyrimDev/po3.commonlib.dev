@@ -1,5 +1,7 @@
 var NAVTREEINDEX402 =
 {
+"namespaceREX_1_1W32.html#adfb609c2782ed5b9194704de17e31569":[4,0,2,1,1042],
+"namespaceREX_1_1W32.html#ae0649905e729d39ebf3f1483a653078d":[4,0,2,1,428],
 "namespaceREX_1_1W32.html#ae0d42e4258701aa700ce869feaa3864d":[4,0,2,1,652],
 "namespaceREX_1_1W32.html#ae0f5e4b8530bb70ff105964a2a7d3326":[4,0,2,1,809],
 "namespaceREX_1_1W32.html#ae192caae8b4e2d38b31cd4808bc3a0e0":[4,0,2,1,1076],
@@ -247,7 +249,5 @@ var NAVTREEINDEX402 =
 "namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4ab059ef117d26d8294c036d39a5506569":[4,0,0,8,26,3],
 "namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4ac49963387d70f79ca0a5c6899652ed2b":[4,0,0,8,26,5],
 "namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4ae52c2066ca63eef7fada2eefb5c7f31c":[4,0,0,8,26,0],
-"namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917e":[4,0,0,8,22],
-"namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917ea013fcc7386a4a77e42c3783ca1a58658":[4,0,0,8,22,4],
-"namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917ea7b04d8795f5fd03c761ce70dab985fee":[4,0,0,8,22,0]
+"namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917e":[4,0,0,8,22]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX324 =
 {
+"hkbEvent_8h_source.html":[6,0,0,0,0,7,32],
+"hkbGenerator_8h.html":[6,0,0,0,0,7,34],
 "hkbGenerator_8h_source.html":[6,0,0,0,0,7,34],
 "hkbNode_8h.html":[6,0,0,0,0,7,35],
 "hkbNode_8h_source.html":[6,0,0,0,0,7,35],
@@ -247,7 +249,5 @@ var NAVTREEINDEX324 =
 "namespaceRE.html#a000a911a42401671566b5c39c7e887ae":[4,0,0,14355],
 "namespaceRE.html#a0011e37586c97684121d1bf1b5bd3e06":[4,0,0,16381],
 "namespaceRE.html#a001289ba48d5b2056cf382354a0131c7":[4,0,0,9093],
-"namespaceRE.html#a0017b61608bb5b5a190fda8c50de7d17":[4,0,0,17214],
-"namespaceRE.html#a0024b6dbc9a0c0a78ccf75a67ec4d9ee":[4,0,0,4761],
-"namespaceRE.html#a002f9c779a844ca9201c1da5952577de":[4,0,0,15873]
+"namespaceRE.html#a0017b61608bb5b5a190fda8c50de7d17":[4,0,0,17214]
 };
