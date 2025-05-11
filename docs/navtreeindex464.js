@@ -1,5 +1,7 @@
 var NAVTREEINDEX464 =
 {
+"structRE_1_1PACK__SCHED__DATA.html":[4,0,0,1564],
+"structRE_1_1PACK__SCHED__DATA.html":[5,0,0,1545],
 "structRE_1_1PACK__SCHED__DATA.html#a13d6ebcc935eeadb4be3a19c9d96cdfa":[5,0,0,1545,3],
 "structRE_1_1PACK__SCHED__DATA.html#a13d6ebcc935eeadb4be3a19c9d96cdfa":[4,0,0,1564,3],
 "structRE_1_1PACK__SCHED__DATA.html#a206f6a2b9db2a4e6da384f32f127bc0d":[5,0,0,1545,8],
@@ -247,7 +249,5 @@ var NAVTREEINDEX464 =
 "structRE_1_1PlayerCamera_1_1Unk120.html#a07a11ed6c412585488f707bd346454cc":[4,0,0,1585,0,0],
 "structRE_1_1PlayerCamera_1_1Unk120.html#a07a11ed6c412585488f707bd346454cc":[5,0,0,1566,0,0],
 "structRE_1_1PlayerCamera_1_1Unk120.html#a372fa103e2fba4874b61ce8be0e85002":[4,0,0,1585,0,1],
-"structRE_1_1PlayerCamera_1_1Unk120.html#a372fa103e2fba4874b61ce8be0e85002":[5,0,0,1566,0,1],
-"structRE_1_1PlayerCharacter_1_1PlayerFlags.html":[4,0,0,1587,0],
-"structRE_1_1PlayerCharacter_1_1PlayerFlags.html":[5,0,0,1568,0]
+"structRE_1_1PlayerCamera_1_1Unk120.html#a372fa103e2fba4874b61ce8be0e85002":[5,0,0,1566,0,1]
 };

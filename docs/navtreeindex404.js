@@ -1,5 +1,7 @@
 var NAVTREEINDEX404 =
 {
+"namespaceRE_1_1Movement.html":[4,0,0,27],
+"namespaceRE_1_1Movement.html#aa027537238297ea9eeae97a5a8c58137":[4,0,0,27,3],
 "namespaceRE_1_1Ni__Impl.html":[4,0,0,29],
 "namespaceRE_1_1Ni__Impl.html#a3fd2b5b5ce160adc2464301b54984d8f":[4,0,0,29,8],
 "namespaceRE_1_1Ni__Impl.html#a6674e7d6cb71a42327fcda1937cccfc4":[4,0,0,29,9],
@@ -247,7 +249,5 @@ var NAVTREEINDEX404 =
 "namespaceRE_1_1Offset_1_1Script.html#a788661609cfe4345e7f36b9317f67cf5":[4,0,0,30,72,1],
 "namespaceRE_1_1Offset_1_1Script.html#a9ccc1c065ee783f6edc0c9bfe00310c2":[4,0,0,30,72,2],
 "namespaceRE_1_1Offset_1_1SkyrimVM.html":[4,0,0,30,74],
-"namespaceRE_1_1Offset_1_1SkyrimVM.html#a2350fd4e59b421ac2f498f51e258c5ca":[4,0,0,30,74,2],
-"namespaceRE_1_1Offset_1_1SkyrimVM.html#a79f7254010539f6976cf2a875fb2f673":[4,0,0,30,74,1],
-"namespaceRE_1_1Offset_1_1SkyrimVM.html#a9032fd46ea9bb14e203974a9078568a9":[4,0,0,30,74,0]
+"namespaceRE_1_1Offset_1_1SkyrimVM.html#a2350fd4e59b421ac2f498f51e258c5ca":[4,0,0,30,74,2]
 };

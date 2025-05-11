@@ -501,7 +501,7 @@ var searchData=
   ['isspelltype_498',['isSpellType',['../structRE_1_1PermanentMagicFunctor.html#ac56063dba29de09f9876f92d56036194',1,'RE::PermanentMagicFunctor']]],
   ['issprinting_499',['issprinting',['../classRE_1_1FixedStrings.html#aec066375ebb1c5e74bf191877fd3fd66',1,'RE::FixedStrings::isSprinting'],['../structRE_1_1PlayerCharacter_1_1PlayerFlags.html#acf385b16ab1cc1c9bfb85fecbd7ded64',1,'RE::PlayerCharacter::PlayerFlags::isSprinting']]],
   ['isstatic_500',['isStatic',['../classRE_1_1BSScript_1_1Internal_1_1ScriptFunction.html#a417b24357b80a30a1aa576a5f9f16e66',1,'RE::BSScript::Internal::ScriptFunction']]],
-  ['issungazing_501',['issungazing',['../structRE_1_1TESPlayerBowShotEvent.html#a9675a4f14310da35ee8c22e11d72c1d2',1,'RE::TESPlayerBowShotEvent::isSunGazing'],['../structRE_1_1PlayerCharacter_1_1PlayerFlags.html#a25b3ae812aadd890887fedb4630aaac0',1,'RE::PlayerCharacter::PlayerFlags::isSungazing']]],
+  ['issungazing_501',['issungazing',['../structRE_1_1PlayerCharacter_1_1PlayerFlags.html#a25b3ae812aadd890887fedb4630aaac0',1,'RE::PlayerCharacter::PlayerFlags::isSungazing'],['../structRE_1_1TESPlayerBowShotEvent.html#a9675a4f14310da35ee8c22e11d72c1d2',1,'RE::TESPlayerBowShotEvent::isSunGazing']]],
   ['istr_502',['iStr',['../classRE_1_1NiStream.html#aca373f011fd2d3d3dcf8139eeec522cb',1,'RE::NiStream']]],
   ['isupdated_503',['isUpdated',['../classRE_1_1BSFaceGenKeyframeMultiple.html#a55030fec100748e1a720fa17047bdae7',1,'RE::BSFaceGenKeyframeMultiple']]],
   ['isvalid_504',['isValid',['../classRE_1_1PLAYER__TARGET__LOC.html#a46e038567091b048f90a55b6ac804150',1,'RE::PLAYER_TARGET_LOC']]],

@@ -1,5 +1,7 @@
 var NAVTREEINDEX405 =
 {
+"namespaceRE_1_1Offset_1_1SkyrimVM.html#a79f7254010539f6976cf2a875fb2f673":[4,0,0,30,74,1],
+"namespaceRE_1_1Offset_1_1SkyrimVM.html#a9032fd46ea9bb14e203974a9078568a9":[4,0,0,30,74,0],
 "namespaceRE_1_1Offset_1_1TES.html":[4,0,0,30,75],
 "namespaceRE_1_1Offset_1_1TES.html#ab14463621276b3b4c081df1556aecfc2":[4,0,0,30,75,0],
 "namespaceRE_1_1Offset_1_1TESCamera.html":[4,0,0,30,76],
@@ -247,7 +249,5 @@ var NAVTREEINDEX405 =
 "namespacemembers_func_c.html":[4,1,1,3],
 "namespacemembers_func_d.html":[4,1,1,4],
 "namespacemembers_func_e.html":[4,1,1,5],
-"namespacemembers_func_f.html":[4,1,1,6],
-"namespacemembers_func_g.html":[4,1,1,7],
-"namespacemembers_func_h.html":[4,1,1,8]
+"namespacemembers_func_f.html":[4,1,1,6]
 };

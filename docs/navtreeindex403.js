@@ -1,5 +1,7 @@
 var NAVTREEINDEX403 =
 {
+"namespaceRE_1_1BSGraphics.html#a6006d42bfc5683742cf9ddc649b552d4ae52c2066ca63eef7fada2eefb5c7f31c":[4,0,0,8,26,0],
+"namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917e":[4,0,0,8,22],
 "namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917ea013fcc7386a4a77e42c3783ca1a58658":[4,0,0,8,22,4],
 "namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917ea7b04d8795f5fd03c761ce70dab985fee":[4,0,0,8,22,0],
 "namespaceRE_1_1BSGraphics.html#a647a2a8a3da224b0eaccff0c105a917eaa911496266a5f7555ac2d2a205ceb4a7":[4,0,0,8,22,1],
@@ -247,7 +249,5 @@ var NAVTREEINDEX403 =
 "namespaceRE_1_1MagicUtilities.html#ad4abe438c5a422311d4c4c782cd9db0a":[4,0,0,25,2],
 "namespaceRE_1_1MagicUtilities.html#adf25d3d7131d44fb9aa0ad62a7236dc6":[4,0,0,25,0],
 "namespaceRE_1_1MagicUtilities.html#ae64368bf060f65e005623f801bbcea85":[4,0,0,25,1],
-"namespaceRE_1_1MapCameraStates.html":[4,0,0,26],
-"namespaceRE_1_1Movement.html":[4,0,0,27],
-"namespaceRE_1_1Movement.html#aa027537238297ea9eeae97a5a8c58137":[4,0,0,27,3]
+"namespaceRE_1_1MapCameraStates.html":[4,0,0,26]
 };

@@ -1,5 +1,7 @@
 var NAVTREEINDEX486 =
 {
+"structSKSE_1_1detail_1_1SKSEPapyrusInterface.html#a74d07bce7ab78e9ab4cbb792093bb31e":[4,0,3,0,4,0],
+"structSKSE_1_1detail_1_1SKSEPapyrusInterface.html#a74d07bce7ab78e9ab4cbb792093bb31e":[5,0,3,0,4,0],
 "structSKSE_1_1detail_1_1SKSEScaleformInterface.html":[4,0,3,0,5],
 "structSKSE_1_1detail_1_1SKSEScaleformInterface.html":[5,0,3,0,5],
 "structSKSE_1_1detail_1_1SKSEScaleformInterface.html#a50dad5718de12e847202cf5079d5e46f":[5,0,3,0,5,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX486 =
 "unionRE_1_1GColor_1_1ColorData.html#a721fb97d98d37d267906e5bfef192437":[5,0,0,932,0,1],
 "unionRE_1_1GColor_1_1ColorData.html#a721fb97d98d37d267906e5bfef192437":[4,0,0,951,0,1],
 "unionRE_1_1GColor_1_1ColorData.html#ad7700d9141365c63223313605b92a334":[4,0,0,951,0,0],
-"unionRE_1_1GColor_1_1ColorData.html#ad7700d9141365c63223313605b92a334":[5,0,0,932,0,0],
-"unionRE_1_1GFxResourceSource_1_1ResourceUnion.html":[5,0,0,995,1],
-"unionRE_1_1GFxResourceSource_1_1ResourceUnion.html":[4,0,0,1014,1]
+"unionRE_1_1GColor_1_1ColorData.html#ad7700d9141365c63223313605b92a334":[5,0,0,932,0,0]
 };

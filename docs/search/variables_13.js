@@ -680,7 +680,7 @@ var searchData=
   ['subtitle_677',['subtitle',['../structRE_1_1SubtitleInfo.html#aefdaaf5b1594c99cad47d9bd462147fa',1,'RE::SubtitleInfo']]],
   ['subtitles_678',['subtitles',['../classRE_1_1SubtitleManager.html#a65a867fa53720aefeffd7837c712f85d',1,'RE::SubtitleManager']]],
   ['subtitlespeechdelay_679',['subtitleSpeechDelay',['../classRE_1_1ExtraSayToTopicInfo.html#a16e777557afb2fd0082955347f83b7ac',1,'RE::ExtraSayToTopicInfo']]],
-  ['subtype_680',['subtype',['../structRE_1_1DIALOGUE__DATA.html#aeb05c9a6e335f1bb0fc5147802c81fc4',1,'RE::DIALOGUE_DATA::subtype'],['../structREX_1_1W32_1_1XINPUT__CAPABILITIES.html#adc21fbb70534b0ff38710e7d6f973abd',1,'REX::W32::XINPUT_CAPABILITIES::subType']]],
+  ['subtype_680',['subtype',['../structREX_1_1W32_1_1XINPUT__CAPABILITIES.html#adc21fbb70534b0ff38710e7d6f973abd',1,'REX::W32::XINPUT_CAPABILITIES::subType'],['../structRE_1_1DIALOGUE__DATA.html#aeb05c9a6e335f1bb0fc5147802c81fc4',1,'RE::DIALOGUE_DATA::subtype']]],
   ['summary_681',['summary',['../classRE_1_1TESFile.html#a3034c629880d49e0661a680c901fbaa5',1,'RE::TESFile']]],
   ['summonedcreature_682',['summonedCreature',['../structRE_1_1MiddleHighProcessData.html#ae0a0e2d5979b4119c21f3572a8d2f847',1,'RE::MiddleHighProcessData']]],
   ['summonplacementeffect_683',['summonPlacementEffect',['../classRE_1_1SummonCreatureEffect.html#ab621cb05b3cfbe0133917413522cda1e',1,'RE::SummonCreatureEffect']]],

@@ -28,6 +28,7 @@ var classRE_1_1Sky =
     [ "GetSunriseEnd", "classRE_1_1Sky.html#a7529887cc8b089fce2ee454bf6f660c2", null ],
     [ "GetSunsetBegin", "classRE_1_1Sky.html#abafa0dca458695e73cc9e408e49e6372", null ],
     [ "GetSunsetEnd", "classRE_1_1Sky.html#a4df2d62b0d643da5afbc23422e2a8175", null ],
+    [ "IsDaytime", "classRE_1_1Sky.html#a782b28473d5b98d377c9400aa92bbe8e", null ],
     [ "IsRaining", "classRE_1_1Sky.html#abd9b521679611fcac4c94455f83a1a26", null ],
     [ "IsSnowing", "classRE_1_1Sky.html#a6dc7e739cc2bd1ddb1b126e6c7348f03", null ],
     [ "ReleaseWeatherOverride", "classRE_1_1Sky.html#a0787f97a3ae58da100f6ea8c7aff95ac", null ],
